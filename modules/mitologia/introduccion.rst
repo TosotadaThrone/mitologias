@@ -63,7 +63,7 @@ Contexto Histórico
 
 .. note::
     Este contexto histórico forma parte de un artículo (también incluído
-    parcialmente) Tor Åge Bringsværd de en esta documentación.
+    parcialmente en esta documentación) de Tor Åge Bringsværd.
 
 La ruta del Norte – Norway, Norwegen, Noruega – siempre se ha
 considerado difícil de encontrar, ardua de recorrer y llena de peligros

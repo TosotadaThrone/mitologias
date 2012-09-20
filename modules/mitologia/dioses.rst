@@ -5,7 +5,7 @@ En la mitología escandinava, los dioses se dividen en dos grupos
 claramente diferenciados: los Ases (Aesir) y los Vanes (Vanir). Había un
 tercer grupo de dioses, los wan, pero se sabe muy poco de ellos.
 
-.. _Aesir::
+.. _Aesir:
 
 Ases (Asir, Aesir, Æsir, Asas)
 -------------------------------
@@ -18,7 +18,7 @@ Ases estaban compuestos por treinta y dos divinidades. Su jefe era
 :ref:`Odín`, y otros dioses principales eran :ref:`Thor`, :ref:`Freyr`, :ref:`Tyr`,
 :ref:`Heimdall`, :ref:`Vidar` y :ref:`Hodur`.
 
-Todos estos dioses descendían de :ref:`Odín` o de sus hijos. Se Trataba de una
+Todos estos dioses descendían de :ref:`Odin` o de sus hijos. Se Trataba de una
 casta de dioses superiores, habitantes de la sagrada ciudad de :ref:`Asgard`. Eran
 los dioses de un pueblo ario invasor, guerrero y patriarcal que se
 superpuso a una población prearia que adoraba a los :ref:`Vanes`. A los Ases se
@@ -31,11 +31,11 @@ Los Ases habían tenido un comienzo y, por tanto, debían tener un fin.
 Habían nacido de una mezcla de elementos divino y mortales y su
 naturaleza era imperfecta y estaban destinados a morir para obtener la
 inmortalidad espiritual. Entre los Ases hay dos vanes poderosos, como
-son Njörd y su hijo Frey, otorgadores de riqueza, protectores de la
+son :ref:`Njörd` y su hijo Frey, otorgadores de riqueza, protectores de la
 navegación y garantes de los juramentos. Aunque no son Ases se les puede
 considerar como tal.
 
-.. _Vanir::
+.. _Vanir:
 
 Vanes (Vanir)
 -----------------
@@ -50,12 +50,12 @@ la paz, con el amor y la riqueza, el comercio, etc.
 
 Los Vanes están más enfocados a las necesidades de los mortales, a los que
 proporcionan todas estas virtudes. Entre los Vanes destacan
-:ref:`Njörd` y sus hijos :ref:`Frey` y :ref:`Freya`. También
+:ref:`Njörd` y sus hijos :ref:`Freyr` y :ref:`Freya`. También
 eran divinidades de los campos y de los prados; de los bosques, de la
 luz y de la fecundidad de la tierra.
 
 En la familia de los Vanes tenían a una bruja horrible, llamada
-Gullveig. Esta bruja solía visitar el Asgard y allí comentaba con Odín
+Gullveig. Esta bruja solía visitar el Asgard y allí comentaba con :ref:`Odín`
 su irrefrenable ansia de poseer oro y la terrible avaricia que la
 corroía. Llegó a un extremo que los Ases la odiaron y desearon su
 muerte, tanto les repugnaba el deseo de Gullveig de poseer riquezas.
@@ -66,25 +66,25 @@ asesinarla hasta que, cansados ya y viendo que su destrución era
 imposible, le cambiaron el nombre por Heith (brillante) cuando renació
 por tercera vez y la dejaron vivir, convertida en diosa de las brujas.
 
-Cuando esta noticia llego a Vanaheim, todos los Vanes se mostraron
+Cuando esta noticia llego a :ref:`Vanaheim`, todos los Vanes se mostraron
 furiosos por la poca consideración que se tuvo con su pariente Gullveig
 y su transformación en diosa de las brujas tras su martirio. De modo que
-declararon la guerra a los Aesir.
+declararon la guerra a los :ref:`Aesir`.
 
 Esta guerra se extendió por un largo periodo de tiempo, nunca un bando
 estaba más adelantado que otro y parecía que no iba a tener fin, pues
 los Ases eran diestros en el manejo de las armas y la lucha, pero los
 Vanes conocían la magia. Finalmente las familias de dioses decidieron
 una tregua que pusiera paz entre ambos. Para asegurar el cumplimiento de
-este tratado se intercambiaron rehenes entre ellos. Los Aesir ofrecieron
-al hermano de :ref:`Odín`, :ref:Vili y al sabio dios Mimir.
+este tratado se intercambiaron rehenes entre ellos. Los :ref:`Aesir ` ofrecieron
+al hermano de :ref:`Odin`, :ref:`Vili` y al sabio dios Mimir.
 
 Los Vanir a cambio debían dejar a cargo de los Aesir
-al dios :ref:Njord y sus mellizos :ref:`Freyr` y :ref:`Freya`.
+al dios :ref:`Njord` y sus mellizos :ref:`Freyr` y :ref:`Freya`.
 
 Por último sellaron estas decisiones escupiendo todos en un cubo como
 signo de amistad; esta saliva se mezcló con hidromiel y de ella surgio
-Kvasir, el dios de la sabiduría y los consejos, mitad Aesir y mitad
+Kvasir, el dios de la sabiduría y los consejos, mitad :ref:`Aesir ` y mitad
 Vanir, que conocía la respuesta a todo.
 
 Entre los dioses más importantes y relevantes en la mitología nórdica se
@@ -94,7 +94,7 @@ Existen multitud de otros dioses y diosas de menor aparición en las
 Eddas, o de menor importancia, como pueden ser Eisa y Einmyria,
 diosas de las brasas y de las cenizas, son las hijas de :ref:`Loki` y Glut.
 
-.. _Gunnur::
+.. _Gunnur:
 
 Gunnur
 ---------
@@ -102,19 +102,19 @@ Gunnur
 Diosa que presidía los combates y daba de beber a los guerreros en el
 :ref:`Valhalla`.
 
-.. _Hoenir::
+.. _Hoenir:
 
 Hoenir
 ----------
 
 Aunque estaba considerado un As, en realidad pertenecía a la raza de los
-Vanes.Era compañero de Odín y de Loki en sus correrías por el mundo. Fue
+Vanes.Era compañero de :ref:`Odín` y de :ref:`Loki` en sus correrías por el mundo. Fue
 él quién concedió un alma a la primera pareja de mortales. Pasaba por
 ser hermoso, robusto, pero limitado de entendimiento. Por eso cuando los
 Vanes le entregaron a los Ases como rehén, fue acompañado de Mimir, que
 era muy sabio. Desde entonces vivió con los Ases.
 
-.. _Idun::
+.. _Idun:
 
 Idun (Idunn)
 ----------------
@@ -122,45 +122,39 @@ Idun (Idunn)
 Diosa que guardaba las manzanas mágicas de la juventud. Los dioses las
 comían para no envejecer.
 
-.. _Modi::
+.. _Modi:
 
 Modi
 ----------------
 
 Dios de la cólera.
 
-Era hijo de :ref:`Thor`  y
-de :ref:Sif, y hermano
-de Magni. Heredó el martillo de su padre, y fue uno de los dioses que
-volvió a la vida tras
-:ref:Ragnarök, por
-haber sido un dios recto y ejemplar.
+Era hijo de :ref:`Thor` y de :ref:Sif, y hermano de Magni. Heredó el martillo de su padre,
+y fue uno de los dioses que volvió a la vida tras :ref:`Ragnarök`, por haber sido un dios 
+recto y ejemplar.
 
 Nossa y Gerseme
 ----------------
 
-Hijas de Oder y Freya. Tal era la belleza de ambas que llevaron sus
+Hijas de Oder y :ref:`Freya`. Tal era la belleza de ambas que llevaron sus
 nombre todas las joyas y piedras preciosas.
 
-.. _Vali::
+.. _Vali:
 
 Vali
 ----------------
 
-Hijo de Odín con una giganta. Fue una creación de los Escaldos. Se vengó
-de
-Hodur poniéndole
-sobre una hoguera por haber matado a
-:ref:Balder.
+Hijo de :ref:`Odín` con una giganta. Fue una creación de los Escaldos. Se vengó
+de Hodur poniéndole sobre una hoguera por haber matado a :ref:`Balder`.
 
-.. _Aegir::
+.. _Aegir:
 
 Aegir
 ----------------
 
 Era el dios de los océanos y de los vientos.
 
-No era ni de la raza de los Ases ni de la de los Vanes, por eso hay
+No era ni de la raza de los Ases ni de la de los :ref:`Vanir`, por eso hay
 algunos que lo encuadran en la de los gigantes.
 
 Junto a su esposa Ran la sustraedora, se dedicaba a hundir las
@@ -170,30 +164,28 @@ donde los acogía con magnificencia y les obsequiaba con los mejores
 manjares.
 
 Al no ser de ninguna de las dos razas divinas, se piensa que existió
-antes de su aparición, y perdurará al ocaso de éstas. Ran y Aegir
+antes de su aparición, y perdurará al ocaso de éstas. Ran y :ref:`Aegir`
 tuvieron nueve hijas: las diosas que personificaban a las olas del mar.
 
-.. _Balder::
+.. _Balder:
 
 Balder
 ----------------
 
-Balder era el dios de la luz y de la verdad. El más sabio de los Ases.
+:ref:`Balder` era el dios de la luz y de la verdad. El más sabio de los Ases.
 
 Su melena rubia simbolizaba los rayos del sol, que daban el espíritu
 bondadoso del verano a los hombres. Era un dios muy querido, y por ello
-se pensaba que después del Ragnarök sustituiría a
-:ref:`Odín` en el trono
-de los Ases
+se pensaba que después del :ref:`Ragnarök` sustituiría a
+:ref:`Odin` en el trono de los :ref:`Aesir`.
 
 Figura de característica bondad, gentileza, inteligencia e inocencia,
-Era hijo de Odín y
-:ref:Frigga y esposo
+Era hijo de :ref:`Odín` y :ref:`Frigga` y esposo
 de Nanna. Era muy bondadoso, gentil e inteligente. Vivía en Breidablik,
 un palacio con el techo de oro y las columnas de plata
 
-Balder sufría pesadillas y tenía miedo de morir, pero su madre hizo
-jurar a todos y a todo que nadie jamás le haría daño, y así Balder se
+:ref:`Balder` sufría pesadillas y tenía miedo de morir, pero su madre hizo
+jurar a todos y a todo que nadie jamás le haría daño, y así :ref:`Balder` se
 hizo invulnerable, ya no se le podía matar o herir. Para demostrárselo,
 los dioses estando en una fiesta, comenzaron a lanzarle todos los
 objetos que encontraban, incluso sus propias armas, sin que nada le
@@ -206,18 +198,18 @@ joven, pequeño e insignificante, no lo consideró peligroso para Balder.
 
 Loki le instigó al dios ciego
 :ref:Hodur, el hermano
-gemelo de Balder para que lo matase. El único dios de Asgard que nunca
-había jugado al juego de agredir a Balder era Hodur, porque era ciego.
+gemelo de :ref:`Balder` para que lo matase. El único dios de Asgard que nunca
+había jugado al juego de agredir a :ref:`Balder` era Hodur, porque era ciego.
 Loki le dio una flecha hecha de muérdago, y le dijo a Hodur que jugase
 al juego. Hodur, como no veía lo que hacía, le tiro la flecha a su
 hermano, hiriéndole de muerte. Frigg preguntó a los dioses que si alguno
 de ellos quería bajar al mundo de los muertos, para tratar de convencer
 a :ref:Hel de que les
 devolviese a su hijo. Los dioses enviaron un jinete a Hel para que
-Balder pudiese regresar del reino de los muertos: Hermod bajó a por él.
-La diosa Hel dijo que Balder resucitaría si el mundo entero lloraba por
+:ref:`Balder` pudiese regresar del reino de los muertos: Hermod bajó a por él.
+La diosa Hel dijo que :ref:`Balder` resucitaría si el mundo entero lloraba por
 su muerte, y que si había un solo ser en el mundo que no quisiese el
-regreso de Balder entre los muertos, no podía hacerle regresar. Y todos
+regreso de :ref:`Balder` entre los muertos, no podía hacerle regresar. Y todos
 y todo, incluidos los objetos inanimados siguen intentando con sus
 lágrimas que resucite el dios muerto sin poder conseguirlo, porque una
 giganta llamada Thonkk que vivía en una cueva se negaba. Los dioses le
@@ -230,7 +222,7 @@ las fuerzas maléficas por otro, dando comienzo a
 influencia cristiana pudo ser la causa de la “resurrección” de Balder,
 ya que volvió después del Ragnarök.
 
-.. _Bragi::
+.. _Bragi:
 
 Bragi
 ----------------
@@ -239,11 +231,11 @@ Era el dios de la poesía y la música, por eso era muy estimado entre los
 bardos.
 
 Era esposo de Idun e hijo de
-:ref:`Odín` y de la
+:ref:`Odin` y de la
 giganta Gunlod. Se le representa como un anciano con un arpa de oro que
 toca melódicamente.
 
-En el Valhalla ofrecía a los que llegaban la copa de bienvenida,
+En el :ref:`Valhalla` ofrecía a los que llegaban la copa de bienvenida,
 agraciándoles después con sus canciones y versos durante el banquete
 vespertino.
 
@@ -251,7 +243,7 @@ En el siglo IX vivió un escaldo, Bragi Broddason, tan popular que a su
 muerte le deificaron y le casaron con la diosa Idun, siendo el origen
 real de este dios.
 
-.. _Freyr::
+.. _Freyr:
 
 Freyr
 ----------------
@@ -272,19 +264,19 @@ hinchaba siempre un viento favorable y que además podía plegarse y
 guardarse en el bolsillo cuando no se usaba.
 
 Freyr era hijo de
-:ref:Njörd y de la
-ogresa :ref:Skadi,
+:ref:`Njörd` y de la
+ogresa :ref:`Skadi`,
 hijo del mar y la montaña. Reinaba sobre Alvheim. Se casó con Gerda, una
 giganta hija de Gymir. Tenía una espada que se movía sola, que perdió en
 un combate, y un carro al que uncía un jabalí de oro. Cuando salía de
 noche todo se iluminaba a su alrededor.
 
-En el templo de Uppsala se le daba esta función: Cum ingenti priapo
+En el templo de :ref:`Uppsala ` se le daba esta función: Cum ingenti priapo
 (algo así como: con gran fuerza generatriz, gran potencia; al ser dios
 de la fertilidad de los campos seguramente se refiera a la fuerza
 renovadora de la naturaleza).
 
-.. _Frigga::
+.. _Frigga:
 
 Frigga
 ----------------
@@ -302,18 +294,18 @@ contra las desgracias futuras. Protectora también del Fuego Sagrado,
 conocedora y guardiana de los ritos mágicos, los cuales debían ser
 presididos por ella como Suprema Sacerdotisa.
 
-Esposa de :ref:`Odín`. Su
-nombre significa la bien amada, la esposa. Como esposa de Odín es la
+Esposa de :ref:`Odin`. Su
+nombre significa la bien amada, la esposa. Como esposa de :ref:`Odín` es la
 Reina de Asgard y la madre de los dioses. Era una diosa muy coqueta y
 seductora, lo que le llevó a no ser fiel a Odín, lo mismo que él tampoco
 se lo era a ella
 
-.. _Heimdall::
+.. _Heimdall:
 
 Heimdall
 ----------------
 
-Hijo de :ref:`Odín`.
+Hijo de :ref:`Odin`.
 Había nacido de nueve ogresas al principio de los tiempos. Al tener
 nueve madres, fue amamantado en abundancia, permitiéndole crecer en
 pocos días hasta su tamaño definitivo. Su aspecto era el de un dios
@@ -321,13 +313,13 @@ grande, hermoso, con dientes de oro. Era además la primera encarnación
 de Edda. Su nombre significaba el que lanza claros rayos.Era el guardián
 de los dioses, un dios de la luz.
 
-Vivía cerca de Himmelberget y vigilaba Bifröst. Heimdall casi no
+Vivía cerca de Himmelberget y vigilaba Bifröst. :ref:`Heimdall ` casi no
 necesitaba dormir y era capaz de ver en la oscuridad. Además su oído era
 prodigioso. El día final del mundo, tocará su trompa Gjallarhorn para
 llamar a los dioses a las armas en la última gran batalla. Tenía una
 espada llamada la cabeza de hombre y un caballo de crines relucientes.
 
-.. _Hel::
+.. _Hel:
 
 Hel
 ----------------
@@ -340,7 +332,7 @@ una doncella monstruosa, medio blanca y medio negra azulada. Su cara era
 lúgubre y su aspecto rezumaba maldad, la mitad de su cara era humana y
 la otra mitad era negra porque estaba vacía. Su cabeza caía hacia
 adelante. Sus poderes, que había recibido de
-:ref:`Odín`, se extendían
+:ref:`Odin`, se extendían
 a varios mundos. Atormentaba a los cobardes y a los que no han merecido
 el honor de vivir en Valhalla. Fue expulsada de Asgard por Odín, que la
 arrojó al norte para que creara el reino de Hel, sobre el cual le otorgó
@@ -351,7 +343,7 @@ Hel, donde llevaba una existencia triste y sombría. Eran las almas de
 los mortales que morían de vejez o de enfermedad, las de los niños y las
 de las mujeres. En su mundo subterráneo a veces permitió vivir a
 criaturas como el dragón Nidhug, que roía día y noche las raíces de
-Iggdrasil. También acogía en su palacio subterráneo a los héroes humanos
+:ref:`Yggdrasil`. También acogía en su palacio subterráneo a los héroes humanos
 y a los dioses cuando morían, allí eran servidos en los banquetes por
 las sirvientas de Hel. Su palacio se llama Frío de Cellisca, su azafata
 es Hambre, su cuchillo y tenedor, Carestía; Senilidad su esclava y
@@ -359,19 +351,19 @@ Chochez su sierva; su umbral Trampa, Postración su jergón y Palidez
 Desastrosa sus cortinas. El día de la Gran Batalla Final, Hel y su
 ejército de muertos combatirán contra los dioses.
 
-.. _Hodur::
+.. _Hodur:
 
 Hodur
 ----------------
 
-Dios de la oscuridad y del pecado. Era un dios ciego hijo de Odín y
-Frigga. Famoso por su fuerza. Murió a manos de Valen, otro hijo de Odín.
+Dios de la oscuridad y del pecado. Era un dios ciego hijo de :ref:`Odín` y
+:ref:`Frigga`. Famoso por su fuerza. Murió a manos de Valen, otro hijo de :ref:`Odín`.
 Fue instigado por Loki para que matase al bondadoso Balder, su hermano,
 con una flecha de muérdago. Tras el Crepúsculo de los dioses resucitó y
 sobrevivió a todos los demás dioses, como dios del nuevo mundo
 regenerado que surgió.
 
-.. _Loki::
+.. _Loki:
 
 Loki
 ----------------
@@ -388,18 +380,13 @@ les involucrara en toda clase de dificultades de las cuales lograban
 salir sólo al precio de separarse de su virtud o la paz, y poco a poco
 le fueron permitiendo a Loki tener tal dominio sobre ellos, que no
 dudaba en robarles sus más preciadas posesiones: la pureza, o la
-inocencia, personificada por
-:ref:Balder` el
-bondadoso, etc…
+inocencia, personificada por :ref:Balder` el bondadoso, etc…
 
 Loki sera el comandante de los ejércitos de las tinieblas en la gran
-batalla del
-:ref:Ragnarök` , y
-combatira con
-:ref:Heimdall el
-guardián de Bifröst, donde ambos se darán muerte.
+batalla del :ref:Ragnarök` , y
+combatira con :ref::`Heimdall` el guardián de Bifröst, donde ambos se darán muerte.
 
-.. _Njörd::
+.. _Njörd:
 
 Njörd
 ----------------
@@ -407,11 +394,11 @@ Njörd
 Era el dios del verano. De la raza de los Vanes.
 
 Capaz de apaciguar los mares y los vientos. Como gobernador de los
-vientos y del mar cercano a la costa, se le concedió a Njörd el palacio
+vientos y del mar cercano a la costa, se le concedió a :ref:`Njörd` el palacio
 de Noatun, cerca de la costa, desde donde se dice, acallaba las
 terribles tempestades provocadas por
 :ref:Aegir`, el dios
-del mar profundo En Noatun, Njörd miraba el vuelo de las gaviotas y los
+del mar profundo En Noatun, :ref:`Njörd` miraba el vuelo de las gaviotas y los
 cisnes, sus aves preferidas que él consideraba sagrados. También
 empleaba muchas horas mirando a las focas. Le gustaba vivir al borde del
 mar. Se creía que otorgaba riquezas, protegía la navegación y
@@ -423,7 +410,7 @@ se le invocaba para que aquietaran las furiosas tormentas que azotaban
 las costas durante los meses invernales. También se le imploraba para
 que acelerara el calor primaveral, para así extinguir los fuegos del
 invierno. Ya que la agricultura se practicaba sólo durante los meses de
-verano, y principalmente entre los fiordos y ensenadas, Njörd también
+verano, y principalmente entre los fiordos y ensenadas, :ref:`Njörd` también
 era invocado para que favoreciera las cosechas.
 
 Era un dios benigno y se le representaba como un dios muy bien parecido,
@@ -431,19 +418,18 @@ joven, vestido con corta túnica verde, con un corona de conchas y algas
 sobre su cabeza o un sombrero de ala marrón adornado con plumas de
 águila o de garza.
 
-Padre de :ref:`Freyr` y
-:ref:`Freya``. Fue
-entregado a los Ases en el intercambio de rehenes que siguió al termino
+Padre de :ref:`Freyr` y :ref:`Freya``. Fue entregado a los Ases en el 
+intercambio de rehenes que siguió al termino
 de la lucha, con lo que se fue a vivir a Asgard y terminó siendo tomado
-por uno de los Ases. Tuvo dos esposas. La primera esposa de Njörd había
-sido su hermana Nerthus, la Madre Tierra. Sin embargo, Njörd se vio
+por uno de los Ases. Tuvo dos esposas. La primera esposa de :ref:`Njörd` había
+sido su hermana Nerthus, la Madre Tierra. Sin embargo, :ref:`Njörd` se vio
 obligado a separarse de ella cuando se le requirió en Asgard, donde pasó
 a ocupar uno de los once asientos de la gran sala de consejos, estando
 presente en todas las asambleas de los dioses, retirándose a Noatun sólo
 cuando los Ases no precisaban de sus servicios.
 
 Su segunda esposa fue
-:ref:Skadi, que
+:ref:`Skadi`, que
 prefería vivir en las montañas de Thrymheim. Njörd, ansioso por
 complacer a su esposa, consintió llevarla hasta Thrymheim y vivir allí
 con ella nueve noches de cada doce (los tres meses del verano nórdico y
@@ -462,10 +448,10 @@ Como nunca estaban de acuerdo, decidieron separarse para siempre,
 regresando ambos a sus respectivos hogares, donde cada uno podía
 realizar las tareas que solía realizar usualmente.
 
-.. _Odín::
+.. _Odín:
 
 Odín
-----------------
+------
 
 Originariamente era el dios de las tormentas nocturnas, jefe de las
 almas y de los aparecidos; función que conserva en las tradiciones que
@@ -486,7 +472,7 @@ reunir noticias de los hechos ocurridos en el mundo, eran la extensión
 de sus oídos y sus ojos.
 
 Tenia su corte en Valhalla. Se sentaba sobre Hlidskialf con Yggdrasil en
-el pedestal (Odín estaba relacionado con Yggdrasil, debido a su carácter
+el pedestal (:ref:`Odín` estaba relacionado con Yggdrasil, debido a su carácter
 chamánico), observando los nueve mundos (Yggdrasil también representaba
 el desprecio social a la inversión sexual).
 
@@ -502,46 +488,41 @@ Hertyr (dios de los guerreros), Sadr (el que dice la verdad), Sidskeggr
 (el de la larga barba), Valfader (el padre del campo de batalla), Yggr
 (el temible), etc.
 
-A Odín se le reconocían también tres propiedades: Sleipnir, su corcel de
-ocho patas; Gungnir, su lanza; y Draupnir, su anillo. Odín también
+A :ref:`Odín` se le reconocían también tres propiedades: Sleipnir, su corcel de
+ocho patas; Gungnir, su lanza; y Draupnir, su anillo. :ref:`Odín` también
 poseía dos lobos: Geri y Freki. Dentro de Asgard, donde cada dios poseía
-una gran mansión, Odín tenía tres, por ser el soberano de los dioses. La
-primera mansión de Odín era Valaskialf, en la que estaba la sala del
+una gran mansión, :ref:`Odín` tenía tres, por ser el soberano de los dioses. La
+primera mansión de :ref:`Odín` era Valaskialf, en la que estaba la sala del
 trono. La segunda era Gladsheim, en la que estaba la sala del Consejo de
-los dioses. La tercera y más hermosa era El Valhalla, en la que Odín
+los dioses. La tercera y más hermosa era El Valhalla, en la que :ref:`Odín`
 recibía a todos los guerreros muertos heroicamente y compartía con ellos
 banquetes y juegos de guerra.
 
-Odín tenía un solo ojo porque de joven había dejado el otro en prenda al
+:ref:`Odín` tenía un solo ojo porque de joven había dejado el otro en prenda al
 gigante Mimir a cambio del derecho a beber del delicioso manantial de la
 sabiduría. Esto hizo arraigar la leyenda de que era el dios del cielo,
-sucediendo a :ref:Tyr,
+sucediendo a :ref:`Tyr`,
 con su manto azul y su único ojo, el sol.
 
 Era hijo de los gigantes Bor y Bestla y hermano de los dioses Vile y Ve.
-Sus hijos fueron
-:ref:`Thor` ,
-:ref:Balder`, Vale,
-Vali y :ref:Vidar. Las
-tres mujeres de Odín eran diosas de la tierra y su hijo mayor era Thor.
-Además de
-:ref:Frigga, tuvo por
-esposas a Jord y a Rinda. Con Rindtuvo a su hijo Vali, que sobreviviría
-a :ref:Ragnarök`, y
-con Jord tuvo a Thor. Pero su favorita fue Frigga.
+Sus hijos fueron :ref:`Thor`, :ref:Balder`, Vale, Vali y Vidar. 
+
+Las tres mujeres de :ref:`Odín` eran diosas de la tierra y su hijo mayor era :ref:`Thor`.
+Además de :ref:Frigga, tuvo por esposas a Jord y a Rinda. Con Rindtuvo a 
+su hijo Vali, que sobreviviría
+a :ref:Ragnarök`, y con Jord tuvo a Thor. Pero su favorita fue Frigga.
 
 Además, dispensaba el don de la poesía hasta que en el siglo IX se
-inventó el dios
-:ref:Bragi, cumpliendo
-esta función. Robó al gigante Suttung el sentido poético, para dárselo a
+inventó el dios :ref:Bragi, cumpliendo esta función. Robó al gigante 
+Suttung el sentido poético, para dárselo a
 los dioses y a los hombres.
 
-Odín fue ahorcado en el árbol del mundo, (según el poema de Hávamál).
-Odín es el “señor de la Horca” y la “carga de la Horca” por este motivo,
-y además los sacrificios en honor a Odín se realizaban ahorcando al
+:ref:`Odín` fue ahorcado en el árbol del mundo, (según el poema de Hávamál).
+:ref:`Odín` es el “señor de la Horca” y la “carga de la Horca” por este motivo,
+y además los sacrificios en honor a :ref:`Odín` se realizaban ahorcando al
 hombre o animal sacrificado
 
-.. _Sif::
+.. _Sif:
 
 Sif
 ----------------
@@ -564,7 +545,7 @@ su pelo. Thor se enfadó con Loki y le obligó a reponer su mal. Loki
 convenció a los enanos a que fabricaran una nueva cabellera para Sif.
 Los enanos fabricaron para Sif una cabellera de oro puro.
 
-.. _Skadi::
+.. _Skadi:
 
 Skadi
 ----------------
@@ -572,7 +553,7 @@ Skadi
 Diosa del invierno.
 
 Hija del gigante Hrimthurs y esposa de
-:ref:Njörd. Era muy
+:ref:`Njörd`. Era muy
 hermosa. Tenía una armadura plateada, una reluciente lanza, y afiladas
 flechas. Llevaba un corto vestido de caza, polainas blancas de piel y
 anchas raquetas de nieve. Skadi era una grandísima arquera, y por eso se
@@ -606,7 +587,7 @@ descubrió con pesadumbre que había escogido a Njörd. A pesar de su
 decepción, ella pasó una feliz luna de miel en Asgard, donde todos
 parecían deleitarse en honrarla.
 
-Tras esto, Njörd llevó a su esposa a Noatun, donde el monótono sonido de
+Tras esto, :ref:`Njörd` llevó a su esposa a Noatun, donde el monótono sonido de
 las olas, los chillidos de la gaviotas y los gritos de las focas
 perturbaron tanto el sueño de Skadi que, finalmente, declaró que le era
 imposible permanecer allí más tiempo y le imploró a su esposo que la
@@ -621,14 +602,14 @@ rugido de las cascadas y el aullido de los lobos le resultaron a él tan
 insoportables como el mar le había parecido a su esposa y no quería más
 que llegase el momento de regresar a Noatun. Skadi se dedicó a la caza,
 dejando sus dominios sólo para casarse con
-:ref:`Odín`, con el que
+:ref:`Odin`, con el que
 tuvo un hijo, Seming, el primer rey de Noruega y el supuesto fundador de
 la estirpe real que gobernó el país durante mucho tiempo. Otras
 versiones dicen que Skadi terminó casándose con
 :ref:Ull, el dios del
 invierno.
 
-.. _Thor::
+.. _Thor:
 
 Thor
 ----------------
@@ -642,8 +623,7 @@ Representaba la juventud, el rayo ,el trueno, el fuego y era el
 protector de la arquitectura. Thor fue considerado como protector de la
 institución del matrimonio.
 
-Era el hijo primogénito de
-:ref:`Odín` y Jord.
+Era el hijo primogénito de :ref:`Odin` y Jord.
 Ocupaba el lugar central dentro del templo de Uppsala. Era el dios más
 popular y el más importante entre los nórdicos después de su padre.
 Lucho contra los gigantes para impedir que el frío y la oscuridad
@@ -656,18 +636,19 @@ Thor el cochero o el Trueno. Su símbolo era la cruz gamada.
 A Thor se le reconocían tres propiedades divinas que le permitían luchar
 contra los gigantes: La primera era el martillo Mjöllnir. Sus enemigos
 conocían cuando Thor alzaba Mjöllnir. El martillo mágico tenía la virtud
-de volver siempre a las manos de Thor. Además tenía la característica de
+de volver siempre a las manos de Thor. 
+
+Además tenía la característica de
 dar siempre en blanco. Mjöllnir podía encoger de tal manera que se podía
 disimular en cualquier sitio. La segunda propiedad era el cinturón de
 fuerza, Megingjardar. Cuando se lo abrochaba, su poder se duplicaba. La
 última propiedad eran sus guantes de hierro, ya que eran necesarios para
 poder portar a Mjöllnir. Thor tuvo dos esposas. La primera era una
 ogresa, Angerboda. Con ella engendró a Magni y a Modi, destinados a
-sobrevivir al
-:ref:Ragnarök`. La
-segunda esposa era
-:ref:Sif, con quien tuvo
-una hija Thrud. Hay versiones que dicen que fue con Sif y no con
+sobrevivir al :ref:Ragnarök`. 
+
+La segunda esposa era :ref:Sif, con quien tuvo una hija Thrud. 
+Hay versiones que dicen que fue con Sif y no con
 Angerboda con quien tuvo a sus dos hijos Magni y Modi.
 
 Viajaba en un carro tirado por dos machos cabríos, provocando los
@@ -677,10 +658,9 @@ Asgard, en una región llamada Thrudvang (El campo de Fuerza). Thor no
 quería cruzar el puente que unía Midgard con Asgard, porque Bifröst no
 podría soportar el calor de sus rayos y el estruendo de los truenos que
 causaba su carro. Thor murió en el
-:ref:Ragnarök`\ tras
-haber vencido y aplastado a la serpiente de Midgard.
+:ref:Ragnarök` tras haber vencido y aplastado a la serpiente de Midgard.
 
-.. _Tyr::
+.. _Tyr:
 
 Tyr
 ----------------
@@ -689,19 +669,18 @@ Dios del combate y del honor marcial y por lo tanto, dios del cielo y de
 la guerra. De la raza de los Ases.
 
 Dios antiguo oscurecido por la figura de
-:ref:`Thor` , por el cual
-perdió importancia en la era vikinga, ya que antes había sido uno de los
-dioses más populares. Era hijo de
-:ref:`Odín` y de
-:ref:Frigga <http://www23.brinkster.com/mitologiaweb/frigga.htm>:ref:_. Era el
-más valiente y emprendedor de los Ases, aunque no tan fuerte como Thor.
-Era musculoso y fuerte, aunque manco. Su nombre aparecía inscrito en las
+:ref:`Thor` , por el cual perdió importancia en la era vikinga, ya que 
+antes había sido uno de los dioses más populares. Era hijo de :ref:`Odin` 
+y de :ref:`Frigga`.
+
+Era el más valiente y emprendedor de los Ases, aunque no tan fuerte como 
+:ref:`Thor`. Era musculoso y fuerte, aunque manco. Su nombre aparecía inscrito en las
 espadas de los guerreros, para darles su fortaleza. Se le invocaba antes
 de las batallas puesto que era él quien otorgaba las victorias. Fue el
 que ató al Lobo Fenrir. Para conseguirlo, le tuvo que ofrecer una de sus
 manos para distraer a la bestia
 
-.. _Ull::
+.. _Ull:
 
 Ull
 ----------------
@@ -719,19 +698,18 @@ que incluso podía servir para cruzar el mar sobre él. Era cazador , y
 recorría las llanuras nevadas persiguiendo a la caza con la ayuda de
 unos zapatos especiales llamados ahora esquíes. Los Ases le escogieron
 para que durante un tiempo ocupase el puesto de Odín, ya que
-:ref:`Odín` fue
+:ref:`Odin` fue
 desterrado de Asgard por haber engañado a una joven. A los diez años de
-destierro, Odín volvió y expulsó a Ull.
+destierro, :ref:`Odín` volvió y expulsó a Ull.
 
-.. _Vidar::
+.. _Vidar:
 
 Vidar
 ----------------
 
-Era hijo de :ref:`Odín` y
+Era hijo de :ref:`Odin` y
 era llamado el As silencioso, pues apenas hablaba en las asambleas de
 los dioses. Creación de los Escaldos. Capaz de llevar a cabo azañas que
 no hubieran realizado otros dioses aparentemente más audaces. En la
-guerra entre los dioses y los gigantes superó al mismo Odín en fuerza,
-pues mató a Fenrir. Sobrevivió a
-:ref:Ragnarök`.
+guerra entre los dioses y los gigantes superó al mismo :ref:`Odín` en fuerza,
+pues mató a Fenrir. Sobrevivió a :ref:`Ragnarök`.
