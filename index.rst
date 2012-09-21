@@ -36,7 +36,7 @@ Mitología Nórdica
 
 
 Contacto
------------
+----------
 
 * Twitter: `@xalernita <http://twitter.com/xalernita>`_
 * Mail: `mitologia@imanol.me <mailto:mitologia@imanol.me>`_
