@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Bienvenido a Mitologias.net!
-==============================
+=============================
 
 Este proyecto pretende recopilar de una forma eficiente y ordenada información sobre
 la mitología nórdica y celta.
