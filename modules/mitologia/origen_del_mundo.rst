@@ -85,7 +85,7 @@ quedó imbuido de sentido y propósito.
 Creación de los distintos mundos
 ---------------------------------
 
-.. note::
+.. seealso::
     Esta sección se encuentra explicada más en detalle en "mundos"
 
 .. _Yggdrasil:

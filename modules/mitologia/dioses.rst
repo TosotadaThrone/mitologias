@@ -263,9 +263,7 @@ del viento. También era dueño de la nave mágica Skidbladnir, cuyas velas
 hinchaba siempre un viento favorable y que además podía plegarse y
 guardarse en el bolsillo cuando no se usaba.
 
-Freyr era hijo de
-:ref:`Njörd` y de la
-ogresa :ref:`Skadi`,
+Freyr era hijo de :ref:`Njörd` y de la ogresa :ref:`Skadi`,
 hijo del mar y la montaña. Reinaba sobre Alvheim. Se casó con Gerda, una
 giganta hija de Gymir. Tenía una espada que se movía sola, que perdió en
 un combate, y un carro al que uncía un jabalí de oro. Cuando salía de
@@ -275,6 +273,15 @@ En el templo de :ref:`Uppsala ` se le daba esta función: Cum ingenti priapo
 (algo así como: con gran fuerza generatriz, gran potencia; al ser dios
 de la fertilidad de los campos seguramente se refiera a la fuerza
 renovadora de la naturaleza).
+
+.. _Freya:
+
+Freya
+------
+Diosa del amor, la fertilidad, la lluvia y la fecundidad. Era la Diosa que
+enseñaba a los demás el arte de la magia, tenía una manta mágica de plumas con
+la que se transformaba en halcón y un collar llamado Brisingegamen. Montaba en
+un carro llevado por dos gatos. Lloraba con lágrimas de oro.
 
 .. _Frigga:
 
@@ -313,7 +320,7 @@ grande, hermoso, con dientes de oro. Era además la primera encarnación
 de Edda. Su nombre significaba el que lanza claros rayos.Era el guardián
 de los dioses, un dios de la luz.
 
-Vivía cerca de Himmelberget y vigilaba Bifröst. :ref:`Heimdall ` casi no
+Vivía cerca de Himmelberget y vigilaba Bifröst. :ref:`Heimdall` casi no
 necesitaba dormir y era capaz de ver en la oscuridad. Además su oído era
 prodigioso. El día final del mundo, tocará su trompa Gjallarhorn para
 llamar a los dioses a las armas en la última gran batalla. Tenía una
@@ -327,7 +334,7 @@ Hel
 Diosa de la muerte y de las tinieblas. Tercera hija de
 :ref:`Loki` y de la
 hechicera ogresa Angerboda. Vivía debajo de una de las tres raíces de
-Yggdrasil. Era la más temible de los tres hijos de Loki y Angerboda. Era
+:ref:`Yggdrasil`. Era la más temible de los tres hijos de Loki y Angerboda. Era
 una doncella monstruosa, medio blanca y medio negra azulada. Su cara era
 lúgubre y su aspecto rezumaba maldad, la mitad de su cara era humana y
 la otra mitad era negra porque estaba vacía. Su cabeza caía hacia
@@ -520,7 +527,15 @@ los dioses y a los hombres.
 :ref:`Odín` fue ahorcado en el árbol del mundo, (según el poema de Hávamál).
 :ref:`Odín` es el “señor de la Horca” y la “carga de la Horca” por este motivo,
 y además los sacrificios en honor a :ref:`Odín` se realizaban ahorcando al
-hombre o animal sacrificado
+hombre o animal sacrificado::
+
+    Hugin y Munin
+    vuelan cada día
+    por el vasto mundo.
+    Temo por Hugin
+    porque no vuelva más
+    y estoy más inquieto aún por Munin.
+
 
 .. _Sif:
 
