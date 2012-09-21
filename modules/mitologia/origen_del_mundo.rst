@@ -86,7 +86,7 @@ Creación de los distintos mundos
 ---------------------------------
 
 .. seealso::
-    Esta sección se encuentra explicada más en detalle en "mundos"
+    Esta sección se encuentra explicada más en detalle en :ref:`mundos`
 
 .. _Yggdrasil:
 

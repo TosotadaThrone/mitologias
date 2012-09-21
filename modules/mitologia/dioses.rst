@@ -62,7 +62,7 @@ muerte, tanto les repugnaba el deseo de Gullveig de poseer riquezas.
 Todos los dioses se unieron contra ella y la mataron, incinerando su
 cuerpo en una pira levantada en Gladsheim. Pero esta poderosa bruja
 resucitó y cada vez que volvía a levantarse, los dioses volvían a
-:ref:`Aesir`inarla hasta que, cansados ya y viendo que su destrución era
+:ref:`Aesir` inarla hasta que, cansados ya y viendo que su destrución era
 imposible, le cambiaron el nombre por Heith (brillante) cuando renació
 por tercera vez y la dejaron vivir, convertida en diosa de las brujas.
 
@@ -129,7 +129,7 @@ Modi
 
 Dios de la cólera.
 
-Era hijo de :ref:`Thor` y de :ref:Sif, y hermano de Magni. Heredó el martillo de su padre,
+Era hijo de :ref:`Thor` y de :ref:`Sif`, y hermano de Magni. Heredó el martillo de su padre,
 y fue uno de los dioses que volvió a la vida tras :ref:`Ragnarök`, por haber sido un dios
 recto y ejemplar.
 
@@ -190,37 +190,76 @@ hizo invulnerable, ya no se le podía matar o herir. Para demostrárselo,
 los dioses estando en una fiesta, comenzaron a lanzarle todos los
 objetos que encontraban, incluso sus propias armas, sin que nada le
 hiciese daño. Esto se convirtió en un juego para los dioses.
-:ref:`Loki` entonces le
-preguntó a su madre Frigga, que si de verdad había convencido a todos
-los seres de la tierra. Frigg le dijo que a todos menos al muérdago.
-Frigga olvidó o no quiso preguntar al muérdago porque, siendo demasiado
-joven, pequeño e insignificante, no lo consideró peligroso para Balder.
 
-Loki le instigó al dios ciego
-:ref:Hodur, el hermano
+Un día Balder tuvo un sueño que lo dejó muy preocupado y triste. Se narra así::
+
+    Todos los Ases vinieron rápidamente al consejo,
+    También las Asinas (Diosas), todos en cónclave,
+    todas las potencias meditaron
+    porque Balder estaba angustiado con sueños de mal agüero
+
+
+:ref:`Loki` entonces le preguntó a su madre Frigga, que si de verdad había
+convencido a todos los seres de la tierra. Frigg le dijo que a todos menos al
+muérdago.
+
+:ref:`Frigga` olvidó o no quiso preguntar al muérdago porque, siendo demasiado
+joven, pequeño e insignificante, no lo consideró peligroso para :ref:`Balder`.
+
+Loki le instigó al dios ciego :ref:`Hodur`, el hermano
 gemelo de :ref:`Balder` para que lo matase. El único dios de Asgard que nunca
 había jugado al juego de agredir a :ref:`Balder` era Hodur, porque era ciego.
 Loki le dio una flecha hecha de muérdago, y le dijo a Hodur que jugase
 al juego. Hodur, como no veía lo que hacía, le tiro la flecha a su
-hermano, hiriéndole de muerte. Frigg preguntó a los dioses que si alguno
+hermano, hiriéndole de muerte.
+
+.. image:: /images/balder.jpg
+    :align: center
+    :target: http://en.wikipedia.org/wiki/File:Each_arrow_overshot_his_head_by_Elmer_Boyd_Smith.jpg
+
+Frigg preguntó a los dioses que si alguno
 de ellos quería bajar al mundo de los muertos, para tratar de convencer
-a :ref:Hel de que les
-devolviese a su hijo. Los dioses enviaron un jinete a Hel para que
+a :ref:`Hel` de que les devolviese a su hijo. Los dioses enviaron un jinete a Hel
+para que
 :ref:`Balder` pudiese regresar del reino de los muertos: Hermod bajó a por él.
 La diosa Hel dijo que :ref:`Balder` resucitaría si el mundo entero lloraba por
 su muerte, y que si había un solo ser en el mundo que no quisiese el
-regreso de :ref:`Balder` entre los muertos, no podía hacerle regresar. Y todos
-y todo, incluidos los objetos inanimados siguen intentando con sus
+regreso de :ref:`Balder` entre los muertos, no podía hacerle regresar.
+
+Y todos y todo, incluidos los objetos inanimados siguen intentando con sus
 lágrimas que resucite el dios muerto sin poder conseguirlo, porque una
 giganta llamada Thonkk que vivía en una cueva se negaba. Los dioses le
-rogaron que accediera, pero ella dijo que nunca recibió nada de Balder.
-Thonkk era Loki disfrazado.
+rogaron que accediera, pero ella dijo que nunca recibió nada de :ref:`Balder`.
+Thonkk era :ref:`Loki` disfrazado.
 
-Este :ref:`Aesir`inato originó la lucha entre los dioses por un lado y Loki y
-las fuerzas maléficas por otro, dando comienzo a
-:ref:Ragnarök. La
-influencia cristiana pudo ser la causa de la “resurrección” de Balder,
-ya que volvió después del Ragnarök.
+Este :ref:`Aesir` inato originó la lucha entre los dioses por un lado y
+:ref:`Loki` y las fuerzas maléficas por otro, dando comienzo a
+:ref:`Ragnarök`.
+
+La influencia cristiana pudo ser la causa de la “resurrección” de :ref:`Balder`,
+ya que volvió después del :ref:`Ragnarök`.
+
+.. _Foresti:
+
+Foresti
+--------
+
+Dios hijo de :ref:`Balder` y Nanna. Se encuentra a cargo de la asamblea de los
+dioses de la justicia su palabra es ley entre los dioses y los hombres,
+es el encargado de resolver disputas y a quien no respeté su palabra dará
+muerte.
+
+.. _Hermod:
+
+Hermod
+--------
+
+Era el Dios mensajero, hijo de :ref:`Odín` y de :ref:`Frigga`, era el más eficaz y veloz de
+los Dioses. A veces recorría el campo de batalla con la lanza de su padre, para
+alentar a los guerreros a seguir la lucha. En ocaciones también ayudaba a las
+:ref:`valkirias` a elegir a los guerreros que debían ser transportados al
+:ref:`Valhalla` a través del Bifrost. Su hazaña más notoria fue el viaje al reino de
+:ref:`mundo-Hel` para solicitar de regreso el alma de :ref:`Balder`.
 
 .. _Bragi:
 
@@ -230,8 +269,7 @@ Bragi
 Era el dios de la poesía y la música, por eso era muy estimado entre los
 bardos.
 
-Era esposo de Idun e hijo de
-:ref:`Odín` y de la
+Era esposo de Idun e hijo de :ref:`Odín` y de la
 giganta Gunlod. Se le representa como un anciano con un arpa de oro que
 toca melódicamente.
 
@@ -269,7 +307,7 @@ giganta hija de Gymir. Tenía una espada que se movía sola, que perdió en
 un combate, y un carro al que uncía un jabalí de oro. Cuando salía de
 noche todo se iluminaba a su alrededor.
 
-En el templo de :ref:`Uppsala ` se le daba esta función: Cum ingenti priapo
+En el templo de :ref:`Uppsala` se le daba esta función: Cum ingenti priapo
 (algo así como: con gran fuerza generatriz, gran potencia; al ser dios
 de la fertilidad de los campos seguramente se refiera a la fuerza
 renovadora de la naturaleza).
@@ -301,11 +339,23 @@ contra las desgracias futuras. Protectora también del Fuego Sagrado,
 conocedora y guardiana de los ritos mágicos, los cuales debían ser
 presididos por ella como Suprema Sacerdotisa.
 
+.. image:: /images/frigga.jpg
+    :align: center
+    :target: http://commons.wikimedia.org/wiki/File:FriggSpinning.jpg?uselang=es
+
 Esposa de :ref:`Odín`. Su
 nombre significa la bien amada, la esposa. Como esposa de :ref:`Odín` es la
-Reina de Asgard y la madre de los dioses. Era una diosa muy coqueta y
+Reina de :ref:`Asgard` y la madre de los dioses. Era una diosa muy coqueta y
 seductora, lo que le llevó a no ser fiel a Odín, lo mismo que él tampoco
 se lo era a ella
+
+.. _Eir:
+
+Eir
+----
+
+Diosa de la salud. Sirvienta de :ref:`Frigga`
+
 
 .. _Heimdall:
 
@@ -313,18 +363,38 @@ Heimdall
 ----------------
 
 Hijo de :ref:`Odín`.
+
 Había nacido de nueve ogresas al principio de los tiempos. Al tener
-nueve madres, fue amamantado en abundancia, permitiéndole crecer en
+nueve madres (hermanas entre sí), fue amamantado en abundancia, permitiéndole crecer en
 pocos días hasta su tamaño definitivo. Su aspecto era el de un dios
-grande, hermoso, con dientes de oro. Era además la primera encarnación
+grande, hermoso, con dientes de oro.
+
+Era además la primera encarnación
 de Edda. Su nombre significaba el que lanza claros rayos.Era el guardián
-de los dioses, un dios de la luz.
+de los dioses, un dios de la luz. Es el guardián del arcoiris Bifrost que va
+desde :ref:`Midgard` hasta :ref:`Asgard`, por lo que los Dioses lo dotaron de
+un gran oído y visión, puede ver a una distancia de más de 100 millas y puede
+oír crecer la lana en la espalda de una oveja. Era enemigo de Loki, ya que éste
+siempre se burlaba sin piedad de sus funciones de guardián y vigilante de los
+Dioses.
+
+
+.. image:: /images/heimdall.jpg
+    :align: center
 
 Vivía cerca de Himmelberget y vigilaba Bifröst. :ref:`Heimdall` casi no
-necesitaba dormir y era capaz de ver en la oscuridad. Además su oído era
-prodigioso. El día final del mundo, tocará su trompa Gjallarhorn para
-llamar a los dioses a las armas en la última gran batalla. Tenía una
-espada llamada la cabeza de hombre y un caballo de crines relucientes.
+necesitaba dormir y era capaz de ver en la oscuridad.
+
+Se dice que Heimdall tuvo tres hijos con la madre de la tierra, Thrall, de
+quien descenderan los esclavos, el segundo Churl, el señor de los hombres
+libres, y el tercero Jarl, de quien descienden todos los nobles.
+Heimdall  será quien anuncie la llegada del :ref:`Ragnarök` haciendo sonar su
+cuerno Gjallarhorn, el cual se oirá en todo el mundo, para
+llamar a los dioses a las armas en la última gran batalla.
+
+Tenía una espada llamada la cabeza de hombre y un caballo de crines
+relucientes.
+
 
 .. _Hel:
 
@@ -337,8 +407,9 @@ hechicera ogresa Angerboda. Vivía debajo de una de las tres raíces de
 :ref:`Yggdrasil`. Era la más temible de los tres hijos de Loki y Angerboda. Era
 una doncella monstruosa, medio blanca y medio negra azulada. Su cara era
 lúgubre y su aspecto rezumaba maldad, la mitad de su cara era humana y
-la otra mitad era negra porque estaba vacía. Su cabeza caía hacia
-adelante. Sus poderes, que había recibido de
+la otra mitad era negra porque estaba vacía.
+
+Su cabeza caía hacia adelante. Sus poderes, que había recibido de
 :ref:`Odín`, se extendían
 a varios mundos. Atormentaba a los cobardes y a los que no han merecido
 el honor de vivir en Valhalla. Fue expulsada de Asgard por Odín, que la
@@ -346,7 +417,9 @@ arrojó al norte para que creara el reino de Hel, sobre el cual le otorgó
 la autoridad de soberana. Era un mundo gris, frío y húmedo. Un país
 dilatado en el que sonaba el llanto y la queja, y sus patios eran muy
 anchos, como la muerte. Los que no morían en la batalla iban a parar a
-Hel, donde llevaba una existencia triste y sombría. Eran las almas de
+Hel, donde llevaba una existencia triste y sombría.
+
+Eran las almas de
 los mortales que morían de vejez o de enfermedad, las de los niños y las
 de las mujeres. En su mundo subterráneo a veces permitió vivir a
 criaturas como el dragón Nidhug, que roía día y noche las raíces de
@@ -387,11 +460,42 @@ les involucrara en toda clase de dificultades de las cuales lograban
 salir sólo al precio de separarse de su virtud o la paz, y poco a poco
 le fueron permitiendo a Loki tener tal dominio sobre ellos, que no
 dudaba en robarles sus más preciadas posesiones: la pureza, o la
-inocencia, personificada por :ref:Balder` el bondadoso, etc…
+inocencia, personificada por :ref:`Balder` el bondadoso, etc…
+
+Su mujer Sigyn recogía en una copa las gotas de veneno que continuamente caían
+sobre su cara. Pero cada vez que vaciaba la copa, le llegaban a caer algunas
+gotas, lo que le producía unos dolores tremendos. Cuando se retorcía de dolor,
+la tierra temblaba.
+
+Una vez iban a construir un muro alrededor de :ref:`Asgard`. Se ofreció un
+gigante para construirlo a cambio de la diosa :ref:`Freya`, más el sol
+y la luna. Los dioses aceptaron con tal que acabara el muro en 6 meses, tal
+como les había aconsejado :ref:`Loki`. El gigante aceptó a condición de que le dejasen
+utilizar su caballo Svadilfare. El proyecto comenzó y avanzó muy de prisa.
+
+Al estar a punto de cumplirse los 6 meses, los dioses empezaron a preocuparse.
+No querían perder a :ref:`Freya`, ni al sol y a la luna, y exigieron a :ref:`Loki` que
+buscara una solución. :ref:`Loki` se convirtió en una yegua que distrajo al caballo
+Svadilfare, sin el cual el gigante fue incapaz de cumplir el plazo.
+
+Luego :ref:`Loki` dio a luz a un caballo con ocho piernas y se lo regaló a :ref:`Odín`, quien
+lo llamó :ref:`Sleipnir`.
+
+Con la giganta Angerbode tuvo tres monstruos, los más
+terribles del universo: Fenrisulven (el lobo :ref:`Fenrir`), Midgardsormen
+(la serpiente Midgard) y :ref:`Hel`, la reina del infierno.
 
 Loki sera el comandante de los ejércitos de las tinieblas en la gran
-batalla del :ref:Ragnarök` , y
-combatira con :ref::`Heimdall` el guardián de Bifröst, donde ambos se darán muerte.
+batalla del :ref:`Ragnarök` , y combatira con :ref:`Heimdall` el guardián de
+Bifröst, donde ambos se darán muerte.
+
+.. _Jörd:
+
+Jörd
+------
+
+Diosa de de la tierra, hija de Nat, esposa de :ref:`Odín`.
+
 
 .. _Njörd:
 
@@ -404,7 +508,7 @@ Capaz de apaciguar los mares y los vientos. Como gobernador de los
 vientos y del mar cercano a la costa, se le concedió a :ref:`Njörd` el palacio
 de Noatun, cerca de la costa, desde donde se dice, acallaba las
 terribles tempestades provocadas por
-:ref:Aegir`, el dios
+:ref:`Aegir`, el dios
 del mar profundo En Noatun, :ref:`Njörd` miraba el vuelo de las gaviotas y los
 cisnes, sus aves preferidas que él consideraba sagrados. También
 empleaba muchas horas mirando a las focas. Le gustaba vivir al borde del
@@ -495,7 +599,15 @@ Hertyr (dios de los guerreros), Sadr (el que dice la verdad), Sidskeggr
 (el de la larga barba), Valfader (el padre del campo de batalla), Yggr
 (el temible), etc.
 
-A :ref:`Odín` se le reconocían también tres propiedades: Sleipnir, su corcel de
+.. image:: /images/odin.jpg
+    :width: 1832 px
+    :height: 1762px
+    :align: center
+    :alt: Odín
+    :scale: 30 %
+    :target: http://es.wikipedia.org/wiki/Archivo:Odin_(Manual_of_Mythology).jpg
+
+A :ref:`Odín` se le reconocían también tres propiedades: :ref:`Sleipnir`, su corcel de
 ocho patas; Gungnir, su lanza; y Draupnir, su anillo. :ref:`Odín` también
 poseía dos lobos: Geri y Freki. Dentro de Asgard, donde cada dios poseía
 una gran mansión, :ref:`Odín` tenía tres, por ser el soberano de los dioses. La
@@ -505,22 +617,33 @@ los dioses. La tercera y más hermosa era El Valhalla, en la que :ref:`Odín`
 recibía a todos los guerreros muertos heroicamente y compartía con ellos
 banquetes y juegos de guerra.
 
+Los lobos son Gere y Freke (Glotón y Voraz). Toda la carne que hay sobre la
+mesa :ref:`Odín` se la da a ellos, pues el no tiene necesidad de alimentarse.
+El vino le sirve como carne y bebida.::
+
+    Ger y Freke
+    Se nutren de alimentos de guerra,
+    padre triunfante de los ejercitos,
+    pues es solamente con vino
+    que Odín famoso en las armas
+    Se alimenta enternamente
+
+
 :ref:`Odín` tenía un solo ojo porque de joven había dejado el otro en prenda al
 gigante Mimir a cambio del derecho a beber del delicioso manantial de la
 sabiduría. Esto hizo arraigar la leyenda de que era el dios del cielo,
-sucediendo a :ref:`Tyr`,
-con su manto azul y su único ojo, el sol.
+sucediendo a :ref:`Tyr`, con su manto azul y su único ojo, el sol.
 
 Era hijo de los gigantes Bor y Bestla y hermano de los dioses Vile y Ve.
-Sus hijos fueron :ref:`Thor`, :ref:Balder`, Vale, Vali y Vidar.
+Sus hijos fueron :ref:`Thor`, :ref:`Balder`, :ref:`Vale`, :ref:`Vali` y :ref:`Vidar`.
 
 Las tres mujeres de :ref:`Odín` eran diosas de la tierra y su hijo mayor era :ref:`Thor`.
-Además de :ref:Frigga, tuvo por esposas a Jord y a Rinda. Con Rindtuvo a
+Además de :ref:`Frigga`, tuvo por esposas a Jord y a Rinda. Con Rindtuvo a
 su hijo Vali, que sobreviviría
-a :ref:Ragnarök`, y con Jord tuvo a Thor. Pero su favorita fue Frigga.
+a :ref:`Ragnarök`, y con Jord tuvo a Thor. Pero su favorita fue Frigga.
 
 Además, dispensaba el don de la poesía hasta que en el siglo IX se
-inventó el dios :ref:Bragi, cumpliendo esta función. Robó al gigante
+inventó el dios :ref:`Bragi`, cumpliendo esta función. Robó al gigante
 Suttung el sentido poético, para dárselo a
 los dioses y a los hombres.
 
@@ -587,7 +710,9 @@ relajaran en una sonrisa, el resto sería fácil. Para ello comenzó a
 hacer todo tipo de bromas. Atando un chivo a su cuerpo con una cuerda
 invisible, realizó una serie de bufonadas que después el chivo
 reprodujo. La visión era tan grotesca que todos los dioses rieron
-sonoramente, e incluso Skadi se vio forzada a sonreír. Aprovechándose de
+sonoramente, e incluso Skadi se vio forzada a sonreír.
+
+Aprovechándose de
 su mejor humor, los dioses apuntaron al firmamento donde los ojos del
 gigante brillarían como estrellas radiantes en el hemisferio Norte para
 mostrarle todos los respetos. Además le ofrecieron como esposo a
@@ -596,7 +721,7 @@ estuviera dispuesta a juzgar sus atractivos por sus pies desnudos. Con
 los ojos vendados, de manera que sólo pudiera ver los pies de los dioses
 que se encontraban en círculo, Skadi miró a su alrededor y su vista se
 posó sobre un par de hermosos pies. Estaba segura de que pertenecían a
-:ref:Balder`, que era
+:ref:`Balder`, que era
 el que ella quería como su elegido. Cuando se le quitó la venda,
 descubrió con pesadumbre que había escogido a Njörd. A pesar de su
 decepción, ella pasó una feliz luna de miel en Asgard, donde todos
@@ -621,7 +746,7 @@ dejando sus dominios sólo para casarse con
 tuvo un hijo, Seming, el primer rey de Noruega y el supuesto fundador de
 la estirpe real que gobernó el país durante mucho tiempo. Otras
 versiones dicen que Skadi terminó casándose con
-:ref:Ull, el dios del
+:ref:`Ull`, el dios del
 invierno.
 
 .. _Thor:
@@ -638,6 +763,10 @@ Representaba la juventud, el rayo ,el trueno, el fuego y era el
 protector de la arquitectura. Thor fue considerado como protector de la
 institución del matrimonio.
 
+.. image:: /images/thor.jpg
+    :align: center
+    :target: http://commons.wikimedia.org/wiki/File:Thor.jpg?uselang=es
+
 Era el hijo primogénito de :ref:`Odín` y Jord.
 Ocupaba el lugar central dentro del templo de Uppsala. Era el dios más
 popular y el más importante entre los nórdicos después de su padre.
@@ -648,21 +777,25 @@ pero sencillo que luchaba contra los gigantes, pues era gran guerrero,
 el mejor. También fue llamado Thor de los :ref:`Aesir` (Asa-Thor, Ása-Thór),
 Thor el cochero o el Trueno. Su símbolo era la cruz gamada.
 
-A Thor se le reconocían tres propiedades divinas que le permitían luchar
-contra los gigantes: La primera era el martillo Mjöllnir. Sus enemigos
-conocían cuando Thor alzaba Mjöllnir. El martillo mágico tenía la virtud
+A :ref:`Thor` se le reconocían tres propiedades divinas que le permitían luchar
+contra los gigantes: La primera era el martillo :ref:`Mjöllnir`. Sus enemigos
+conocían cuando :ref:`Thor` alzaba :ref:`Mjöllnir`. El martillo mágico tenía la virtud
 de volver siempre a las manos de Thor.
 
 Además tenía la característica de
-dar siempre en blanco. Mjöllnir podía encoger de tal manera que se podía
+dar siempre en blanco. :ref:`Mjöllnir` podía encoger de tal manera que se podía
 disimular en cualquier sitio. La segunda propiedad era el cinturón de
 fuerza, Megingjardar. Cuando se lo abrochaba, su poder se duplicaba. La
 última propiedad eran sus guantes de hierro, ya que eran necesarios para
-poder portar a Mjöllnir. Thor tuvo dos esposas. La primera era una
+poder portar a :ref:`Mjöllnir`. Thor tuvo dos esposas. La primera era una
 ogresa, Angerboda. Con ella engendró a Magni y a Modi, destinados a
-sobrevivir al :ref:Ragnarök`.
+sobrevivir al :ref:`Ragnarök`.
 
-La segunda esposa era :ref:Sif, con quien tuvo una hija Thrud.
+.. image:: /images/Mjollnir.png
+    :align: center
+    :target: http://commons.wikimedia.org/wiki/File:Mjollnir.png?uselang=es
+
+La segunda esposa era :ref:`Sif`, con quien tuvo una hija Thrud.
 Hay versiones que dicen que fue con Sif y no con
 Angerboda con quien tuvo a sus dos hijos Magni y Modi.
 
@@ -672,8 +805,33 @@ que era un palacio cerca de Trondheim (Trudheim), a las afueras de
 Asgard, en una región llamada Thrudvang (El campo de Fuerza). Thor no
 quería cruzar el puente que unía Midgard con Asgard, porque Bifröst no
 podría soportar el calor de sus rayos y el estruendo de los truenos que
-causaba su carro. Thor murió en el
-:ref:Ragnarök` tras haber vencido y aplastado a la serpiente de Midgard.
+causaba su carro.::
+
+    Su morada es Bilskirner la cual tiene mas de 540 salas.::
+    Quinientas salas
+    Y cuarenta más
+    Según me parece
+    Se hayan en Bilskirner
+    Entre las casas sin techo,
+    No hay ninguna, pienso,
+    Que sobrepase la de mi hijo (Thor)
+
+Viajaba en su carro tirado por dos machos cabríos llamados Tanngnjos y
+Tanngrisner, el cual hacía sonar truenos en el cielo a su paso, los machos
+cabríos podría ser sacrificados al atardecer y luego resucitar la mañana
+siguiente, si se tenía cuidado de no romper ningún hueso y si se recogían todos
+los huesos y se metían en la piel del animal. Posee tres objetos valiosos el
+primero es su martillo Mjollnir que ha hundido el cráneo de más de un gigante,
+el otro es su cinturón de fuerza (Megingjarder) el cual duplica su fuerza y
+el tercer objeto es su guantelete con el que está obligado a cubrir su mano
+cuando toma el martillo. Era el más fuerte de los Dioses, representaba la
+juventud, al rayo y al fuego, era también protector de la arquitectura.
+
+Thor estuvo casado con :ref:`Sif` y tuvo tres hijos, Magni, Modi y Trud. Muere en
+la lucha contra la serpiente Midgard durante el :ref:`Ragnarök`.
+
+Se le consagró el día Jueves.
+
 
 .. _Tyr:
 
@@ -692,7 +850,7 @@ Era el más valiente y emprendedor de los :ref:`Aesir`, aunque no tan fuerte com
 :ref:`Thor`. Era musculoso y fuerte, aunque manco. Su nombre aparecía inscrito en las
 espadas de los guerreros, para darles su fortaleza. Se le invocaba antes
 de las batallas puesto que era él quien otorgaba las victorias. Fue el
-que ató al Lobo Fenrir. Para conseguirlo, le tuvo que ofrecer una de sus
+que ató al Lobo :ref:`Fenrir`. Para conseguirlo, le tuvo que ofrecer una de sus
 manos para distraer a la bestia
 
 .. _Ull:
@@ -703,8 +861,8 @@ Ull
 Era el dios de la caza y del invierno.
 
 Era un dios menor, considerado como un ass hostil, responsable de los
-inviernos crudos (negu gorriak). Era hijo de
-:ref:`Thor`  y de :ref:Sif. Su nombre significaba el magnífico.
+inviernos crudos. Era hijo de
+:ref:`Thor` y de :ref:`Sif`. Su nombre significaba el magnífico.
 
 Tenía un hueso, en el cual había gravado fórmulas mágicas, tan poderoso
 que incluso podía servir para cruzar el mar sobre él. Era cazador , y
@@ -714,6 +872,16 @@ para que durante un tiempo ocupase el puesto de Odín, ya que
 :ref:`Odín` fue desterrado de :ref:`Asgard` por haber engañado a una joven.
 
 A los diez años de destierro, :ref:`Odín` volvió y expulsó a Ull.
+
+.. _Urd:
+
+Urd
+----
+
+Es la Diosa de la fortuna, de la vida y la muerte. Era parte de la trinidad de
+las Diosas Nornas. En su reino, llamado Hela, están las almas de los hombres
+buenos.
+
 
 .. _Vidar:
 

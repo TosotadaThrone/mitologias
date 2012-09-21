@@ -1,3 +1,5 @@
+.. _mundos:
+
 Los 9 Mundos
 =============
 
