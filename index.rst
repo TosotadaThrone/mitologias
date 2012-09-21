@@ -23,7 +23,7 @@ Si quieres colaborar, o hacer tu propia versión del sitio, puedes hacerlo en `g
     Estado actual: en desarrollo
 
 Mitología Nórdica
--------------------
+------------------
 
 .. toctree::
    :maxdepth: 2
