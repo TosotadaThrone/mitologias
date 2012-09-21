@@ -186,14 +186,14 @@ podía confiar plenamente en ellos…
 
 Los elfos, por el contrario, eran amigos de los dioses y de los hombres.
 Moraban en Alvheim, lugar que
-algunos creían localizado en el interior de las murallas de :ref:`Åsgard`, y
+algunos creían localizado en el interior de las murallas de :ref:`Asgard`, y
 otros, en :ref:`Midgard`. Tan poco sabemos de enanos y elfos… Incluso había
 quien los creía emparentados entre sí y que debieran llamarse “elfos
 claros” y “elfos oscuros”. En cierta época, hubo otra raza de dioses
 llamados vanes, distinta de los ases, que moraban en Vanaheim. Pero su
 fortaleza fue destruida, y ningún mortal sabe ya dónde estaba situada…
 
-Junto a una fuente de :ref:`Åsgard` vivían las diosas del hado: las tres Nornas
+Junto a una fuente de :ref:`Asgard` vivían las diosas del hado: las tres Nornas
 Urd, Verd y Skuld. Las Nornas conocían el destino de todos los seres
 vivientes y sabían lo que la suerte le depararía a cada uno y a todo lo
 creado. Se dice que había también nornas entre los elfos y los enanos.
@@ -293,7 +293,7 @@ mágica Skidbladner, cuyas velas hinchaba siempre un viento favorable y
 que podía plegarse como un mantel y guardarse en el bolsillo cuando no
 se usaba.
 
-Los dioses de :ref:`Åsgard` poseían otros tesoros preciosos, pero el
+Los dioses de :ref:`Asgard` poseían otros tesoros preciosos, pero el
 más excelso de todos eran las manzanas mágicas que guardaba la diosa
 Idunn, las manzanas de la juventud, de las que los dioses tenían que
 tomar un bocado de vez en cuando para no desmedrar y envejecer.
@@ -309,21 +309,22 @@ mundo, tocaría su trompa Gjallarhorn para llamar a los dioses a las
 armas en la última gran batalla contra los ogros y los poderes de las
 tinieblas.
 
-Balder era hijo de :ref:`Odín` y Friga, famoso por su afabilidad, gentileza e
-inteligencia. Balder sufría pesadillas y tenía miedo de morir, pero su
-madre – la más poderosa de las diosas de :ref:`Åsgard` – hizo jurar a todos y a
+:ref:`Balder` era hijo de :ref:`Odín` y :ref:`Frigga`, famoso por su afabilidad, gentileza e
+inteligencia. :ref:`Balder` sufría pesadillas y tenía miedo de morir, pero su
+madre – la más poderosa de las diosas de :ref:`Asgard` – hizo jurar a todos y a
 todo que nadie jamás le haría daño. Los dioses se divertían disparando
 sus armas sobre Balder, pues éste ya no podía ser muerto o herido.
 Friga, empero, olvidó preguntar al muérdago, que consideraba demasiado
 pequeño e insignificante. El intrigante y artero :ref:`Loki` se enteró de ello
-e indujo al ciego Hodur a matar a Balder con una flecha hecha de ese
+e indujo al ciego Hodur a matar a :ref:`Balder` con una flecha hecha de ese
 arbusto. Entonces los dioses enviaron un jinete a Helheim, la Morada de
 los Muertos, a pedir el retorno de Balder. Hel, la reina de Helheim
-replicó que Balder resucitaría si el mundo entero lloraba su destino. Y
+replicó que :ref:`Balder` resucitaría si el mundo entero lloraba su destino. Y
 todos y todo - aun las piedras y los árboles - siguen intentando con sus
 lágrimas (en vano) que resucite el dios muerto.
 
-**¿Quiénes son los enemigos de los dioses y de los humanos?**
+¿Quiénes son los enemigos de los dioses y de los humanos?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Aunque a veces conocidos como ogros o “troll”, solían ser llamados
 yotes. Aquellos gigantes habitaban en las soledades y los escabrosos
 montes de Utgard y Jotunheim. A menudo hombrones enormes y poderosos,
@@ -351,12 +352,12 @@ cuenco grande para recoger la sustancia ponzoñosa. Mas de vez en cuando,
 tenía que volverse para vaciar el cuenco, y entonces el veneno caía en
 la faz de :ref:`Loki`, haciéndole retorcerse con tanta violencia, que el mundo
 entero se estremecía. Esto es lo que se llama terremoto. :ref:`Loki` tenía
-hijos en :ref:`Åsgard` y también otros descendientes más extraños. Con la
+hijos en :ref:`Asgard` y también otros descendientes más extraños. Con la
 ogresa Angerboda fue padre del Lobo :ref:`Fenris`, de la Serpiente :ref:`Midgard` y de
 Hel; y con el semental Svadilfare fue madre (!) del caballo :ref:`Sleipnir`.
 
 El Lobo :ref:`Fenris` era una bestia verdaderamente monstruosa. Se crió en
-:ref:`Åsgard`, pero adquirió un tamaño tan descomunal y se volvió tan fiero y
+:ref:`Asgard`, pero adquirió un tamaño tan descomunal y se volvió tan fiero y
 peligroso, que sólo el dios :ref:`Tyr` osaba alimentarlo. Los asas hicieron que
 los enanos forjaran una cadena irrompible, Gleipnir, hecha del sonido de
 los pasos de un gato, la barba de una mujer, las ráices de una roca, los
@@ -376,7 +377,7 @@ entera mordiéndose la cola con la boca.
 Ello no obstante, tal vez fuese el último de los tres retoños de :ref:`Loki` y
 Angerboda quien causara más aflicciones a los dioses y al género humano.
 Era una doncella monstruosa, medio blanca y medio negra azulada. Fue
-expulsada de :ref:`Åsgard` y se afincó muy al norte, donde creó el reino de los
+expulsada de :ref:`Asgard` y se afincó muy al norte, donde creó el reino de los
 muertos, un mundo subterráneo, gris, frío y húmedo, llamado Hel, como
 ella. Todo aquel que moría de enfermedad o senectud iba a parar a Hel,
 donde llevaba una existencia triste y sombría. La propia reina de los
@@ -395,7 +396,7 @@ Sí, pueden morir.
 Al morir, los que habían combatido valerosamente en el campo de batalla
 iban con :ref:`Odín` o :ref:`Freya`. El dios supremo mandaba a las valkirias, en sus
 cotas de malla, a recoger a los héroes caídos en combate. Las valkirias
-iban armadas y podían cabalgar por los aires. En :ref:`Åsgard` los muertos eran
+iban armadas y podían cabalgar por los aires. En :ref:`Asgard` los muertos eran
 divididos entre :ref:`Odín` y :ref:`Freya`. La mitad vivía con :ref:`Odín` en el :ref:`Valhalla`
 (“val” significa campo de batalla), y la otra mitad con :ref:`Freya` en
 Folkvang (en este contexto, “folk” significa hombres en orden de
@@ -458,7 +459,7 @@ No. Del mar emergerá una tierra nueva, verde y hermosa. Exuberante como
 un sueño. Con campos que se siembran solos. Y sobreabundancia de peces y
 de caza. Ya nadie pasará hambre ni padecerá frío… ¡Y fijaos! El sol ha
 dado a luz una hija. Todo mal se ha terminado. La tierra ha quedado
-limpia. ¡Una nueva vida puede empezar! :ref:`Åsgard` no existe ya. No queda ni
+limpia. ¡Una nueva vida puede empezar! :ref:`Asgard` no existe ya. No queda ni
 una sola piedra de la antigua fortaleza de los dioses. Sin embargo, será
 allí donde regresen, los asas supervivientes de la gran batalla final…
 
