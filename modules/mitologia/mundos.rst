@@ -152,7 +152,7 @@ cielo, digamos fuera de la tierra, por lo que no se puede dejar de lado que ést
 se levante en el medio del :ref:`Midgard` sobre montañas altísimas protegido por
 murallas.
 
-.. image:: /images/:ref:`Asgard`.jpg
+.. image:: /images/asgard.jpg
     :align: center
     :target: http://browse.deviantart.com/?qh=&section=&global=1&q=Asgard#/d1dv1qv
     :height: 600 px
@@ -483,7 +483,7 @@ Su paisaje no está muy bien determinado aunque sabemos que la entrada es una ca
 
 En "los sueños de :ref:`Balder`" Hermódr se dirige a Hel en busca de su hermano :ref:`Balder`, durante nueve días y nueve noches cabalgó a Sleipnir hasta que llegó al río Gyöll, la guardiana del puente salió a su encuentro, le preguntó su linaje y nombre, también le contó que había visto ese día a cinco grupos de muertos en el puente, pero que él no tenía el semblante de aquellos, le preguntó porqué cabalgaba hacia Hel, Hermódr respondió que iba en busca de :ref:`Balder`, Módgudr le advierte que él ya cruzó el puente y que el camino de Hel baja más todavía y se dirige al norte. Finalmente Hermódr se reencuentra con su hermano :ref:`Balder` y pasa con él aquella noche.
 
-.. image:: /images/:ref:`Helheim`.jpg
+.. image:: /images/helheim.jpg
     :align: center
     :height: 1299 px
     :width: 2038 px
