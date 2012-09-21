@@ -390,81 +390,81 @@ Alvíssmal
 
     **Alvís** A cubrir los bancos conmigo, la novia irá a mi casa, apresurada, la boda quizá parezca a todos, no hay que parar, en casa.
 
-    **:ref:`Thor`** Quién es ese hombre? Porqué su pálida nariz? Te acostaste entre los muertos? todo un trol me parece que seas, no convienes a la novia.
+    **Thor** Quién es ese hombre? Porqué su pálida nariz? Te acostaste entre los muertos? todo un trol me parece que seas, no convienes a la novia.
 
     **Alvís** Alvis me llamo, bajo tierra vivo, bajo una piedra es mi casa, al señor de los carros vine a visitar, !qué nadie rompa el voto!
 
-    **:ref:`Thor`** Yo lo he de romper, pues de la novia  como padre dispongo, yo no estaba en casa cuando se hizo el voto,  y sólo yo podía hacerlo.
+    **Thor** Yo lo he de romper, pues de la novia  como padre dispongo, yo no estaba en casa cuando se hizo el voto,  y sólo yo podía hacerlo.
 
     **Alvís** Quién es ese hombre que afirma disponer de la hermosa doncella? Qué vagabundo, pocos te conocen, te engendró su heredero?
 
-    **:ref:`Thor`** Vinghtor me llamo --mucho he viajado-- hijo soy de Sídgrani, sin mi consentimiento no tendrás a la virgen, ni conseguirás la boda.
+    **Thor** Vinghtor me llamo --mucho he viajado-- hijo soy de Sídgrani, sin mi consentimiento no tendrás a la virgen, ni conseguirás la boda.
 
     **Alvís** Tu consentimiento quiero de inmediato, para conseguir la boda, quiero tenerla, no quiero perderla, la nívea muchacha.
 
-    **:ref:`Thor`** El amor de la virgen no te será,  sabio huésped, negado, si me dices cómo llaman a los mundos lo que quiero saber. Díme Alvís --pues
+    **Thor** El amor de la virgen no te será,  sabio huésped, negado, si me dices cómo llaman a los mundos lo que quiero saber. Díme Alvís --pues
     creo,   gnomo, que sabes los destinos de todos---, cómo llaman la tierra, que se extiende ante el hombre, en todos los mundos.
 
     **Alvís** Tierra, dicen los hombres,campo, los :ref:`Aesir`, camino, los :ref:`Vanir`, siempre verde, los trols, fértil, los Elfos, los más altos, arcilla.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman cielo creador de tormentas en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman cielo creador de tormentas en todos los mundos.
 
     **Alvís** Cielo dicen los hombres, los :ref:`Aesir`, luz celeste, horno de vientos, los :ref:`Vanir`, mundo superior, los trols, techo hermoso, los Elfos, sala
     de   lluvias, los gnomos.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la luna que ven los hombres en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la luna que ven los hombres en todos los mundos.
 
     **Alvís** Luna, dicen los hombres, los dioses rojiza,  en Hel, rueda girante, brillo, los gnomos, los Elfos, cómputo de años.
 
-    **:ref:`Thor`** Dime, Alvís_pues creo, gnomo, que sabes los destinos de todos cómo llaman el sol que los hombres ven en todos los mundos.
+    **Thor** Dime, Alvís_pues creo, gnomo, que sabes los destinos de todos cómo llaman el sol que los hombres ven en todos los mundos.
 
     **Alvís** Sol le dicen los hombres, los dioses, luciente: los gnomos, amiga de Dvalin, siempre brillante, los trols: bella rueda, los Elfos, toda
     luz     los :ref:`Aesir`.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la nube que se mezcla a la lluvia, en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la nube que se mezcla a la lluvia, en todos los mundos.
 
     **Alvís** Nube dicen los hombres, los dioses, certeza de lluvia, balsa de vientos, los :ref:`Vanir`, corteza de agua los trols, los Elfos fuerza del
     viento,     y en Hel yelmo del invisible.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman el viento que tan lejos viaja, en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman el viento que tan lejos viaja, en todos los mundos.
 
     **Alvís** Viento dicen los hombres, los dioses vacilante, los sacros seres, suspirante, aullador los trols, los Elfos, ruidoso, y en Hel,
     torbellino.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la calma que hay en el aire, en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la calma que hay en el aire, en todos los mundos.
 
     **Alvís** Calma dicen los hombres, los dioses, fondeadero, ocaso del viento los :ref:`Vanir`, bonanza los trols, los Elfos, sosiego del día, reposo del
     día,     los gnomos.
 
-    **:ref:`Thor`** Dime Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la mar, en donde reman, en todos los mundos.
+    **Thor** Dime Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la mar, en donde reman, en todos los mundos.
 
     **Alvís** Mar dicen los hombres, los dioses, siempre apasible , onda los :ref:`Vanir`, mundo de anguilas los trols, los Elfos, sostén de las aguas,
     hondo    mar los gnomos.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman el fuego que arde ante los hombres, en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman el fuego que arde ante los hombres, en todos los mundos.
 
     **Alvís** Fuego dicen los hombres, llama, los :ref:`Aesir`, movedizo los :ref:`Vanir`, glotón los trols, los gnomos, ardoroso, rápido, en Hel.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman el bosque, que crece ante los hombres, en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman el bosque, que crece ante los hombres, en todos los mundos.
 
     **Alvís** Bosque dicen los hombres, los dioses, cabellera del llano, musgo de la loma, los humanos, leña los trols, los Elfos, rama hermosa,
     varita   los :ref:`Vanir`.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la noche, que Nörd engendró, en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la noche, que Nörd engendró, en todos los mundos.
 
     **Alvís**  Noche dicen los hombres, los dioses tinieblas los sacros seres, máscara, negrura, los trols, los Elfos, placer del sueño diosa del
     sueño   los gnomos.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman el grano que vieron los hombres, en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman el grano que vieron los hombres, en todos los mundos.
 
     **Alvís**  Dicen cebada los hombres, los dioses centeno planta, los :ref:`Vanir` comida, los trols, los Elfos, soporte de licor y en Hel cimbreante.
 
-    **:ref:`Thor`** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la cerveza que beben los hombres en todos los mundos.
+    **Thor** Díme Alvís pues creo, gnomo, que sabes los destinos de todos, cómo llaman la cerveza que beben los hombres en todos los mundos.
 
     **Alvís**  Cerveza dicen los hombres, malta los :ref:`Aesir`, aguardiente, los :ref:`Vanir`, licor puro, los trols, y en Hel :ref:`hidromiel`, festín, los hijos de
     Suttung.
 
-    **:ref:`Thor`** En un solo pecho jamás había visto tanta antigua ciencia, con grandes ardides yo te he engañado: en pie estás, gnomo, del día, brilla el sol     en la sala.
+    **Thor** En un solo pecho jamás había visto tanta antigua ciencia, con grandes ardides yo te he engañado: en pie estás, gnomo, del día, brilla el sol     en la sala.
 
 
 .. _Helheim:
