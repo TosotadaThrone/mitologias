@@ -70,7 +70,7 @@ Al Norte del Ginungagap está Nifelheim, el hogar de las tinieblas. "Muchos evos
 
 Gjöll está al lado de Helgrindir." Del centro de Nifelheim brotaba, burbujenate, la poderosa fuente de todas las aguas, un pozo llamado Hvelgermir, el caldero rugiente. Hvelgermir, no aparece en el Völuspá ni en ningún otro poema del edda en verso excepto en el grimnismal, donde se describe como el manantial "del que proceden todos los ríos" y va seguido de un catálogo que contiene los nombres de 40 ríos, Snorri se contenta con una lista de 11 al principio que es el situado más cerca de las rejas de Hel, pero más adelante da cuenta de 25 de ellos. Es obvio que el Hvergelmir no es un arroyito sino un poderoso géiser de aguas turbulentas.
 
-En el verso 31 de Vafprúdnismál o los dichos de Vaftrúdnir encontramos al río Elivágar u Ondas heladas, su relación con el Hvelgermir no es muy concreta pero de su importancia no hay dudas ya que "De Elivágar saltaron pútridas gotas, crecieron formando al gigante, provienen de allá nuestras gentes todas,  por eso son siempre tan malas"... De este río Elivágar surgía, desde tiempo inmemorial, una espuma venenosa que al sedimentarse formaba el hielo, cuando el hielo se detuvo y dejo de fluir, se quedó suspendida donde la espuma se solidificaba, y se formó escarcha, la niebla congelada creció y se esparció por todo Ginungagap. Así en el norte del abismo abierto todo era hielo, tempestades, lluvias y escarcha, mientras que en sur en el muspellheim destellaba por efecto de las chispas y g:ref:`Aesir` que le brotaban::
+En el verso 31 de Vafprúdnismál o los dichos de Vaftrúdnir encontramos al río Elivágar u Ondas heladas, su relación con el Hvelgermir no es muy concreta pero de su importancia no hay dudas ya que "De Elivágar saltaron pútridas gotas, crecieron formando al gigante, provienen de allá nuestras gentes todas,  por eso son siempre tan malas"... De este río Elivágar surgía, desde tiempo inmemorial, una espuma venenosa que al sedimentarse formaba el hielo, cuando el hielo se detuvo y dejo de fluir, se quedó suspendida donde la espuma se solidificaba, y se formó escarcha, la niebla congelada creció y se esparció por todo Ginungagap. Así en el norte del abismo abierto todo era hielo, tempestades, lluvias y escarcha, mientras que en sur en el ref:`Muspellheim` destellaba por efecto de las chispas y gas que le brotaban::
 
     Al igual que en el Nifelheim hacia frío, en todas esas terribles regiones en
     las proximidades del Muspell hacia calor y estaba todo refulgente. Pero el
@@ -105,7 +105,7 @@ Ask y Embla
     dos, sin destino en la tierra que cimentaron, Ask y Embla, vacíos de poder.
     Carecían de alma, carecían de sentido común, no tenían calor ni matiz divino, alma les dio :ref:`Odín`, sentido les dio Höenir, calor les dio Lodur, y matiz divino.
 
-    Y conozco el fresno, :ref:`Yggdrasil`l es su nombre, con agua blanca el gran árbol ha sido mojado, entonces llega el rocío que cae en los valles, verde por el manantial de Urd crecerá por siempre.
+    Y conozco el fresno, :ref:`Yggdrasil` es su nombre, con agua blanca el gran árbol ha sido mojado, entonces llega el rocío que cae en los valles, verde por el manantial de Urd crecerá por siempre.
 
     Entonces llagaron las tres doncellas, poderosas en sabiduría, desde la morada bajo el árbol, una llamada Urd, la otra Verdandi,
     grabaron en madera, y Skuld la tercera. Las leyes allí dictaron, y a la vista aseguraron a los hijos de los Hombres, estableciendo su destino.
@@ -255,16 +255,16 @@ El mundo de los Gigantes. Jotunheim es el mundo de los gigantes
 nórdica. Desde aquí amenazan a los humanos  y a los dioses
 (de los cuales están separados por el río Iving)::
 
-    La tierra es redonda y abarca el hondo mar azul. A los largo de las riberas
-    externas del océano :ref:`Odín` Vili y Vé otorgaron tierras", que se llamaron
-    :ref:`Jötunheim`, "a la raza de los gigantes, para que se establecieran en ellas
-    Pero hacia el centro de la tierra construyeron un muro fortificado, ciñendo
-    aquella región, para defenderse de los gigantes enemigos: y la edificaron
-    con las cejas de ymir, y la llamaron :ref:`Midgard` a su baluarte.
+La tierra es redonda y abarca el hondo mar azul. A los largo de las riberas
+externas del océano Odín Vili y Vé otorgaron tierras, que se llamaron
+Jötunheim, a la raza de los gigantes, para que se establecieran en ellas
+Pero hacia el centro de la tierra construyeron un muro fortificado, ciñendo
+aquella región, para defenderse de los gigantes enemigos: y la edificaron
+con las cejas de ymir, y la llamaron Midgard a su baluarte.
 
-    También tomaron sus sesos y formaron las nubes arrojándolas a los vientos."
-    No todas las fuentes localizan a :ref:`Jötunheim` en el mismo lugar, aunque había
-    dos sitios concretos, uno era "al este" y "del otro lado del océano".
+También tomaron sus sesos y formaron las nubes arrojándolas a los vientos."
+No todas las fuentes localizan a Jötunheim en el mismo lugar, aunque había
+dos sitios concretos, uno era "al este" y "del otro lado del océano".
 
 Völuspá::
 
@@ -304,7 +304,7 @@ Otros gigantes Nörfi, o Narfi fue el primer gigante que se estableció en :ref:
     :width: 2250 px
     :scale: 30 %
 
-Cl:ref:`Aesir` de gigantes
+Clases de gigantes
 ^^^^^^^^^^^^^^^^^^^
 Se dividen en dos especies: gigantes montañeses y gigantes helados, que son claramente seres ctónicos y una tercera especie, gigantes ígneos, que representan el poder destructivo del fuego.
 
