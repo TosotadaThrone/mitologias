@@ -2,7 +2,7 @@ El origen del mundo
 ====================
 
 
-Al principio, érase el Frío y el Calor. El frío era Nilfheim, un mundo
+Al principio, érase el Frío y el Calor. El frío era :ref:`Nilfheim`, un mundo
 de oscuridad, frío y niebla. El calor era Muspell, el mundo del eterno
 calor. Entre estos dos mundos existía un gran vacío con el nombre de
 Ginnungagup.
@@ -40,17 +40,17 @@ llamados troll u ogros, pero más conocidos como yotes.
 Audumbla vivió lamiendo la escarcha en las rocas salobres, de donde surgió
 poco a poco el primer hombre, Bure, y de él descienden los dioses llamados ases.
 El hijo de Bure, de nombre Bor, se casó con la hija de un yote, Bestla, y juntos
-tuvieron tres hijos dioses: Odin, Vile y Ve.
+tuvieron tres hijos dioses: :ref:`Odín`, Vile y Ve.
 
 Tal vez las diversas criaturas lograran vivir en paz unas con otras durante
-bastante tiempo. En cualquier caso, tuvieron descendencia común… Odín – que más
+bastante tiempo. En cualquier caso, tuvieron descendencia común… :ref:`Odín` – que más
 tarde se convertiría en el dios supremo – era vástago de Bestla, hija de
 un yote, y de Bor, hijo de Bure.
 
 Los yotes, empero, fueron aumentando en
-número y pronto el lugar se plagaría de esa raza. Entonces, un día, Odín
+número y pronto el lugar se plagaría de esa raza. Entonces, un día, :ref:`Odín`
 y sus hermanos – Vilje y Ve – se rebelaron contra Ymer y su estirpe. Se
-entabló una feroz batalla, de la que salieron victoriosos Odín y sus
+entabló una feroz batalla, de la que salieron victoriosos :ref:`Odín` y sus
 hermanos. Los dioses mataron al gigante, y una ola de sangre se abatió
 sobre los enemigos de los asas, ahogándolos a todos… a todos menos a
 dos. De esta pareja de yotes, que huyeron a través de la niebla buscando
@@ -88,9 +88,9 @@ Creación de los distintos mundos
 En este nuevo mundo crearon el mundo
 de los hombres, llamado Midgård. Luego, y para que los hombres no se
 sintieran solos, crearon en el centro de Midgård el mundo de los ases,
-Asgård, en cuyo centro crecía un gran fresno llamado Yggdrasil.
+Asgård, en cuyo centro crecía un gran fresno llamado :ref:`Yggdrasil`.
 
-Junto al fresno Yggdrasil tienen los dioses su tribunal. Este es el mayor de
+Junto al fresno :ref:`Yggdrasil` tienen los dioses su tribunal. Este es el mayor de
 todos los árboles, sus ramas se extienden por todos los mundos y llegan
 al cielo. De las tres raíces del árbol, una llega donde los ases, otra
 donde los Gigantes de Hielo, allí en el antiguo Ginnungagap, y la otra
@@ -99,7 +99,7 @@ serpiente mordisquea las raíces.
 
 Bajo la raíz que va a donde los Gigantes está la fuente de Mimir, que oculta
 la sabiduría y el conocimiento. Mimir bebe de esta fuente con el cuerno
-Gjallarhorn, y de ella dio a beber a Odín, quien dio en prenda su ojo siendo
+Gjallarhorn, y de ella dio a beber a :ref:`Odín`, quien dio en prenda su ojo siendo
 desde entonces el dios tuerto. La tercera raíz está en el cielo, y bajo ella
 está la sagrada fuente de Urd.
 
@@ -117,7 +117,7 @@ las nornas refrescan sus raíces para que no se pudran y cuya agua vuelve
 a todo lo que toca transparente como la clara del huevo, nadan dos
 cisnes.
 
-Del rocío de Yggdrasil se alimentan las abejas. El concepto del
+Del rocío de :ref:`Yggdrasil` se alimentan las abejas. El concepto del
 árbol cósmico, el eje del mundo, se halla por doquier en las mitologías,
 y en este caso de la nórdica se expresa con especial fuerza, procedente
 de los indómitos bosques del norte de Europa y de toda la cultura
@@ -127,7 +127,7 @@ simbología para chamanes y druidas.
 El gigante Narfi, que habitaba en Jötunheim (Jötum = gigante en el
 idioma nórdico) fue el padre de Nott (noche), negra y oscura. De
 Naglfari tuvo a Aud. De Annar a Jord, la tierra. de Delling (brillante),
-de la estirpe de los Ases tuvo a Dag (Día), luminoso y bello. Odin les
+de la estirpe de los Ases tuvo a Dag (Día), luminoso y bello. :ref:`Odín` les
 dio caballos para que recorrieran el cielo. El de Nott se llama Hrumfaxi
 y humedece la tierra con su espuma de bocado (rocío) y el de Dag se
 llama Skinfaxi e ilumina el aire y la tierra con sus crines. Un hombre
@@ -144,16 +144,16 @@ lobos Skoll y Hati. son hijos de Hródvitin y de Gyg la giganta, de cuya
 estirpe de hechiceras, las Jarnvidur, nacerá Managram, el lobo que se
 tragará la luna.
 
-En Asgård tenía Odin su casa llamada Valhalla, donde vivían los
+En Asgård tenía :ref:`Odín` su casa llamada :ref:`Valhalla`, donde vivían los
 guerreros vikingos muertos (Einherjerne) y las valquirias. Las
-valquirias eran las vírgenes guerreras o espíritus de guerra de Odin, y
-las que llevaban a los guerreros muertos a Valhalla. Valhalla tenía 540
+valquirias eran las vírgenes guerreras o espíritus de guerra de :ref:`Odín`, y
+las que llevaban a los guerreros muertos a :ref:`Valhalla`. :ref:`Valhalla` tenía 540
 puertas y todas tan grandes que podían entrar 800 hombres a la vez. Su
 techo estaba cubierto de escudos dorados, encima de los cuales caminaba
-la cabra Heidrun. Heidrun comía las hojas de Yggdrasil y de su ubre caía
+la cabra Heidrun. Heidrun comía las hojas de :ref:`Yggdrasil` y de su ubre caía
 la hidromiel que bebían los guerreros.
 
-Todos los días los guerreros de Valhalla salían al campo de batalla, aunque
+Todos los días los guerreros de :ref:`Valhalla` salían al campo de batalla, aunque
 ahora sin que les ocurriera nada. Si se les caía un brazo o una pierna, las
 valquirias lo arreglaban por la noche. Después de la batalla venía el gran
 festín con mucha comida y bebida. Valhal era una especie de paraíso para los
@@ -161,24 +161,24 @@ guerreros, algo que les quitaba el miedo a morir. Así se preparaban para la
 última batalla el día de Ragnarok, “el crepúsculo de los dioses”, el día del
 fin del mundo.
 
-Midgard, la tierra de los mortales, y el divino Asgard estaban unidos
+:ref:`Midgard`, la tierra de los mortales, y el divino Asgard estaban unidos
 mediante Bifröst, el puente del arco iris que estaba hecho de fuego para
 que los gigantes no pudieran atravesarlo.
 
 Los enanos solían habitar entre peñas y riscos, a menudo bajo tierra, en
-lugares escondidos de Midgard y Utgard. Aunque hábiles herreros, no se
+lugares escondidos de :ref:`Midgard` y Utgard. Aunque hábiles herreros, no se
 podía confiar plenamente en ellos…
 
 Los elfos, por el contrario, eran amigos de los dioses y de los hombres.
 Moraban en Alvheim, lugar que
-algunos creían localizado en el interior de las murallas de Åsgard, y
-otros, en Midgard. Tan poco sabemos de enanos y elfos… Incluso había
+algunos creían localizado en el interior de las murallas de :ref:`Åsgard`, y
+otros, en :ref:`Midgard`. Tan poco sabemos de enanos y elfos… Incluso había
 quien los creía emparentados entre sí y que debieran llamarse “elfos
 claros” y “elfos oscuros”. En cierta época, hubo otra raza de dioses
 llamados vanes, distinta de los ases, que moraban en Vanaheim. Pero su
 fortaleza fue destruida, y ningún mortal sabe ya dónde estaba situada…
 
-Junto a una fuente de Åsgard vivían las diosas del hado: las tres Nornas
+Junto a una fuente de :ref:`Åsgard` vivían las diosas del hado: las tres Nornas
 Urd, Verd y Skuld. Las Nornas conocían el destino de todos los seres
 vivientes y sabían lo que la suerte le depararía a cada uno y a todo lo
 creado. Se dice que había también nornas entre los elfos y los enanos.
@@ -195,9 +195,9 @@ de un tronco.
 
 Creación de los hombres
 ------------------------
-Un día, caminando Odín y sus hermanos por la playa, se encuentran dos
+Un día, caminando :ref:`Odín` y sus hermanos por la playa, se encuentran dos
 troncos de árbol traídos por las olas. Los dioses ponen los troncos de
-pie y les infunden vida. Odín les dota de respiración y alma. Vilje, de
+pie y les infunden vida. :ref:`Odín` les dota de respiración y alma. Vilje, de
 la aptitud de pensar y moverse. Ve, de las facultades de hablar, oír y
 ver. Los ases les dan calor y color.
 
@@ -225,65 +225,65 @@ devorarlos. Tal vez lo consigan algún día…
 
 ¿Qué dioses eran los principales?
 ------------------------------------
-Odín era el dios supremo. Dios de la sabiduría y de la magia, reinaba
+:ref:`Odín` era el dios supremo. Dios de la sabiduría y de la magia, reinaba
 sobre los demás asas. Su día es el miércoles (onsdag), mientras que el
-viernes (fredag) lleva el nombre de su esposa Friga. El corcel de Odín,
-Sleipner, tenía ocho patas. Odín poseía también dos cuervos (Hugin y
+viernes (fredag) lleva el nombre de su esposa Friga. El corcel de :ref:`Odín`,
+:ref:`Sleipnir`, tenía ocho patas. :ref:`Odín` poseía también dos cuervos (Hugin y
 Munin), que salían a volar por el mundo cada mañana para observar y
 escuchar, regresando por la tarde para dar cuenta al dios de todo lo que
-habían visto. La lanza de Odín, Gungne, nunca fallaba el blanco. De su
+habían visto. La lanza de :ref:`Odín`, Gungne, nunca fallaba el blanco. De su
 anillo, Draupne, goteaban, cada nueve noches, otros ocho anillos de
-igual magnificencia. Odín tenía un solo ojo; de joven, había dejado el
+igual magnificencia. :ref:`Odín` tenía un solo ojo; de joven, había dejado el
 otro en prenda al gigante Mime a cambio del derecho a beber del
 delicioso manantial de la sabiduríar, que guardaba el gigante. (Más
-tarde, Mime sería degollado, pero Odín halló el cráneo sangrante del
+tarde, Mime sería degollado, pero :ref:`Odín` halló el cráneo sangrante del
 coloso y lo ungió con hierbas curativas. Al instante se abrieron los
 ojos y la boca pudo articular palabras de nuevo. Desde entonces, la
-cabeza de Mime ha sido uno de los mejores consejeros de Odín…)
+cabeza de Mime ha sido uno de los mejores consejeros de :ref:`Odín`…)
 
-Después de Odín, el dios más poderoso era su hijo Tor. Su día es el
+Después de :ref:`Odín`, el dios más poderoso era su hijo :ref:`Thor`. Su día es el
 jueves (torsdag). Fuerte e impetuoso, siempre está dispuesto a plantar
-batalla a los yotes y troll. Aun cuando Tyr (tirsdag, martes) tal vez
+batalla a los yotes y troll. Aun cuando :ref:`Tyr` (tirsdag, martes) tal vez
 sería algo más valiente, nadie en el mundo entero eran tan fuerte como
-Tor. Y su martillo tonante, Miolnir, era el arma más peligrosa en los
-cielos y en la tierra. Tor podía reducir o aumentar su tamaño a su
+:ref:`Thor`. Y su martillo tonante, Miolnir, era el arma más peligrosa en los
+cielos y en la tierra. :ref:`Thor` podía reducir o aumentar su tamaño a su
 antojo, y cuando lo lanzaba, siempre daba en el blanco y retornaba a sus
 manos. Adondequiera que fuese, su carro era tirado por dos machos
 cabríos – Tanngjost y Tanngrisne – en lugar de caballos. Los machos
 cabríos podían ser sacrificados al atardecer y, sin embargo, resucitar a
 la mañana siguiente, si se tenía cuidado de no romper ningún hueso al
 comer la carne, y si se recogían todos los huesos y se metían en la piel
-del animal. El trueno era el sonido que hacía el carro de Tor cuando
+del animal. El trueno era el sonido que hacía el carro de :ref:`Thor` cuando
 rodaba por el cielo.
 
-Siv se llamaba la esposa de Tor. Sus cabellos eran de oro puro y, de
-todas las diosas, únicamente Freia – la diosa del amor – era más bella.
-Freia era también quien enseñaba a los asas el arte de la brujería.
+Siv se llamaba la esposa de :ref:`Thor`. Sus cabellos eran de oro puro y, de
+todas las diosas, únicamente :ref:`Freya` – la diosa del amor – era más bella.
+:ref:`Freya` era también quien enseñaba a los asas el arte de la brujería.
 Poseía un manto mágico de plumas, con el que podía transformarse en un
 halcón cuando lo deseaba, y montaba un carro tirado por un tropel de
-gatos. Aunque todos se dirigían a Freia para pedir ayuda o consuelo en
+gatos. Aunque todos se dirigían a :ref:`Freya` para pedir ayuda o consuelo en
 asuntos del corazón, la diosa era incapaz de curar sus propias y eternas
 penas de amor. Su esposo la había abandonado (nadie sabía su paradero).
-A menudo, Freia lloraba su pérdida amargamente, y sus lágrimas eran del
+A menudo, :ref:`Freya` lloraba su pérdida amargamente, y sus lágrimas eran del
 oro más puro…
 
-El hermano de Freia era Frei, que significa “Señor” o “El
-Primero”. Frei era el dios de la fertilidad. En realidad, él y Freia
+El hermano de :ref:`Freya` era Frei, que significa “Señor” o “El
+Primero”. Frei era el dios de la fertilidad. En realidad, él y :ref:`Freya`
 descendían de los vanes (la raza de dioses con que combatieron los asas
 por el dominio del mundo al principio del tiempo). Originariamente, Frei
-y Freia habían sido rehenes de los asas, junto con su anciano padre.
+y :ref:`Freya` habían sido rehenes de los asas, junto con su anciano padre.
 Frei poseía un jabalí mágico, llamado Cerdas Doradas, que podía correr
 tan deprisa por tierra como por mar y aire… También era dueño de la nave
 mágica Skidbladner, cuyas velas hinchaba siempre un viento favorable y
 que podía plegarse como un mantel y guardarse en el bolsillo cuando no
 se usaba.
 
-Los dioses de Åsgard poseían otros tesoros preciosos, pero el
+Los dioses de :ref:`Åsgard` poseían otros tesoros preciosos, pero el
 más excelso de todos eran las manzanas mágicas que guardaba la diosa
 Idunn, las manzanas de la juventud, de las que los dioses tenían que
 tomar un bocado de vez en cuando para no desmedrar y envejecer.
 
-Odín tenía muchos hijos varones. Mencionarlos a todos sería poco menos
+:ref:`Odín` tenía muchos hijos varones. Mencionarlos a todos sería poco menos
 que imposible, pero no podemos eludir a Heimdall. ¿Quién podría?
 Heimdall había nacido milagrosamente de nueve (!) jóvenes ogresas en los
 albores del tiempo, y era el guardián de los dioses. Vivía cerca de
@@ -294,13 +294,13 @@ mundo, tocaría su trompa Gjallarhorn para llamar a los dioses a las
 armas en la última gran batalla contra los ogros y los poderes de las
 tinieblas.
 
-Balder era hijo de Odín y Friga, famoso por su afabilidad, gentileza e
+Balder era hijo de :ref:`Odín` y Friga, famoso por su afabilidad, gentileza e
 inteligencia. Balder sufría pesadillas y tenía miedo de morir, pero su
-madre – la más poderosa de las diosas de Åsgard – hizo jurar a todos y a
+madre – la más poderosa de las diosas de :ref:`Åsgard` – hizo jurar a todos y a
 todo que nadie jamás le haría daño. Los dioses se divertían disparando
 sus armas sobre Balder, pues éste ya no podía ser muerto o herido.
 Friga, empero, olvidó preguntar al muérdago, que consideraba demasiado
-pequeño e insignificante. El intrigante y artero Loki se enteró de ello
+pequeño e insignificante. El intrigante y artero :ref:`Loki` se enteró de ello
 e indujo al ciego Hodur a matar a Balder con una flecha hecha de ese
 arbusto. Entonces los dioses enviaron un jinete a Helheim, la Morada de
 los Muertos, a pedir el retorno de Balder. Hel, la reina de Helheim
@@ -313,36 +313,36 @@ Aunque a veces conocidos como ogros o “troll”, solían ser llamados
 yotes. Aquellos gigantes habitaban en las soledades y los escabrosos
 montes de Utgard y Jotunheim. A menudo hombrones enormes y poderosos,
 eran las fuerzas del caos. El único asa que podía hacerles frente en una
-lucha cuerpo a cuerpo era Tor, dios del trueno. Los yotes poseían
+lucha cuerpo a cuerpo era :ref:`Thor`, dios del trueno. Los yotes poseían
 poderes mágicos incomparables. En una ocasión, por ejemplo, hicieron un
 enorme gigante de barro y le pusieron el nombre de Mokkurkalve. Era un
 ser artificial de aspecto aterrador, de noventa kilómetros de alto y
 treinta de busto… Las ogresas cabalgaban sobre lobos, usando víboras de
 bridas. Aunque podían ser terriblemente feas, algunas incluso
 monstruosas, también podían ser increíblemente bellas… tanto que incluso
-Odín, en más de una ocasión, se dejó seducir en fogosos lances amorosos.
+:ref:`Odín`, en más de una ocasión, se dejó seducir en fogosos lances amorosos.
 
-¿Eran Loki y sus hijos aún más peligrosos?
+¿Eran :ref:`Loki` y sus hijos aún más peligrosos?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Artero, malévolo e intrigante, Loki era originalmente un yote, pero, a
-temprana edad, mezcló su sangre con la Odín y, por ende, fue aceptado
+Artero, malévolo e intrigante, :ref:`Loki` era originalmente un yote, pero, a
+temprana edad, mezcló su sangre con la :ref:`Odín` y, por ende, fue aceptado
 como un asa.
 
-Loki era un bromista y acabó mal. Traicionó a los asas y causó la muerte
+:ref:`Loki` era un bromista y acabó mal. Traicionó a los asas y causó la muerte
 de Balder. Como castigo por este acto nefando, fue encadenado bajo una
 serpiente que goteaba un veneno letal y corrosivo sobre su rostro. Pero
 su fiel esposa, Sigyn, permaneció pacientemente a su lado sosteniendo un
 cuenco grande para recoger la sustancia ponzoñosa. Mas de vez en cuando,
 tenía que volverse para vaciar el cuenco, y entonces el veneno caía en
-la faz de Loki, haciéndole retorcerse con tanta violencia, que el mundo
-entero se estremecía. Esto es lo que se llama terremoto. Loki tenía
-hijos en Åsgard y también otros descendientes más extraños. Con la
-ogresa Angerboda fue padre del Lobo Fenris, de la Serpiente Midgard y de
-Hel; y con el semental Svadilfare fue madre (!) del caballo Sleipner.
+la faz de :ref:`Loki`, haciéndole retorcerse con tanta violencia, que el mundo
+entero se estremecía. Esto es lo que se llama terremoto. :ref:`Loki` tenía
+hijos en :ref:`Åsgard` y también otros descendientes más extraños. Con la
+ogresa Angerboda fue padre del Lobo :ref:`Fenris`, de la Serpiente :ref:`Midgard` y de
+Hel; y con el semental Svadilfare fue madre (!) del caballo :ref:`Sleipnir`.
 
-El Lobo Fenris era una bestia verdaderamente monstruosa. Se crió en
-Åsgard, pero adquirió un tamaño tan descomunal y se volvió tan fiero y
-peligroso, que sólo el dios Tyr osaba alimentarlo. Los asas hicieron que
+El Lobo :ref:`Fenris` era una bestia verdaderamente monstruosa. Se crió en
+:ref:`Åsgard`, pero adquirió un tamaño tan descomunal y se volvió tan fiero y
+peligroso, que sólo el dios :ref:`Tyr` osaba alimentarlo. Los asas hicieron que
 los enanos forjaran una cadena irrompible, Gleipnir, hecha del sonido de
 los pasos de un gato, la barba de una mujer, las ráices de una roca, los
 tendones de un oso, el hálito de un pez y la saliva de un pájaro. (De
@@ -353,15 +353,15 @@ boca, de suerte que siempre estaba con la fauces abiertas, incapaz de
 morder. Sólo cuando acabe el mundo, podrá liberarse finalmente de sus
 cadenas…
 
-El segundo vástago de Loki y de la yote Angerboda era una serpiente. Los
+El segundo vástago de :ref:`Loki` y de la yote Angerboda era una serpiente. Los
 dioses la arrojaron al mar, donde, con el tiempo, creció de forma tan
-increíble que la llamaron Serpiente Midgard, porque circundaba la tierra
+increíble que la llamaron Serpiente :ref:`Midgard`, porque circundaba la tierra
 entera mordiéndose la cola con la boca.
 
-Ello no obstante, tal vez fuese el último de los tres retoños de Loki y
+Ello no obstante, tal vez fuese el último de los tres retoños de :ref:`Loki` y
 Angerboda quien causara más aflicciones a los dioses y al género humano.
 Era una doncella monstruosa, medio blanca y medio negra azulada. Fue
-expulsada de Åsgard y se afincó muy al norte, donde creó el reino de los
+expulsada de :ref:`Åsgard` y se afincó muy al norte, donde creó el reino de los
 muertos, un mundo subterráneo, gris, frío y húmedo, llamado Hel, como
 ella. Todo aquel que moría de enfermedad o senectud iba a parar a Hel,
 donde llevaba una existencia triste y sombría. La propia reina de los
@@ -378,16 +378,16 @@ Sí, pueden morir.
 ¿Se podía ir a parar a otros lugares después de morir?
 ----------------------------------------------------------
 Al morir, los que habían combatido valerosamente en el campo de batalla
-iban con Odín o Freia. El dios supremo mandaba a las valkirias, en sus
+iban con :ref:`Odín` o :ref:`Freya`. El dios supremo mandaba a las valkirias, en sus
 cotas de malla, a recoger a los héroes caídos en combate. Las valkirias
-iban armadas y podían cabalgar por los aires. En Åsgard los muertos eran
-divididos entre Odín y Freia. La mitad vivía con Odín en el Valhala
-(“val” significa campo de batalla), y la otra mitad con Freia en
+iban armadas y podían cabalgar por los aires. En :ref:`Åsgard` los muertos eran
+divididos entre :ref:`Odín` y :ref:`Freya`. La mitad vivía con :ref:`Odín` en el :ref:`Valhalla`
+(“val” significa campo de batalla), y la otra mitad con :ref:`Freya` en
 Folkvang (en este contexto, “folk” significa hombres en orden de
 batalla).
 
 Mientras que se sabe poco de la vida en Folkvang, existen numerosas
-descripciones del Valhala. En el baluarte fuera de aquel enorme
+descripciones del :ref:`Valhalla`. En el baluarte fuera de aquel enorme
 “cuartel”, se permitía a los héroes combatir cuanto querían durante todo
 el día, y no importaba que perdieran un brazo o dos, pues, al atardecer,
 se levantaban del campo de batalla sin un rasguño. Como amigos del alma,
@@ -396,9 +396,9 @@ valkirias servían hidromiel y carne de cerdo cocida. El cerdo que
 comían, Sæhrimnir, era un animal extraordinario: Cada día era
 sacrificado y devorado, pero, al llegar el alba, resucitaba.
 
-El último día del mundo, Odín capitaneará a los dioses y a los héroes
+El último día del mundo, :ref:`Odín` capitaneará a los dioses y a los héroes
 muertos en la gran batalla final contra los yotes y los poderes de las
-tinieblas. El propio Odín luchará contra el lobo Fenris y será devorado
+tinieblas. El propio :ref:`Odín` luchará contra el lobo :ref:`Fenris` y será devorado
 por el monstruo. Así dice la profecía.
 
 
@@ -414,25 +414,25 @@ las montañas y todos los vínculos se romperán.
 El Lobo Fernis quedará en libertad, al fin, y correrá por el mundo con las
 fauces abiertas, arrastrando por tierra la quijada inferior y tocando las nubes
 con la inferior. Sus ojos arderán con un fuego extraño y sus narices arrojarán
-llamas. También Loki será liberado y enjarciará un navío fantasmal,
+llamas. También :ref:`Loki` será liberado y enjarciará un navío fantasmal,
 Naglfar, hecho de uñas de hombres muertos. Con su andrajoso velamen y
 una tripulación de cadáveres putrescentes, zarpará del reino de los
 muertos que rige su hija Hel…
 
-Y la Serpiente Midgard se echará a tierra, rodando por campos y prados.
+Y la Serpiente :ref:`Midgard` se echará a tierra, rodando por campos y prados.
 
 En el sur se hendirán los cielos en pedazos. Del país del más allá
 – Muspellsheim, la aterradora e ignota
-tierra del fuego que existía mucho antes de que Odín y sus hermanos
+tierra del fuego que existía mucho antes de que :ref:`Odín` y sus hermanos
 crearan el mundo – vendrá una inmensa multitud de jinetes en brillantes
 vestiduras, armados con espadas flamígeras.
 
 Ante el ataque del enorme ejército, todo empezará a arder y el gran puente del
 arco iris se derrumbará bajo su peso. La sangrienta y decisiva batalla final se
 librará en un lugar llamado el Llano de Vigrid (de mil kilómetros de
-ancho y mil de largo). Odín será devorado por el Lobo Fenris. Tor y la
-Serpiente Midgard se matarán mutuamente, al igual que Heimdall y Loki.
-El orbe entero se consumirá en llamas. Hasta Yggdrasil – el gran árbol
+ancho y mil de largo). :ref:`Odín` será devorado por el Lobo :ref:`Fenris`. :ref:`Thor` y la
+Serpiente :ref:`Midgard` se matarán mutuamente, al igual que Heimdall y :ref:`Loki`.
+El orbe entero se consumirá en llamas. Hasta :ref:`Yggdrasil` – el gran árbol
 del mundo – será abrasado por el fuego. Cuando se extingan las llamas,
 el mundo quedará reducido a cenizas humeantes. Sus restos chamuscados se
 sumergirán en el mar, desapareciendo… 
@@ -443,7 +443,7 @@ No. Del mar emergerá una tierra nueva, verde y hermosa. Exuberante como
 un sueño. Con campos que se siembran solos. Y sobreabundancia de peces y
 de caza. Ya nadie pasará hambre ni padecerá frío… ¡Y fijaos! El sol ha
 dado a luz una hija. Todo mal se ha terminado. La tierra ha quedado
-limpia. ¡Una nueva vida puede empezar! Åsgard no existe ya. No queda ni
+limpia. ¡Una nueva vida puede empezar! :ref:`Åsgard` no existe ya. No queda ni
 una sola piedra de la antigua fortaleza de los dioses. Sin embargo, será
 allí donde regresen, los asas supervivientes de la gran batalla final…
 

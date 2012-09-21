@@ -25,7 +25,7 @@ Edda menor. La Edda Mayor, que es también la más antigua, es una
 colección de poemas anónimos. El idioma es islandés y data del año 1000
 o incluso antes. Se pueden dividir los poemas en dos grupos: poemas
 míticos que hablan sobre la creación y el fin del mundo, y los poemas
-heroicos que hablan principalmente sobre :ref:`Odin` y :ref:`Thor`.
+heroicos que hablan principalmente sobre :ref:`Odín` y :ref:`Thor`.
 
 La Edda Menor es también llamada la Edda de Snorri Sturluson quien lo
 escribió alrededor de 1220. Es un manual de poesía para los escaldos.
@@ -39,7 +39,7 @@ Parece ser que estos poemas (que en su momento eran aprendidos de
 memoria por los poetas, al no existir cultura escrita, y en los que se
 encerraba todo el saber de un pueblo) eran utilizados en ceremonias
 iniciáticas de la pubertad a la edad adulta. El neófito debía
-identificarse con la figura del dios protagonista (:ref:`Odin` era el que tenía
+identificarse con la figura del dios protagonista (:ref:`Odín` era el que tenía
 mayores connotaciones chamánicas) y pasar por las pruebas que el dios
 había establecido y superado. La Edda en verso contiene no sólo poemas
 referentes a los dioses sino a grandes héroes vikingos, son las famosas
@@ -48,9 +48,9 @@ el Rojo, cuyos hijos llegaron a las costas americanas antes que Colón.
 
 El poema más famoso de las Eddas es el Voluspá, o Profecía de la
 Vidente. considerado por algunos como una elegía al mundo pagano que
-desaparece, trata del interrogatorio de :ref:`Odin` a una bruja
+desaparece, trata del interrogatorio de :ref:`Odín` a una bruja
 muerta a la que resucita para que le informe sobre el destino (que no
-crepúsculo) de los dioses, el :ref:`Ragnarok`.
+crepúsculo) de los dioses, el :ref:`Ragnarök`.
 
 La Vidente comienza a narrar el origen del mundo, ordenado por los dioses,
 las distintas criaturas que lo habitan y el final de este ciclo del
