@@ -4,14 +4,14 @@ Los 9 Mundos
 
 La tierra es una circunferencia rodeada de aguas en las que habita la
 serpiente Midgard, con distintos mundos todos sostenidos por el gran
-árbol Yggdrasil, el cual tiene tres raíces que van hacia Asgard,
+árbol :ref:`Yggdrasil`, el cual tiene tres raíces que van hacia :ref:`Asgard`,
 Jotunheim y hacia los infiernos. El árbol es alimentado por tres fuentes
 las cuales emanan de todos los ríos. Las nornas (conocedoras del destino
 de cada hombre) son las encargadas de cuidar el fresno, el cual se
 mantendrá vivo aun despues del fin de los tiempos y del cual nacerán dos
 nuevos dioses.
 
-.. mundos-muspellheim:
+.. _Muspellheim:
 
 Muspellheim
 ------------
@@ -19,18 +19,18 @@ Muspellheim
 Es el más elevado y un infierno de demonios Igneos y
 donde habitan los gigantes de fuego. Surt, el demonio herrero de la
 desgracia es el más poderoso aquí y se dice que será quien combata al
-sobreviviente del Ragnarok.
+sobreviviente del :ref:`Ragnarök`.
 
-.. mundos-nifleheim:
+.. _Nifelheim:
 
-Nifleheim
+Nifelheim
 ------------
 
-(mundo de la niebla) es el más bajo, mundo del fríoy de
+Mundo de la niebla. Es el más bajo, mundo del frío y de
 las tinieblas en medio del cual está la fuente Hvergelmer donde habita
 el dragón Nidhug.
 
-.. mundos-midgard:
+.. _Midgard:
 
 Midgard
 ------------
@@ -39,47 +39,47 @@ O Mannaheim es el reino de los hombres y especies
 vivientes, rodeado por un gran océano, los dioses le dieron a Ask y a
 Embla, la primera pareja humana, este mundo para que lo habitaran.
 
-.. mundos-asgard:
+.. _Asgard:
 
 Asgard
 --------
 
-Por encima de Midgard está el hogar de los Dioses, dentro de
+Por encima de :ref:`Midgard` está el hogar de los Dioses, dentro de
 él, existen varias mansiones de las cuales cada dios tiene una, excepto
 Odín que tiene tres: Gladsheim, donde estaba la sala de consejo de los
 dioses, Valaskialf donde estaba su trono y Valhala, la mas hermosa,
 donde van todos los guerreros que han muerto en una batalla. En el
 centro de Asgard hay un gran fuego donde todos los dioses se reúnen a
-planear el futuro de los 9 mundos. Este reino esta unido a Midgard
-mediante el Bifrost, el arcoiris, vigilado por Heimdall.
+planear el futuro de los 9 mundos. Este reino esta unido a :ref:`Midgard`
+mediante el Bifrost, el arcoiris, vigilado por :ref:`Heimdall`.
 
-.. mundos-jotunheim:
+.. _Jotunheim:
 
 Jotunheim
 ------------
 
 Más allá del océano se encuentra el reino de los
-gigantes, ubicado al norte y que rodea Midgard, está separado de Asgard
+gigantes, ubicado al norte y que rodea :ref:`Midgard`, está separado de :ref:`Asgard`
 por el río Iving que jamás congela. Thor acostumbra viajar aquí a matar
 gigantes.
 
-.. mundos-vanaheim:
+.. _Vanaheim:
 
 Vanaheim
 ------------
 
 Por sobre de la tierra se encuentra el reino de los dioses
-Vanir, guerreros pero sometidos por los Aesir.
+:ref:`Vanir`, guerreros pero sometidos por los :ref:`Aesir`.
 
-.. mundos-alheim:
+.. _Alheim:
 
 Alheim
 ------------
 
 Entre estos dos esta el mundo de los Elfos de luz gobernados
-por Frey quien guarda allí su navío Skibladnir.
+por :ref:`Freyr` quien guarda allí su navío Skibladnir.
 
-.. mundos-svartalheim:
+.. _Svartalheim:
 
 Svartalheim
 ------------
@@ -88,12 +88,12 @@ Si se desciende por este se puede llegar al mundo de
 los elfos oscuros, donde viven malignas criaturas y que precede al reino
 de Hel.
 
-.. mundos-hel:
+.. _mundo-Hel:
 
 Hel
 ----
 
-Se encuentra entre Svaralheim y Niflheim es el reino de la
-muerte, el cual se encuentra gobernado por Hel, hija de Loki y su
+Se encuentra entre :ref:`Svartalheim` y :ref:`Nifelheim` es el reino de la
+muerte, el cual se encuentra gobernado por :ref:`Hel`, hija de :ref:`Loki` y su
 entrada es custodiada por un perro (Gann). Este mundo está destinado a
 quienes mueren por enfermedad o vejez.

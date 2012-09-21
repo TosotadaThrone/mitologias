@@ -1,7 +1,6 @@
 El origen del mundo
 ====================
 
-
 Al principio, érase el Frío y el Calor. El frío era :ref:`Nilfheim`, un mundo
 de oscuridad, frío y niebla. El calor era Muspell, el mundo del eterno
 calor. Entre estos dos mundos existía un gran vacío con el nombre de
@@ -85,9 +84,18 @@ quedó imbuido de sentido y propósito.
 
 Creación de los distintos mundos
 ---------------------------------
+
+.. note::
+    Esta sección se encuentra explicada más en detalle en "mundos"
+
+.. _Yggdrasil:
+
+Yggdrasil
+^^^^^^^^^^
+
 En este nuevo mundo crearon el mundo
-de los hombres, llamado Midgård. Luego, y para que los hombres no se
-sintieran solos, crearon en el centro de Midgård el mundo de los ases,
+de los hombres, llamado :ref:`Midgard`. Luego, y para que los hombres no se
+sintieran solos, crearon en el centro de :ref:`Midgard` el mundo de los ases,
 Asgård, en cuyo centro crecía un gran fresno llamado :ref:`Yggdrasil`.
 
 Junto al fresno :ref:`Yggdrasil` tienen los dioses su tribunal. Este es el mayor de
@@ -110,6 +118,13 @@ Hay nornas de los elfos, de los hombres y de los enanos. Un águila sabia se sie
 sobre las ramas del fresno, y sobre sus ojos hay un halcón que se llama
 Vedrfolnir. La ardilla Ratatosk sube y baja el fresno y lleva
 habladurías entre la serpiente/dragón Nidhögg y el águila.
+
+.. image:: /images/yggdrasil.jpg
+   :height: 1252 px
+   :width: 900 px
+   :scale: 40 %
+   :align: center
+   :alt: Yggdrasil
 
 Cuatro ciervos comen junto al fresno: Dain, Dvalin, Duneyr y Durathror.
 Hvergelmir está llena de serpientes, y en la fuente de Urd, con la que
