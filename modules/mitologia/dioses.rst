@@ -239,9 +239,9 @@ Este :ref:`Aesir` inato originó la lucha entre los dioses por un lado y
 La influencia cristiana pudo ser la causa de la “resurrección” de :ref:`Balder`,
 ya que volvió después del :ref:`Ragnarök`.
 
-.. _Foresti:
+.. _Forseti:
 
-Foresti
+Forseti
 --------
 
 Dios hijo de :ref:`Balder` y Nanna. Se encuentra a cargo de la asamblea de los
@@ -382,7 +382,7 @@ Dioses.
 .. image:: /images/heimdall.jpg
     :align: center
 
-Vivía cerca de Himmelberget y vigilaba Bifröst. :ref:`Heimdall` casi no
+Vivía cerca de Himmelberget y vigilaba :ref:`Bifröst`. :ref:`Heimdall` casi no
 necesitaba dormir y era capaz de ver en la oscuridad.
 
 Se dice que Heimdall tuvo tres hijos con la madre de la tierra, Thrall, de
@@ -487,7 +487,7 @@ terribles del universo: Fenrisulven (el lobo :ref:`Fenrir`), Midgardsormen
 
 Loki sera el comandante de los ejércitos de las tinieblas en la gran
 batalla del :ref:`Ragnarök` , y combatira con :ref:`Heimdall` el guardián de
-Bifröst, donde ambos se darán muerte.
+:ref:`Bifröst`, donde ambos se darán muerte.
 
 .. _Jörd:
 
@@ -803,7 +803,7 @@ Viajaba en un carro tirado por dos machos cabríos, provocando los
 truenos que los humanos oían desde la tierra. Thor vivía en Bilskirnir,
 que era un palacio cerca de Trondheim (Trudheim), a las afueras de
 Asgard, en una región llamada Thrudvang (El campo de Fuerza). Thor no
-quería cruzar el puente que unía Midgard con Asgard, porque Bifröst no
+quería cruzar el puente que unía Midgard con Asgard, porque :ref:`Bifröst` no
 podría soportar el calor de sus rayos y el estruendo de los truenos que
 causaba su carro.::
 

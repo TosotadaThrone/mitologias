@@ -26,12 +26,13 @@ Mitología Nórdica
 ------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    modules/mitologia/introduccion
    modules/mitologia/origen_del_mundo
    modules/mitologia/mundos
    modules/mitologia/dioses
+   modules/mitologia/ragnarok
 
 
 Contacto
