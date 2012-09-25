@@ -175,6 +175,250 @@ nueve pasos y morirá ahogado por el veneno de la ésta.
 Loki luchará con Heimdall y los dos morirán entonces Sutur arrojará fuego sobre
 los nueve mundos.
 
-Loki se enfrenta a Heimdall
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tras la destrucción
+^^^^^^^^^^^^^^^^^^^^
+
+Después de la destrucción se creará un nuevo mundo. La tierra, depurada por el 
+fuego y purificada por su inmersión en el mar, emergerá de nuevo y será 
+iluminada por el Sol, cuyo carro estará conducido por un hijo de éste, nacido 
+antes de que el lobo hubiera devorado a su madre. El nuevo Sol no tendrá 
+imperfecciones como el primero y sus rayos ya no serán tan ardientes como para 
+tener que situar un escudo entre él y la tierra. Estos rayos harán que la 
+tierra renueve su manto verde y crezcan flores y frutas en abundancia. 
+
+Una tierra nueva, verde y hermosa con recursos inagotables. 
+
+No habrá hambre, ni frío, ni mal. Asgard habrá desaparecido, pero allí 
+regresarán los Ases que sobrevivan a Ragnarök. A la cabeza de los nuevos 
+dioses estarán aquellos de los antiguos dioses que no cometieron falsedades, 
+perjurios ni crímenes y que se salvaron por ello de la destrucción. 
+
+Todos los dioses que representaban las fuerzas en desarrollo de la Naturaleza 
+fueron asesinados en la batalla. El primer dios en resucitar será Balder, 
+que junto a su hermano Hodur, con quien estaba reconciliado y con el que 
+viviría en perfecta amistad y paz. Odín no volverá pero sí sus hijos Vali y 
+Vidar y los hijos de sus hermanos Vile y Ve. Vali y Vidar eran las fuerzas 
+de la Naturaleza, que regresarían a las tierras de Ida, donde se les unirán 
+Modi y Magni, hijos de Thor y personificaciones de la fuerza y la energía, que 
+rescatarán a Mjöllnir, y junto a ellos caminará Hoenir. 
+
+Fue así como, caminando un día sobre el largo césped de Idavold, encontrarán de 
+nuevo los discos de oro con los que los Ases habían acostumbrado a jugar. 
+
+Cuando el pequeño grupo de dioses se vuelva tristemente hacia el lugar donde se 
+habían alzado una vez sus moradas señoriales, se darán cuenta de que Gimli, 
+la morada celestial más elevada, con su techo de oro en lo alto, no había sido 
+consumida. Allí descubrieran que se había convertido en el lugar de refugio de 
+la nueva casta de dioses. Entre los sobrevivientes sólo habrá una mujer, Lif, y 
+un hombre, Lifthrasir, que se refugiaron durante la batalla en el Bosque de 
+Hodmimir (Bosque de Mimir), escapando y sobreviviendo de las aguas para 
+refugiarse cuando Surt había puesto el mundo en llamas. Habían caído en un 
+tranquilo sueño, inconscientes de la destrucción a su alrededor y habían 
+permanecido allí, alimentados por el rocío de la mañana, hasta que fue seguro 
+para ellos el volver a salir. 
+
+En ese momento tomarán posesión de la tierra regenerada, que sus descendientes 
+poblarán y sobre la cual tendrán un dominio completo. Emergrán entonces de las
+profundidades del bosque de Hodmimir. De ellos nacerá una nueva raza humana 
+protegida por los nuevos y mejores dioses. Además, existían otras dos mansiones,
+una reservada para los enanos y la otra para los algunos gigantes, pero ya que 
+estas criaturas no tenían libertad de voluntad y ejecutaban ciegamente los 
+decretos del destino, no serán consideradas responsables de ningún daño que 
+hubieran causado, y por tanto no serán consideradas merecedoras de ser 
+castigadas. Se decía que los enanos gobernados por Sindri, ocuparían un palacio 
+en las montañas Nida, donde beberán el aguamiel, mientras que los gigantes 
+establecerían su residencia en el palacio Brimer, situado en la región Okolnur 
+(no fría), pues el poder del frío será completamente aniquilado y ya no 
+existirá más hielo.
+
+Las Eddas se refieren asi al Ragnarök::
+
+    Los hijos de Mimer juegan;
+    los dioses son llamados a la batalla
+    por el viejo
+    cuerno de Gjallar;
+    Heimdall sopla muy fuerte
+    sus sones en los aires;
+    Odin habla
+    con la cabeza de mimer.
+
+    Entonces tiembla Yggdrasil,
+    el fresno de fuertes raíces;
+    el viejo árbol murmura
+    cuando el gigante cede,
+    Todo tiembla
+    en el reino de hell,
+    hasta el hijo de Surt
+    devora a Odin.
+
+    ¿Que sucede con los dioses?
+    ¿que sucede con los enanos?
+    Jotumheim lanza un grito desgarrador.
+    los dioses tienen el Thing;
+    los enanos estremecen
+    delante de sus hundidas cavernas,
+    donde habitan detras de sus rocosos muros,
+    comprendeis más o menos?
+
+    Garm ladra ruidosamente
+    en la caverna de gnipa;
+    las cavernas se han desunido,
+    El lobo ha recobrado la libertad,
+    Vala conoce el futuro,
+    ve mejor
+    que los dioses vencedores
+    la terrible caida.
+
+    De oriente acude Hrym,
+    llevando a su hijo delante suyo;
+    Jormungander da vueltas
+    en su furor de gigante;
+    las olas truenan;
+    el aguila lanza hirientes gritos
+    destroza cadáveres con su pálido pico,
+    y Nafglar es lanzado.
+
+    Del oriente se acerca un navío,
+    las legiones de muspel
+    llegan por mar, 
+    pero loke es el piloto.
+    todos los monstruos repulsivos y descarnados
+    se unen con el lobo,
+    y delante suyo marcha
+    el hermano de byleist.
+
+    Desde el sur acude surt
+    con el fuego hirviente, 
+    el sol del dios de la guerra
+    brilla en su espada
+    las montañas chocan unas con otra
+    y asustan a las hijas de los gigantes
+    los héroes caminan por los senderos de hel,
+    y el cielo es partido en dos.
+
+    sobre hlin caerá entonces
+    otra desgracia
+    cuando Odin parta
+    para combatir el lobo,
+    y aquel que ha matado a bele
+    cabalgue hacia surt
+    entonces caerá de frigg
+    el bien amado esposo
+
+    Garm ladra ruidosamente
+    en la caverna de gnipa
+    las cavernas se han desunido
+    el lobo ha recobrado su libertad, 
+    Vala conoce el futuro
+    ve mejor
+    que los dioses
+    la terrible caida
+
+    Entonces vidar, el gran hijo
+    del padre de la victoria,
+    avanza para combatir
+    a la bestia feroz
+    en el corazón del monstruo nacido de gigantes
+    hunde profundamente 
+    con mano segura su espada
+    y venga la muerte de su padre
+
+    Entonces el famoso hijo
+    de hlodyn llega
+    para combatir a la serpiente
+    el defensor de midgard
+    en su rabia mata a la serpiente
+    el hijo de fjorgyn
+    retrocede nueve pasos
+    titubea herido
+    por la feroz serpiente
+    todos los hombre abandonan la tierra
+
+    El sol oscurece
+    la tierra se hunde en el océano
+    las brillantes estrellas 
+    desaparecen del cielo
+    el fuego y el vapor
+    se desencadenan contra el cielo
+    altas llamas 
+    rodean los cielos
+
+    Garm ladra ruidosamente 
+    en la caverna de gnipa
+    las cadenas se han desunido
+    el lobo ha recobrado la libertad
+    vala conoce el futuro
+    ve mejor
+    que los dioses vencedores
+    la terrible caida
+
+Más sobre Ragnarök
+^^^^^^^^^^^^^^^^^^^
+
+El Ragnarök está intimamente relacionado con lo que acontece después: la 
+reaparición de ciertos dioses en un nuevo cielo, el surgimiento de una nueva 
+tierra, etc.
+
+La destrucción total del universo, la muerte de los dioses, resultan 
+dificilmente admisibles por la mente humana si no tienen una posterior 
+continuación, si no dejan una puerta abierta, por estrecha y lejana que sea, a 
+la esperanza.
+
+Dice Snorri cuando hubo oído los sucesos del Ragnarök, Gylfi preguntó::
+
+    "¿Y después?¿Qué ocurre cuando toda la Creación ha ardido, cuando todos los 
+    dioses han muerto con los Guerreros Elegidos y las razas de los hombres? 
+    
+    ¿No aseguraste antes que alguien viviría eternamente en un nuevo cielo?"
+
+    "El tercero respondió: 
+
+    Muchas son las moradas buenas y muchas las malas:
+
+    La mejor será Gimblé; y excelente para estos dioses que se divierten 
+    entrechocando las copas, es el palacio de Brimir que está en Ökólnir, el 
+    Jamás Frío. También es estupenda la mansión que hay en Nidafyöll (hecha de 
+    oro rojo), denominada Sindri. Allí vivirán los buenos hombres, de corazón puro. 
+
+    En Náströnd, la Costa de los Cadáveres, existe una buena morada y otra mala: 
+    su entrada se orienta hacia el norte glacial. Además está cubierta de 
+    serpientes trenzadas como si fuera un taller de mimbre, y todos los reptiles 
+    dirigen la cabeza hacia la sala y expiden veneno en tales cantidades, que 
+    allí surge un río ponzoñoso; y lo sperjuros y asesinos tienen que vadearlo". 
+
+    "Vi una mansión alejada del sol en Náströnd; la puerta da al norte, gotas 
+    de veneno caen de los tragaluces la sala está rodeada de dorsos de serpientes.
+
+    "Alto repuso: La tierra se alzará verse y hermosa del mar, y las plantas 
+    crecerán donde jamás se sembraron. Vídarr y Váli vivirán como si el mar o 
+    los fuegos de Sutr no los hubiesen lastimado, y se establecerán en Idvöllr,
+     donde Asgard antes estuvo. Allí acudirán también los hijos de Thor, Módi y 
+     Magni, portando el martillo de su padre. Y después Balder y Hödr, salidos 
+     del infierno. Vivirán en amor, hablarán mucho, recobrarán su antigua s
+     abiduría y olvidarán los antiguos males de la Serpiente del Mundo y del 
+     Lobo Fenrir. 
+
+     En la hierba encontrarán más tarde el ajedrez de oro que poseyeron los dioses. Como aquí dice: 
+
+    "Vídarr y Váli contemplarán las mansiones de los dioses una vez se apaguen 
+    los fuegos de Sutr; Módi y Magni tendrán el Mjöllnir, cuando cese la batalla 
+    de Vingnir." "Y del bosque de Hoddmímir se refugiarán dos seres humanos 
+    llamados Líf y Lífzrasir, se esconderán de los aterradores fuegos de Sutr. 
+
+    De ellos descenderá una multitud tan nutrida, que colonizará el mundo entero. 
+
+    "Y te asombrará saber que Sol tenga un ahija tan extraordinariamente bella 
+    como ella, que recorrerá el mismo sendero que holló su madre, porque así se 
+    cuenta:" 
+
+    Una hija radiante la brillante Sol alumbra antes de que la devore Fenrir; 
+    así la doncella recorrerá el camino materno, cuando los dioses hallen la 
+    ruina "Quizás tengas más preguntas que hacer, pues no sé de dónde tú las 
+    sacas.Nunca oí qu enadie se interesase tanto por el curso del mundo. 
+
+    Conténtate con lo has escuchado". 
+
+
+
+
 

@@ -239,6 +239,23 @@ Este :ref:`Aesir` inato originó la lucha entre los dioses por un lado y
 La influencia cristiana pudo ser la causa de la “resurrección” de :ref:`Balder`,
 ya que volvió después del :ref:`Ragnarök`.
 
+Los sueños de :ref:`Balder` 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A reunirse en consejo acudieron los ases, Las diosas todas junta tuvieron; De esto trataron los grandes dioses, Porqué tuvo :ref:`Balder` maléficos sueños. Levantóse :ref:`Odín`, el viejo gauta, Y encima a :ref:`Sleipnir` le puso la silla; Cabalgó para abajo hasta el Niflhel, Se topó con un can que del Hel le salió. 
+
+Chorreante de sangre su pecho tenía Y al padre de ensalmos mucho aulló; :ref:`Odín` prosiguió resonaba el camino Y llegó a la morada, la alta, de Hel. Tiró ante la entrada :ref:`Odín` para el este Donde él enterrada a la bruja sabía: Con lúgubre ensalmo cantó a la adivina, Que tuvo que alzarse y muerta le habló: ¿Qué hombre es éste que yo no conozco, que me hace venir en penoso viaje? Me nevaba la nieve, me caía la lluvia, Me mojaba el rocío: llevo mucho de muerta. Végtam me llamo, soy hijo de Váltam; desde el hel di tú, digo yo desde el mundo: ¿Para quién se sembraron los bancos de anillas? 
+
+¿Para quién se cubrieron, hermosos, de oro? Hecho está ya el hidromiel para :ref:`Balder`, la clara bebida que escudo tapa. Terrible temor a los ases agobia. A la fuerza hablé, callaré yo ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me cuentes todo: 
+
+¿Quién ha de ser el que a :ref:`Balder` mate y al hijo de :ref:`Odín` le quite la vida? Por obra de Hod nos vendrá el excelso, Él ha de ser el que a :ref:`Balder` mate Y al hijo de :ref:`Odín` le quite la vida. A la fuerza hablé, callaré yo ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me cuentes todo: ¿Quién esa muerte de Hod vengará y a la pira echará al matador de :ref:`Balder`? 
+
+:ref:`Vali` al oeste de Rind nacerá, el que, hijo de :ref:`Odín` peleará con un día: ni lavará sus manos, ni peinará su cabeza hasta echar en la pira al matador de :ref:`Balder`. A la fuerza hablé, callaré yo ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me cuentes todo: ¿Cuáles doncellas habrán de llorarlo altos sus velos lanzando al cielo? ¡No eres tú Végtam, aquel que creí: :ref:`Odín` eres tú, el viejo gauta! ¡No eres tú bruja ni sabia adivina: madre de ogros, de tres, tu eres! ¡Ya márchate :ref:`Odín`, y bien satisfecho! Nadie ya más a verme vendrá Hasta el día en que :ref:`Loki` se libre y suelte Y les llegue a los dioses su ocaso final.
+
+.. note::
+	Edda mayor textos mitologicos de las Eddas editada por Bernárdez
+
+
 .. _Forseti:
 
 Forseti
@@ -320,6 +337,19 @@ Diosa del amor, la fertilidad, la lluvia y la fecundidad. Era la Diosa que
 enseñaba a los demás el arte de la magia, tenía una manta mágica de plumas con
 la que se transformaba en halcón y un collar llamado Brisingegamen. Montaba en
 un carro llevado por dos gatos. Lloraba con lágrimas de oro.
+
+Es una diosa Vanir, Hija de :ref:`Njörd` y hermana de :ref:`Freyr`. Tuvo hijas con Od, Hnoss y Gersemi. 
+
+Ella vivía en el Folkvang y cada día escogía la mitad de los guerreros que morían, la otra mitad era de :ref:`Odín`. Su carro era arrastrado por gatos masculinos (sus nombres nunca se declaran) también poseyó el collar Brising, tuvo que dormir con cuatro enanos para adquirirlo. 
+
+También tenía una chaqueta suave que podía usar para volar entre los mundos. Después que ella se fue a vivir con los Aesir como rehén, les enseñó -- incluso a :ref:`Odín`-- el seidr. 
+
+Algunas fuentes dicen que el viernes (friday) es nombrado así por ella. Snorri dice sobre Freya:: 
+
+	Igualmente Freya es la diosa más hermosa. Su morada celestial se denomina Fólkvang o Llanura de la Gente. Cuando acude a combate, se adueña de la mitada de los cadáveres y Odín de la otra mitad"
+
+	"Su palacio, es espacioso y aireado, es llamado el Rico en Asientos (Sessrúmnir). En sus viajes ocupa un carruaje tirado por un par de gatos. Favorece en sobremanera a los humanos, y de su nombre procede el alto título que se otorga alas mujeres notables, a saber: FREYA o SEÑORA. Gústanle los cantos de amor; y a ella conviene recurrir en los asuntos del corazón" Más adelante Snorri amplía los informes sobre esta diosa y empareja su nombre al de Frigg; Freya ya es exaltada con Frigg. Casó con el llamado Ódr y su hija es Hnoss (Gema), ödr solía ausentarse en largos vagabundeos y Freya le lloraba vertiendo lágrimas de oro rojo. Freya tiene muchos nombres, tantos que es difícil recogerlos todos, y la razón de ello estriba en los diferentes apelativos que recibió mientras recorría pueblos extraños en busca de su marido: Mardöll y Hörn y Gefn y Syr. Posee Brísingamen, el collar Brísings. !AH! también se llama Vanadis". 
+
 
 .. _Frigga:
 
