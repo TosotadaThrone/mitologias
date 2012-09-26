@@ -205,7 +205,7 @@ espiritual, y conocía muchos y poderosos hechizos mágicos (galdrer).
 ¿Era el mundo redondo?
 ^^^^^^^^^^^^^^^^^^^^^^^
 El mundo era redondo; pero no como una manzana o una pelota. Tenía forma
-circular… como un disco de madera, delgado y plano, aserrado del extremo
+circular, como un disco de madera, delgado y plano, aserrado del extremo
 de un tronco.
 
 Creación de los hombres

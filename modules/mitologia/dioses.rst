@@ -189,18 +189,38 @@ Este :ref:`Aesir` inato originó la lucha entre los dioses por un lado y
 La influencia cristiana pudo ser la causa de la “resurrección” de :ref:`Balder`,
 ya que volvió después del :ref:`Ragnarök`.
 
-Los sueños de :ref:`Balder` 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Los sueños de Balder
+^^^^^^^^^^^^^^^^^^^^^^
 
-A reunirse en consejo acudieron los ases, Las diosas todas junta tuvieron; De esto trataron los grandes dioses, Porqué tuvo :ref:`Balder` maléficos sueños. Levantóse :ref:`Odín`, el viejo gauta, Y encima a :ref:`Sleipnir` le puso la silla; Cabalgó para abajo hasta el Niflhel, Se topó con un can que del Hel le salió. 
+A reunirse en consejo acudieron los ases, Las diosas todas junta tuvieron; De esto trataron los grandes 
+dioses, Porqué tuvo :ref:`Balder` maléficos sueños. Levantóse :ref:`Odín`, el viejo gauta, Y encima a 
+:ref:`Sleipnir` le puso la silla; Cabalgó para abajo hasta el Niflhel, Se topó con un can que del Hel le 
+salió. 
 
-Chorreante de sangre su pecho tenía Y al padre de ensalmos mucho aulló; :ref:`Odín` prosiguió resonaba el camino Y llegó a la morada, la alta, de Hel. Tiró ante la entrada :ref:`Odín` para el este Donde él enterrada a la bruja sabía: Con lúgubre ensalmo cantó a la adivina, Que tuvo que alzarse y muerta le habló: ¿Qué hombre es éste que yo no conozco, que me hace venir en penoso viaje? Me nevaba la nieve, me caía la lluvia, Me mojaba el rocío: llevo mucho de muerta. Végtam me llamo, soy hijo de Váltam; desde el hel di tú, digo yo desde el mundo: ¿Para quién se sembraron los bancos de anillas? 
+Chorreante de sangre su pecho tenía Y al padre de ensalmos mucho aulló; :ref:`Odín` prosiguió resonaba el 
+camino Y llegó a la morada, la alta, de Hel. Tiró ante la entrada :ref:`Odín` para el este Donde él 
+enterrada a la bruja sabía: Con lúgubre ensalmo cantó a la adivina, Que tuvo que alzarse y muerta le 
+habló: ¿Qué hombre es éste que yo no conozco, que me hace venir en penoso viaje? Me nevaba la nieve, me 
+caía la lluvia, Me mojaba el rocío: llevo mucho de muerta. Végtam me llamo, soy hijo de Váltam; desde el 
+hel di tú, digo yo desde el mundo: ¿Para quién se sembraron los bancos de anillas? 
 
-¿Para quién se cubrieron, hermosos, de oro? Hecho está ya el hidromiel para :ref:`Balder`, la clara bebida que escudo tapa. Terrible temor a los ases agobia. A la fuerza hablé, callaré yo ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me cuentes todo: 
+¿Para quién se cubrieron, hermosos, de oro? Hecho está ya el hidromiel para :ref:`Balder`, la clara 
+bebida que escudo tapa. Terrible temor a los ases agobia. A la fuerza hablé, callaré yo ahora. No calles, 
+oh bruja, que entera respuesta quiero de ti, que me cuentes todo: 
 
-¿Quién ha de ser el que a :ref:`Balder` mate y al hijo de :ref:`Odín` le quite la vida? Por obra de Hod nos vendrá el excelso, Él ha de ser el que a :ref:`Balder` mate Y al hijo de :ref:`Odín` le quite la vida. A la fuerza hablé, callaré yo ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me cuentes todo: ¿Quién esa muerte de Hod vengará y a la pira echará al matador de :ref:`Balder`? 
+¿Quién ha de ser el que a :ref:`Balder` mate y al hijo de :ref:`Odín` le quite la vida? Por obra de Hod 
+nos vendrá el excelso, Él ha de ser el que a :ref:`Balder` mate Y al hijo de :ref:`Odín` le quite la vida.
 
-:ref:`Vali` al oeste de Rind nacerá, el que, hijo de :ref:`Odín` peleará con un día: ni lavará sus manos, ni peinará su cabeza hasta echar en la pira al matador de :ref:`Balder`. A la fuerza hablé, callaré yo ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me cuentes todo: ¿Cuáles doncellas habrán de llorarlo altos sus velos lanzando al cielo? ¡No eres tú Végtam, aquel que creí: :ref:`Odín` eres tú, el viejo gauta! ¡No eres tú bruja ni sabia adivina: madre de ogros, de tres, tu eres! ¡Ya márchate :ref:`Odín`, y bien satisfecho! Nadie ya más a verme vendrá Hasta el día en que :ref:`Loki` se libre y suelte Y les llegue a los dioses su ocaso final.
+A la fuerza hablé, callaré yo ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me 
+cuentes todo: ¿Quién esa muerte de Hod vengará y a la pira echará al matador de :ref:`Balder`? 
+
+:ref:`Vali` al oeste de Rind nacerá, el que, hijo de :ref:`Odín` peleará con un día: ni lavará sus manos, 
+ni peinará su cabeza hasta echar en la pira al matador de :ref:`Balder`. A la fuerza hablé, callaré yo 
+ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me cuentes todo: ¿Cuáles doncellas 
+habrán de llorarlo altos sus velos lanzando al cielo? ¡No eres tú Végtam, aquel que creí: :ref:`Odín` 
+eres tú, el viejo gauta! ¡No eres tú bruja ni sabia adivina: madre de ogros, de tres, tu eres! ¡Ya 
+márchate :ref:`Odín`, y bien satisfecho! Nadie ya más a verme vendrá Hasta el día en que :ref:`Loki` se 
+libre y suelte Y les llegue a los dioses su ocaso final.
 
 .. note::
 	Edda mayor textos mitologicos de las Eddas editada por Bernárdez
@@ -209,7 +229,8 @@ Chorreante de sangre su pecho tenía Y al padre de ensalmos mucho aulló; :ref:`
 
 Bil
 ----
-Listado por :ref:`Snorri` como una de los dioses. La historia dice que dos niños, Bil y Hjuki que fueron tomados desde la tierra por Luna, para acompañarlo. Su padre era Vidfinn.
+Listado por :ref:`Snorri` como una de los dioses. La historia dice que dos niños, Bil y Hjuki que fueron 
+tomados desde la tierra por Luna, para acompañarlo. Su padre era Vidfinn.
 
 .. _Bragi:
 
@@ -231,7 +252,8 @@ En el siglo IX vivió un escaldo, Bragi Broddason, tan popular que a su
 muerte le deificaron y le casaron con la diosa Idun, siendo el origen
 real de este dios.
 
-:ref:`Snorri` dice:" Hay otro dios llamado :ref:`Bragi`, al que se celebra por su sabiduría y , en especial, por su facundia y destreza retórica. Él conoce más que nadie los secretos de
+:ref:`Snorri` dice:" Hay otro dios llamado :ref:`Bragi`, al que se celebra por su sabiduría y , en 
+especial, por su facundia y destreza retórica. Él conoce más que nadie los secretos de
 la poesía, la cual, en ocasiones, se titula "Aliento de :ref:`Bragi`", así como se da nombres 
 de hombres o mujeres de :ref:`Bragi` a quienes sobresalen de lo común en la composición poética.
 
@@ -239,7 +261,9 @@ Su esposa es Idunn, que guarda en su cofrecillo de fresno las manzanas que los d
 mordisquean cuando envejecen y decaen, e inmediatamente rejuvenecen. Esto persistirá
 hasta el Ragnarök". 
 
-	:ref:`Snorri` pregunta (Skáldskaparmál X): "¿Cómo prifrasear a :ref:`Bragi`?", y responde: "Llamándole Marido de Idunn, Primer Poeta, Dios Barbudo (por eso el hombre de barba cerrada se le llama 
+	:ref:`Snorri` pregunta (Skáldskaparmál X): "¿Cómo prifrasear a :ref:`Bragi`?", y responde: 
+	"Llamándole Marido de Idunn, Primer Poeta, Dios Barbudo (por eso el hombre de barba cerrada se le 
+	llama 
 	Barbabragi) e Hijo de :ref:`Odín`". 
 
 En la canción de Eric que trata del ingreso de Eric al :ref:`Valhalla`, Eric Hacha 
@@ -262,7 +286,8 @@ El dios :ref:`Bragi` se despertó entonces y, oyendo acercarse a Eric y a los su
 
 Bor
 ----
-Hijo de Buri. Su esposa era Bestla, hija el gigante de la escarcha Bolthorn. :ref:`Bor` era padre de :ref:`Odín`, :ref:`Vili`, y Ve.
+Hijo de Buri. Su esposa era Bestla, hija el gigante de la escarcha Bolthorn. :ref:`Bor` era padre de 
+:ref:`Odín`, :ref:`Vili`, y :ref:`Ve`.
 
 .. _Buri:
 
@@ -339,9 +364,12 @@ un carro llevado por dos gatos. Lloraba con lágrimas de oro.
 
 Es una diosa Vanir, Hija de :ref:`Njörd` y hermana de :ref:`Freyr`. Tuvo hijas con Od, Hnoss y Gersemi. 
 
-Ella vivía en el Folkvang y cada día escogía la mitad de los guerreros que morían, la otra mitad era de :ref:`Odín`. Su carro era arrastrado por gatos masculinos (sus nombres nunca se declaran) también poseyó el collar Brising, tuvo que dormir con cuatro enanos para adquirirlo. 
+Ella vivía en el Folkvang y cada día escogía la mitad de los guerreros que morían, la otra mitad era de 
+:ref:`Odín`. Su carro era arrastrado por gatos masculinos (sus nombres nunca se declaran) también poseyó 
+el collar Brising, tuvo que dormir con cuatro enanos para adquirirlo. 
 
-También tenía una chaqueta suave que podía usar para volar entre los mundos. Después que ella se fue a vivir con los Aesir como rehén, les enseñó -- incluso a :ref:`Odín`-- el seidr. 
+También tenía una chaqueta suave que podía usar para volar entre los mundos. Después que ella se fue a 
+vivir con los Aesir como rehén, les enseñó -- incluso a :ref:`Odín`-- el seidr. 
 
 Algunas fuentes dicen que el viernes (friday) es nombrado así por ella. :ref:`Snorri` dice sobre Freya:
 
@@ -404,7 +432,9 @@ También conocida como Volla.
 
 También suele ser la mensajera de la diosa. 
 
-Algunos creen que ella es la hermana. :ref:`Snorri` dice que era una virgen con pelo dorado largo, y suelto. 
+Algunos creen que ella es la hermana. :ref:`Snorri` dice que era una virgen con pelo dorado largo, y
+suelto.
+
 Llevaba una cinta de oro alrededor de su cabeza. 
 
 Cuida del cofrecillo de fresno de :ref:`Frigg` y de su calzado, y conoce todos sus secretos.
@@ -619,7 +649,7 @@ Diosa de de la tierra, hija de Nat, esposa de :ref:`Odín`. Ella era la madre de
 
 Lodur
 ------
-Él les dio apariencia y discurso a los primeros humanos. Se identifica con Vé por algunos
+Él les dio apariencia y discurso a los primeros humanos. Se identifica con :ref:`Ve` por algunos
 y como :ref:`Loki` por otros.
 
 .. _Loki:
@@ -918,7 +948,7 @@ gigante :ref:`Mimir` a cambio del derecho a beber del delicioso manantial de la
 sabiduría. Esto hizo arraigar la leyenda de que era el dios del cielo,
 sucediendo a :ref:`Tyr`, con su manto azul y su único ojo, el sol.
 
-Era hijo de los gigantes Bor y Bestla y hermano de los dioses Vile y Ve.
+Era hijo de los gigantes Bor y Bestla y hermano de los dioses Vile y :ref:`Ve`.
 Sus hijos fueron :ref:`Thor`, :ref:`Balder`, :ref:`Vale`, :ref:`Vali` y :ref:`Vidar`.
 
 Las tres mujeres de :ref:`Odín` eran diosas de la tierra y su hijo mayor era :ref:`Thor`.
@@ -1287,9 +1317,16 @@ y de :ref:`Frigg`.
 Era el más valiente y emprendedor de los :ref:`Aesir`, aunque no tan fuerte como
 :ref:`Thor`. Era musculoso y fuerte, aunque manco. Su nombre aparecía inscrito en las
 espadas de los guerreros, para darles su fortaleza. Se le invocaba antes
-de las batallas puesto que era él quien otorgaba las victorias. Fue el
-que ató al Lobo :ref:`Fenrir`. Para conseguirlo, le tuvo que ofrecer una de sus
-manos para distraer a la bestia
+de las batallas puesto que era él quien otorgaba las victorias. 
+
+Fue el que ató al Lobo :ref:`Fenrir`. Para conseguirlo, le tuvo que ofrecer una de sus
+manos para distraer a la bestia.
+
+.. image:: /images/tyr_fenrir.jpg
+	:align: center
+	:width: 876px
+	:height: 654 px
+	:scale: 60 %
 
 .. _Ull:
 

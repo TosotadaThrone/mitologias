@@ -32,7 +32,11 @@ Mitología Nórdica
    modules/mitologia/origen_del_mundo
    modules/mitologia/mundos
    modules/mitologia/dioses
+   modules/mitologia/valkirias
+   modules/mitologia/normas
    modules/mitologia/ragnarok
+   
+   modules/mitologia/fuentes
 
 
 Contacto
