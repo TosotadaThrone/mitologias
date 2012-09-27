@@ -43,6 +43,6 @@ Contacto
 ----------
 
 * Twitter: `@xalernita <http://twitter.com/xalernita>`_
-* Mail: `mitologia@imanol.me <mailto:mitologia@imanol.me>`_
+* Mail: `contacto@mitologias.net <mailto:contacto@mitologias.net>`_
 * Github: `imanoleizaguirre/mitologías <https://github.com/imanoleizaguirre/mitologias>`_
 
