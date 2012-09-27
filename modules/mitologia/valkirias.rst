@@ -8,7 +8,7 @@ Son quizás las féminas más conocidas de la mitología escandinava, las vírge
 mesas y les escancian la hidromiel: Gugr. Rota, Norn, Skuld y otras cinco desempeñan esta función, 
 siendo la más conocida Brunilda, que por desobedecer a :ref:`Odín` perdiese la inmortalidad y fuese 
 desposada por Sigfriedo, el hombre sin miedo, como se relata en la leyenda de los Nibelungos. Los 
-guerreros del :ref:`Valhalla`, los Einherjar, esperan la llegada de la Batalla Final, alimentándose de 
+guerreros del :ref:`Valhalla`, los :ref:`Einherjar`, esperan la llegada de la Batalla Final, alimentándose de 
 la carne del jabalí Saehrimnir.
 
 Cada día lo cuecen y a la tarde está entero.
@@ -40,13 +40,14 @@ fuerzas y se pusieran a combatir a fondo, sin rencor, hasta que les llamaran par
 Las Valkirias como diosas menores
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-:ref:`Snorri` considera a las Valkiriras, en la misma categoría que las diosas menores, pues comenta tras 
-hablar de las Asynyur: 
+:ref:`Snorri` considera a las Valkiriras, en la misma categoría que las diosas menores, pues comenta 
+tras hablar de las Asynyur: 
 	
 	Hay otras a las que les corresponde servir en el :ref:`Valhalla`, llevar las bebidas, 
 	tener l amesa dispuesta y mantener las jarras llenas.
 
-Estas gentes se llaman Valkirias. :ref:`Odín` las envía a todas las batallas, donde eligen a los hombres 
+Estas gentes se llaman Valkirias. :ref:`Odín` las envía a todas las batallas, donde eligen a los 
+hombres 
 destinados a morir y deciden quién obtendrá la victoria. Gúdr, Róta y la menor de las Nornas llamada 
 Skuld cabalgan siempre para seleccionar los muertos y ordenar el combate.
 
@@ -63,27 +64,31 @@ matados", cuyo significado no se conoce con certeza.
 :ref:`Snorri` en el Edda en verso describe a las 
 Valkirias como un tipo doméstico de mujer belicosa, que tanto sirve bebidas en la morada como cabalga 
 espléndidos corceles, armada de punta en blanco, en los terrenos de lucha. El Grimnismal incluye una 
-lista de las Valkirias y explica cómo llegan los héroes al :ref:`Valhalla` sin la intervención de estas, la 
+lista de las Valkirias y explica cómo llegan los héroes al :ref:`Valhalla` sin la intervención de 
+estas, la 
 conclusión a la que llegamos es que ya en esa época había opiniones diferentes a cerca de cómo 
 llegaban los muertos al lugar de elección.
 
 Los Glosarios rimados o Zulor ofrecen otras dos listas de nombres de valkirias; la primera contiene 
 nueve, relacionados al parecer con los hados o Norns, y en la segunda veitinueve. En ambas se dice de 
-ellas que son las Valkirias o Doncellas de :ref:`Odín`; su íntima dependencia de él y su cabalgar por tierra 
-son significativos. 
+ellas que son las Valkirias o Doncellas de :ref:`Odín`; su íntima dependencia de él y su cabalgar por 
+tierra son significativos. 
 
 El Hákonarmál, que se supone compuesto más de treinta años después que Beowulf , es más fiel a la 
 antigua concepción de las valkirias. 
 
 Su protagonista, el rey Hákon el bueno, era hijo adoptivo del monarca inglés Athelstan, el vencedor de 
 Brunanburg. Le mataron los hijos de Gunnhildr. En el poema Göndul y Skögul reaparecen como Valkirias 
-que le conducen al :ref:`Valhalla` personas dignas y nobles, armadas de punta en blanco, montadas en altos 
-caballos, dirigiendo la lucha a tenor de las órdenes de :ref:`Odín`. El Hákonarmál empieza: El Padre de los 
+que le conducen al :ref:`Valhalla` personas dignas y nobles, armadas de punta en blanco, montadas en 
+altos 
+caballos, dirigiendo la lucha a tenor de las órdenes de :ref:`Odín`. El Hákonarmál empieza: El Padre 
+de los 
 Dioses envió a Göndul y Skögul a elegir un campeón regio, del linaje de Yngvi, que entrase al servicio 
 de :ref:`Odín`, valiente en el :ref:`Valhalla`. 
 
 Se da la batalla y Hákon recibe una herida mortal: El rey estaba con la espada desenvainada, el escudo 
-mellado y la coraza perforada. Muy poco alentaba el espíritu de los destinados al :ref:`Valhalla`. Göndull 
+mellado y la coraza perforada. Muy poco alentaba el espíritu de los destinados al :ref:`Valhalla`. 
+Göndull 
 habló, dijo apoyándose en su lanza: "El ejército de los Äsir crece, ahora Hákon con una gran hueste es 
 enviado a los Poderes celestiales." Vencido, el soberano oyó a las Valkirias charlando en sillas de 
 sus caballos, bizarra prestancia tenían bajo los cascos, con los paveses al hombro. 

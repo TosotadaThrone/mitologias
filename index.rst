@@ -34,6 +34,8 @@ Mitología Nórdica
    modules/mitologia/dioses
    modules/mitologia/valkirias
    modules/mitologia/normas
+   modules/mitologia/guerreros
+   modules/mitologia/bestiario
    modules/mitologia/ragnarok
    
    modules/mitologia/fuentes

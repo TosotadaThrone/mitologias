@@ -153,7 +153,7 @@ esperaba.
 
 Los combatientes se encontraban ahora congregados en las vastas extensiones de
 Vigrid. A un lado, se alinearán los severos pero tranquilos rostros de los Ases,
-los :ref:`Vanir` y los Einherjar, mientras que en el otro se reunirán el abigarrado
+los :ref:`Vanir` y los :ref:`Einherjar`, mientras que en el otro se reunirán el abigarrado
 ejército de Surt, los sombríos gigantes de hielo, el pálido ejército de :ref:`Hel` y
 :ref:`Loki` y sus horribles seguidores, Garm, :ref:`Fenris` y Jormagundr, estos dos últimos,
 arrojando fuego y humo, y nubes de vapores tóxicos y mortales, que llenarán
