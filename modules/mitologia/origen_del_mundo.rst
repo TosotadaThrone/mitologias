@@ -17,9 +17,9 @@ la nieve, lentamente, empezó a derretirse y, moldeada por el frío, pero
 despertando a la vida por el calor, surgió una extraña criatura, un
 enorme ogro llamado Ymer, el gigante más grande que jamás haya existido.
 Conforme el hielo se derretía, las gotas iban configurando otra
-criatura… con ubres y cuernos: una vaca colosal llamada Audhumla. Daba
+criatura… con ubres y cuernos: una vaca colosal llamada :ref:`Audhumla`. Daba
 tanta leche, que el níveo líquido fluía de sus descomunales pezones como
-ríos caudalosos. Así encontró sustento Ymer. ¿Y Audhumla? La vaca,
+ríos caudalosos. Así encontró sustento Ymer. ¿Y :ref:`Audhumla`? La vaca,
 inmediatamente, empezó a lamer las salobres piedras, cubiertas de
 escarcha, que yacían alrededor de ella y del gigante. Y entonces sucedió
 algo extraño. De pronto, de una de las piedras, el enorme rumiante,
@@ -56,7 +56,7 @@ dos. De esta pareja de yotes, que huyeron a través de la niebla buscando
 refugio en el país de las brumas, provienen todas las generaciones
 posteriores de “gigantes de escarcha”…
 
-También Audhumla, la primera vaca, seguramente sería arrastrada por las olas y
+También :ref:`Audhumla`, la primera vaca, seguramente sería arrastrada por las olas y
 arrojada al precipicio, puesto que, desde aquel baño de sangre, nadie ha vuelto
 a saber de ella…
 

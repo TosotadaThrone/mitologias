@@ -192,34 +192,34 @@ ya que volvió después del :ref:`Ragnarök`.
 Los sueños de Balder
 ^^^^^^^^^^^^^^^^^^^^^^
 
-A reunirse en consejo acudieron los ases, Las diosas todas junta tuvieron; De esto trataron los grandes 
-dioses, Porqué tuvo :ref:`Balder` maléficos sueños. Levantóse :ref:`Odín`, el viejo gauta, Y encima a 
-:ref:`Sleipnir` le puso la silla; Cabalgó para abajo hasta el Niflhel, Se topó con un can que del Hel le 
-salió. 
+A reunirse en consejo acudieron los ases, Las diosas todas junta tuvieron; De esto trataron los grandes
+dioses, Porqué tuvo :ref:`Balder` maléficos sueños. Levantóse :ref:`Odín`, el viejo gauta, Y encima a
+:ref:`Sleipnir` le puso la silla; Cabalgó para abajo hasta el Niflhel, Se topó con un can que del Hel le
+salió.
 
-Chorreante de sangre su pecho tenía Y al padre de ensalmos mucho aulló; :ref:`Odín` prosiguió resonaba el 
-camino Y llegó a la morada, la alta, de Hel. Tiró ante la entrada :ref:`Odín` para el este Donde él 
-enterrada a la bruja sabía: Con lúgubre ensalmo cantó a la adivina, Que tuvo que alzarse y muerta le 
-habló: ¿Qué hombre es éste que yo no conozco, que me hace venir en penoso viaje? Me nevaba la nieve, me 
-caía la lluvia, Me mojaba el rocío: llevo mucho de muerta. Végtam me llamo, soy hijo de Váltam; desde el 
-hel di tú, digo yo desde el mundo: ¿Para quién se sembraron los bancos de anillas? 
+Chorreante de sangre su pecho tenía Y al padre de ensalmos mucho aulló; :ref:`Odín` prosiguió resonaba el
+camino Y llegó a la morada, la alta, de Hel. Tiró ante la entrada :ref:`Odín` para el este Donde él
+enterrada a la bruja sabía: Con lúgubre ensalmo cantó a la adivina, Que tuvo que alzarse y muerta le
+habló: ¿Qué hombre es éste que yo no conozco, que me hace venir en penoso viaje? Me nevaba la nieve, me
+caía la lluvia, Me mojaba el rocío: llevo mucho de muerta. Végtam me llamo, soy hijo de Váltam; desde el
+hel di tú, digo yo desde el mundo: ¿Para quién se sembraron los bancos de anillas?
 
-¿Para quién se cubrieron, hermosos, de oro? Hecho está ya el hidromiel para :ref:`Balder`, la clara 
-bebida que escudo tapa. Terrible temor a los ases agobia. A la fuerza hablé, callaré yo ahora. No calles, 
-oh bruja, que entera respuesta quiero de ti, que me cuentes todo: 
+¿Para quién se cubrieron, hermosos, de oro? Hecho está ya el hidromiel para :ref:`Balder`, la clara
+bebida que escudo tapa. Terrible temor a los ases agobia. A la fuerza hablé, callaré yo ahora. No calles,
+oh bruja, que entera respuesta quiero de ti, que me cuentes todo:
 
-¿Quién ha de ser el que a :ref:`Balder` mate y al hijo de :ref:`Odín` le quite la vida? Por obra de Hod 
+¿Quién ha de ser el que a :ref:`Balder` mate y al hijo de :ref:`Odín` le quite la vida? Por obra de Hod
 nos vendrá el excelso, Él ha de ser el que a :ref:`Balder` mate Y al hijo de :ref:`Odín` le quite la vida.
 
-A la fuerza hablé, callaré yo ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me 
-cuentes todo: ¿Quién esa muerte de Hod vengará y a la pira echará al matador de :ref:`Balder`? 
+A la fuerza hablé, callaré yo ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me
+cuentes todo: ¿Quién esa muerte de Hod vengará y a la pira echará al matador de :ref:`Balder`?
 
-:ref:`Vali` al oeste de Rind nacerá, el que, hijo de :ref:`Odín` peleará con un día: ni lavará sus manos, 
-ni peinará su cabeza hasta echar en la pira al matador de :ref:`Balder`. A la fuerza hablé, callaré yo 
-ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me cuentes todo: ¿Cuáles doncellas 
-habrán de llorarlo altos sus velos lanzando al cielo? ¡No eres tú Végtam, aquel que creí: :ref:`Odín` 
-eres tú, el viejo gauta! ¡No eres tú bruja ni sabia adivina: madre de ogros, de tres, tu eres! ¡Ya 
-márchate :ref:`Odín`, y bien satisfecho! Nadie ya más a verme vendrá Hasta el día en que :ref:`Loki` se 
+:ref:`Vali` al oeste de Rind nacerá, el que, hijo de :ref:`Odín` peleará con un día: ni lavará sus manos,
+ni peinará su cabeza hasta echar en la pira al matador de :ref:`Balder`. A la fuerza hablé, callaré yo
+ahora. No calles, oh bruja, que entera respuesta quiero de ti, que me cuentes todo: ¿Cuáles doncellas
+habrán de llorarlo altos sus velos lanzando al cielo? ¡No eres tú Végtam, aquel que creí: :ref:`Odín`
+eres tú, el viejo gauta! ¡No eres tú bruja ni sabia adivina: madre de ogros, de tres, tu eres! ¡Ya
+márchate :ref:`Odín`, y bien satisfecho! Nadie ya más a verme vendrá Hasta el día en que :ref:`Loki` se
 libre y suelte Y les llegue a los dioses su ocaso final.
 
 .. note::
@@ -229,7 +229,7 @@ libre y suelte Y les llegue a los dioses su ocaso final.
 
 Bil
 ----
-Listado por :ref:`Snorri` como una de los dioses. La historia dice que dos niños, Bil y Hjuki que fueron 
+Listado por :ref:`Snorri` como una de los dioses. La historia dice que dos niños, Bil y Hjuki que fueron
 tomados desde la tierra por Luna, para acompañarlo. Su padre era Vidfinn.
 
 .. _Bragi:
@@ -252,56 +252,56 @@ En el siglo IX vivió un escaldo, Bragi Broddason, tan popular que a su
 muerte le deificaron y le casaron con la diosa Idun, siendo el origen
 real de este dios.
 
-:ref:`Snorri` dice:" Hay otro dios llamado :ref:`Bragi`, al que se celebra por su sabiduría y , en 
+:ref:`Snorri` dice:" Hay otro dios llamado :ref:`Bragi`, al que se celebra por su sabiduría y , en
 especial, por su facundia y destreza retórica. Él conoce más que nadie los secretos de
-la poesía, la cual, en ocasiones, se titula "Aliento de :ref:`Bragi`", así como se da nombres 
+la poesía, la cual, en ocasiones, se titula "Aliento de :ref:`Bragi`", así como se da nombres
 de hombres o mujeres de :ref:`Bragi` a quienes sobresalen de lo común en la composición poética.
 
 Su esposa es Idunn, que guarda en su cofrecillo de fresno las manzanas que los dioses
 mordisquean cuando envejecen y decaen, e inmediatamente rejuvenecen. Esto persistirá
-hasta el Ragnarök". 
+hasta el Ragnarök".
 
-	:ref:`Snorri` pregunta (Skáldskaparmál X): "¿Cómo prifrasear a :ref:`Bragi`?", y responde: 
-	"Llamándole Marido de Idunn, Primer Poeta, Dios Barbudo (por eso el hombre de barba cerrada se le 
-	llama 
-	Barbabragi) e Hijo de :ref:`Odín`". 
+	:ref:`Snorri` pregunta (Skáldskaparmál X): "¿Cómo prifrasear a :ref:`Bragi`?", y responde:
+	"Llamándole Marido de Idunn, Primer Poeta, Dios Barbudo (por eso el hombre de barba cerrada se le
+	llama
+	Barbabragi) e Hijo de :ref:`Odín`".
 
-En la canción de Eric que trata del ingreso de Eric al :ref:`Valhalla`, Eric Hacha 
-Sangrienta. El poema comienza cuando :ref:`Odín` se despierta una mañana en el 
+En la canción de Eric que trata del ingreso de Eric al :ref:`Valhalla`, Eric Hacha
+Sangrienta. El poema comienza cuando :ref:`Odín` se despierta una mañana en el
 :ref:`Valhalla`, teniendo aún fresco un sueño en el espíritu, y exclama:
 
-	¿Qué sueño fue? Creí levantarme al amanecer a fin de disponer el :ref:`Valhalla` para 
-	los caídos; Desperté a los Einheryar, los acucié a que arreglaran los bancos y abrieran 
+	¿Qué sueño fue? Creí levantarme al amanecer a fin de disponer el :ref:`Valhalla` para
+	los caídos; Desperté a los Einheryar, los acucié a que arreglaran los bancos y abrieran
 	las barricas de cerveza, mientras las Valkirias servían un vino regio.
 
 Por consiguiente, espero la llegada de jefes, nobles de la Tierrra, y mi corazón se alboroza
 .
 
-El dios :ref:`Bragi` se despertó entonces y, oyendo acercarse a Eric y a los suyos, gritó: 
-	
-	¿Qué es ese tronar? ¿Marcha un millar de hombres? ¿Se aproxima un ejército a nosotros? 
-	Todos los bancos tiemblan ¿Por ventura regresa :ref:`Balder` a la mansión de :ref:`Odín`? 
+El dios :ref:`Bragi` se despertó entonces y, oyendo acercarse a Eric y a los suyos, gritó:
+
+	¿Qué es ese tronar? ¿Marcha un millar de hombres? ¿Se aproxima un ejército a nosotros?
+	Todos los bancos tiemblan ¿Por ventura regresa :ref:`Balder` a la mansión de :ref:`Odín`?
 
 .. _Bor:
 
 Bor
 ----
-Hijo de Buri. Su esposa era Bestla, hija el gigante de la escarcha Bolthorn. :ref:`Bor` era padre de 
+Hijo de Buri. Su esposa era Bestla, hija el gigante de la escarcha Bolthorn. :ref:`Bor` era padre de
 :ref:`Odín`, :ref:`Vili`, y :ref:`Ve`.
 
 .. _Buri:
 
 Buri
 -----
-El primer dios. La vaca Audhumla, después de surgir de la escarcha primordial, se alimentó, 
-lamiendo grandes bloques de hielo. Día a día cuando ella lamió, el dios surgió del hielo. 
+El primer dios. La vaca :ref:`Audhumla`, después de surgir de la escarcha primordial, se alimentó,
+lamiendo grandes bloques de hielo. Día a día cuando ella lamió, el dios surgió del hielo.
 Él era el padre de :ref:`Bor`.
 
 .. _Delling:
 
 Delling
 --------
-Considerado el dios del alba, su nombre significa resplandeciente. ël fue el tercer marido 
+Considerado el dios del alba, su nombre significa resplandeciente. ël fue el tercer marido
 de Noche (Nott)con quien él tenía un hijo llamado Dag (Día).
 
 
@@ -309,7 +309,7 @@ de Noche (Nott)con quien él tenía un hijo llamado Dag (Día).
 
 Eir
 ----
-Una diosa de curación, considerada la mejor doctora. Ella les enseñó su arte a las mujeres 
+Una diosa de curación, considerada la mejor doctora. Ella les enseñó su arte a las mujeres
 que eran las únicas médicas en Escandinavia antigua. Sirvienta de :ref:`Frigg`.
 
 .. _Forseti:
@@ -362,36 +362,36 @@ enseñaba a los demás el arte de la magia, tenía una manta mágica de plumas c
 la que se transformaba en halcón y un collar llamado Brisingegamen. Montaba en
 un carro llevado por dos gatos. Lloraba con lágrimas de oro.
 
-Es una diosa Vanir, Hija de :ref:`Njörd` y hermana de :ref:`Freyr`. Tuvo hijas con Od, Hnoss y Gersemi. 
+Es una diosa Vanir, Hija de :ref:`Njörd` y hermana de :ref:`Freyr`. Tuvo hijas con Od, Hnoss y Gersemi.
 
-Ella vivía en el Folkvang y cada día escogía la mitad de los guerreros que morían, la otra mitad era de 
-:ref:`Odín`. Su carro era arrastrado por gatos masculinos (sus nombres nunca se declaran) también poseyó 
-el collar Brising, tuvo que dormir con cuatro enanos para adquirirlo. 
+Ella vivía en el Folkvang y cada día escogía la mitad de los guerreros que morían, la otra mitad era de
+:ref:`Odín`. Su carro era arrastrado por gatos masculinos (sus nombres nunca se declaran) también poseyó
+el collar Brising, tuvo que dormir con cuatro enanos para adquirirlo.
 
-También tenía una chaqueta suave que podía usar para volar entre los mundos. Después que ella se fue a 
-vivir con los Aesir como rehén, les enseñó -- incluso a :ref:`Odín`-- el seidr. 
+También tenía una chaqueta suave que podía usar para volar entre los mundos. Después que ella se fue a
+vivir con los Aesir como rehén, les enseñó -- incluso a :ref:`Odín`-- el seidr.
 
 Algunas fuentes dicen que el viernes (friday) es nombrado así por ella. :ref:`Snorri` dice sobre Freya:
 
-	Igualmente Freya es la diosa más hermosa. Su morada celestial se 
-	denomina Fólkvang o Llanura de la Gente. Cuando acude a combate, 
+	Igualmente Freya es la diosa más hermosa. Su morada celestial se
+	denomina Fólkvang o Llanura de la Gente. Cuando acude a combate,
 	se adueña de la mitada de los cadáveres y Odín de la otra mitad"
 
-	"Su palacio, es espacioso y aireado, es llamado el Rico en Asientos 
-	(Sessrúmnir). En sus viajes ocupa un carruaje tirado por un par de 
-	gatos. Favorece en sobremanera a los humanos, y de su nombre procede 
-	el alto título que se otorga alas mujeres notables, a saber: FREYA 
-	o SEÑORA. Gústanle los cantos de amor; y a ella conviene recurrir 
-	en los asuntos del corazón" Más adelante :ref:`Snorri` amplía los informes 
-	sobre esta diosa y empareja su nombre al de Frigg; Freya ya es exaltada 
-	con Frigg. Casó con el llamado Ódr y su hija es Hnoss (Gema), ödr solía 
+	"Su palacio, es espacioso y aireado, es llamado el Rico en Asientos
+	(Sessrúmnir). En sus viajes ocupa un carruaje tirado por un par de
+	gatos. Favorece en sobremanera a los humanos, y de su nombre procede
+	el alto título que se otorga alas mujeres notables, a saber: FREYA
+	o SEÑORA. Gústanle los cantos de amor; y a ella conviene recurrir
+	en los asuntos del corazón" Más adelante :ref:`Snorri` amplía los informes
+	sobre esta diosa y empareja su nombre al de Frigg; Freya ya es exaltada
+	con Frigg. Casó con el llamado Ódr y su hija es Hnoss (Gema), ödr solía
 
-	ausentarse en largos vagabundeos y Freya le lloraba vertiendo lágrimas 
-	de oro rojo. Freya tiene muchos nombres, tantos que es difícil recogerlos 
-	todos, y la razón de ello estriba en los diferentes apelativos que recibió 
-	mientras recorría pueblos extraños en busca de su marido: Mardöll y Hörn y 
-	Gefn y Syr. Posee Brísingamen, el collar Brísings. 
-	!AH! también se llama Vanadis". 
+	ausentarse en largos vagabundeos y Freya le lloraba vertiendo lágrimas
+	de oro rojo. Freya tiene muchos nombres, tantos que es difícil recogerlos
+	todos, y la razón de ello estriba en los diferentes apelativos que recibió
+	mientras recorría pueblos extraños en busca de su marido: Mardöll y Hörn y
+	Gefn y Syr. Posee Brísingamen, el collar Brísings.
+	!AH! también se llama Vanadis".
 
 
 .. _Frigg:
@@ -428,14 +428,14 @@ Fulla
 -------
 También conocida como Volla.
 
-:ref:`Snorri` la menciona como una de las doce diosas divinas, ella es la servidora de :ref:`Frigg`. 
+:ref:`Snorri` la menciona como una de las doce diosas divinas, ella es la servidora de :ref:`Frigg`.
 
-También suele ser la mensajera de la diosa. 
+También suele ser la mensajera de la diosa.
 
 Algunos creen que ella es la hermana. :ref:`Snorri` dice que era una virgen con pelo dorado largo, y
 suelto.
 
-Llevaba una cinta de oro alrededor de su cabeza. 
+Llevaba una cinta de oro alrededor de su cabeza.
 
 Cuida del cofrecillo de fresno de :ref:`Frigg` y de su calzado, y conoce todos sus secretos.
 
@@ -443,50 +443,50 @@ Cuida del cofrecillo de fresno de :ref:`Frigg` y de su calzado, y conoce todos s
 
 Gefjun
 -------
-Una diosa virgen, profética y miembro de los :ref:`Aesir` y :ref:`Vanir`. Todas las mujeres 
-que se mueren vírgenes van a su vestíbulo. 
+Una diosa virgen, profética y miembro de los :ref:`Aesir` y :ref:`Vanir`. Todas las mujeres
+que se mueren vírgenes van a su vestíbulo.
 
-Ella era también diosa de la fertilidad. En el Gylfaginnimg 
-dice :ref:`Snorri`, que Gefjun era de la estirpe de los :ref:`Aesir`, y que le dio como premio por 
-haberle complacido, una tierra arable en su reino: lo que cuatro bueyes pudiesen arar en un 
-día y una noche. 
+Ella era también diosa de la fertilidad. En el Gylfaginnimg
+dice :ref:`Snorri`, que Gefjun era de la estirpe de los :ref:`Aesir`, y que le dio como premio por
+haberle complacido, una tierra arable en su reino: lo que cuatro bueyes pudiesen arar en un
+día y una noche.
 
-Ella tomó cuatro bueyes de :ref:`Jötunheim` que eran hijos suyos y de un gigante, los bueyes 
-separaron esa tierra por el mar hacia el oeste, y se instalaron en su estrecho. 
+Ella tomó cuatro bueyes de :ref:`Jötunheim` que eran hijos suyos y de un gigante, los bueyes
+separaron esa tierra por el mar hacia el oeste, y se instalaron en su estrecho.
 
 Allí se estableció Gefjun y dio nombre a la tierra y la llamó Selanda.
 
-Y donde se había separado la tierra quedó agua; ahora se llama Lögrin, en Suecia. Y allí 
+Y donde se había separado la tierra quedó agua; ahora se llama Lögrin, en Suecia. Y allí
 hay un golfo que corresponde al cabo de Selanda. Así dice :ref:`Bragi` el viejo poeta:
 
-	Gefjun quitó a Gylfi, feliz, tierras de oro y al correr las bestias humeó; creció 
-	Dinamarca; tenían los bueyes ocho ojos y hermosa testa, al ir tomando el gran botín de 
-	las islas herbosas. 
-	
-	(Ynglingasaga) 
+	Gefjun quitó a Gylfi, feliz, tierras de oro y al correr las bestias humeó; creció
+	Dinamarca; tenían los bueyes ocho ojos y hermosa testa, al ir tomando el gran botín de
+	las islas herbosas.
+
+	(Ynglingasaga)
 
 .. _Gná:
 
 Gná
 ----
-Es una diosa servidora de :ref:`Frigg`, ella lleva los mensajes de :ref:`Frigg`, a los distintos 
+Es una diosa servidora de :ref:`Frigg`, ella lleva los mensajes de :ref:`Frigg`, a los distintos
 mundos. Tiene un caballo llamado Hófvarpnir, Acoceador, que corre por cielo y mar.
 
 .. _Gullveig:
 
 Gullveig
 ---------
-Una diosa :ref:`Vanir`, que provocó la primer guerra que hubo entre los :ref:`Vanir` y 
-:ref:`Aesir`... 
+Una diosa :ref:`Vanir`, que provocó la primer guerra que hubo entre los :ref:`Vanir` y
+:ref:`Aesir`...
 
-Recuerda al gran combate, el primero del mundo, 
+Recuerda al gran combate, el primero del mundo,
 cuando a Gullveig traspasaron con lanzas, y en la mansión de Hár la quemaron; tres veces la
 quemaron , tres veces renació, de nuevo, sin cesar, y aún sigue viviendo.
 
-	Heid, la llamaban allí donde iba, la sabia adivina, hacía conjuros, hacía magia 
-	siempre, 
+	Heid, la llamaban allí donde iba, la sabia adivina, hacía conjuros, hacía magia
+	siempre,
 	hacía magia en trance, era siempre el deleite de las mujeres viles.
-	
+
 	(Völuspá)
 
 Para llegar a obtener la paz, ambos bandos intercambiaron rehenes.
@@ -584,14 +584,14 @@ los Dioses. A veces recorría el campo de batalla con la lanza de su padre, para
 alentar a los guerreros a seguir la lucha. En ocaciones también ayudaba a las
 :ref:`valkirias` a elegir a los guerreros que debían ser transportados al
 :ref:`Valhalla` a través del Bifrost. Su hazaña más notoria fue el viaje al reino de
-:ref:`mundo-Hel` para solicitar de regreso el alma de :ref:`Balder`.
+:ref:`Helheim` para solicitar de regreso el alma de :ref:`Balder`.
 
 .. _Hlín:
 
 Hlín
 -----
-:ref:`Snorri` la nombra como la diosa que está siempre presta a socorrer las gentes que 
-:ref:`Frigg` 
+:ref:`Snorri` la nombra como la diosa que está siempre presta a socorrer las gentes que
+:ref:`Frigg`
 quiere salvar de un peligro, y a esto debemos el dicho de que quien se libra de un riesgo
 "está bajo el ala de Hlín".
 
@@ -622,7 +622,7 @@ era muy sabio. Desde entonces vivió con los :ref:`Aesir`.
 
 .. _Huldra:
 
-Huldra 
+Huldra
 -------
 Una diosa que era cuidada por las ninfas del bosque. Ellas tenían cola de vaca que podía
 verse colgando a trvés de sus túnicas blancas. Ellas eran las protectoras del ganado y
@@ -642,8 +642,8 @@ comían para no envejecer.
 Jörd
 ------
 
-Diosa de de la tierra, hija de Nat, esposa de :ref:`Odín`. Ella era la madre de :ref:`Thor` y 
-:ref:`Frigg`. 
+Diosa de de la tierra, hija de Nat, esposa de :ref:`Odín`. Ella era la madre de :ref:`Thor` y
+:ref:`Frigg`.
 
 .. _Lodur:
 
@@ -702,8 +702,8 @@ batalla del :ref:`Ragnarök` , y combatira con :ref:`Heimdall` el guardián de
 
 Lofn
 -----
- 
-La diosa del amor apasionado que ayudaba a aquellos que tenían prohibido casarse, con el permiso de 
+
+La diosa del amor apasionado que ayudaba a aquellos que tenían prohibido casarse, con el permiso de
 :ref:`Odín` y :ref:`Frigg`.
 
 .. _Magni:
@@ -716,41 +716,41 @@ Un hijo de :ref:`Thor`, él sobrevivrá el Ragnarök. Su nombre significa "Fuert
 
 Mimir
 ------
-Mimir fue sin duda una criatura dotada de poder supremo, puede clasificarse entre los Norns, como ser 
-sobre el cual :ref:`Odín` careció en un principio de autoridad y al que incluso el Padre de Todo suplica. 
-Era de esperar que los forjadores del posterior mito le eliminasen u olvidasen sus gestas para favorecer 
-a :ref:`Odín`, deidad nueva y floreciente. 
+Mimir fue sin duda una criatura dotada de poder supremo, puede clasificarse entre los Norns, como ser
+sobre el cual :ref:`Odín` careció en un principio de autoridad y al que incluso el Padre de Todo suplica.
+Era de esperar que los forjadores del posterior mito le eliminasen u olvidasen sus gestas para favorecer
+a :ref:`Odín`, deidad nueva y floreciente.
 
-Ynglinga Saga IV, dice que tras la guerra entre los :ref:`Aesir` y :ref:`Vanir`, éstos pactaron la paz e 
-hicieron un intercambio de rehenes. Hoenir y Mimir fueron al reino de los :ref:`Vanir`, cuando llegaron 
-Hoenir fue elegido jefe y Mimir asistió a todas las ocasiones con sus prudentes consejos. Mas cuando 
-Hoenir asistía a cosas o conferencias y se debatía alguna cuestión espinosa, si no tenía cerca a Mímir, 
-siempre contestaba lo mism, "!Qué alguien más 
-aconseje". 
+Ynglinga Saga IV, dice que tras la guerra entre los :ref:`Aesir` y :ref:`Vanir`, éstos pactaron la paz e
+hicieron un intercambio de rehenes. Hoenir y Mimir fueron al reino de los :ref:`Vanir`, cuando llegaron
+Hoenir fue elegido jefe y Mimir asistió a todas las ocasiones con sus prudentes consejos. Mas cuando
+Hoenir asistía a cosas o conferencias y se debatía alguna cuestión espinosa, si no tenía cerca a Mímir,
+siempre contestaba lo mism, "!Qué alguien más
+aconseje".
 
-Así los :ref:`Vanir` entraron a sospechar que los :ref:`Aesir` los habían engañado en el trueque de 
+Así los :ref:`Vanir` entraron a sospechar que los :ref:`Aesir` los habían engañado en el trueque de
 hombres. Por consiguiente tomaron a Mímir y le cortaron la cabeza, la enviaron a los :ref:`Aesir`.
 
-:ref:`Odín` la recibió y la curó con hierbas, cantó ensalmos para que no se descompusiera.De esta manera 
-le concedió el poder de hablarle, gracias a la cual se enteró de muchos secretos." Völuspá alude a una 
-diferente versión de la historia de Mímir acerca de la cabeza cortada... "Bajo la raíz (de Yggdrasill) 
-que se retuerce hacia los Gigantes Helados se encuentra el Pozo de Mímir (pues se llama Mímir el custodio 
-del pozo). 
+:ref:`Odín` la recibió y la curó con hierbas, cantó ensalmos para que no se descompusiera.De esta manera
+le concedió el poder de hablarle, gracias a la cual se enteró de muchos secretos." Völuspá alude a una
+diferente versión de la historia de Mímir acerca de la cabeza cortada... "Bajo la raíz (de Yggdrasill)
+que se retuerce hacia los Gigantes Helados se encuentra el Pozo de Mímir (pues se llama Mímir el custodio
+del pozo).
 
-Mímir es sapientísimo, porque bebe del pozo que surge de Gyallarhorn. El Padre de Todo fue a beber del 
+Mímir es sapientísimo, porque bebe del pozo que surge de Gyallarhorn. El Padre de Todo fue a beber del
 pozo, pero no lo logró hasta dar un ojo en prenda; así dice el Völuspá:
 
-	Lo sé todo :ref:`Odín`, donde escondiste tu ojo en lo hondo del notorio pozo de Mímir; todas las 
+	Lo sé todo :ref:`Odín`, donde escondiste tu ojo en lo hondo del notorio pozo de Mímir; todas las
 	mañanas Mímir bebe :ref:`hidromiel` del compromiso de Valfödr..."
 
-Desde luego ambas versiones son irreconciliables. La de la cabeza cortada, aunque de primitivo origen 
-procede de un tema posterior en el mito nórdico (la aparición de los :ref:`Vanir`) y revela influencia 
-celta; Mímir guardián del Pozo de la Sabiduría bajo Yggdrsill se remonta al período indoeuropeo. Éste 
+Desde luego ambas versiones son irreconciliables. La de la cabeza cortada, aunque de primitivo origen
+procede de un tema posterior en el mito nórdico (la aparición de los :ref:`Vanir`) y revela influencia
+celta; Mímir guardián del Pozo de la Sabiduría bajo Yggdrsill se remonta al período indoeuropeo. Éste
 tiene que ver con el Padre de Todo, el prístino Dyevs.
 
-Quien pierde un ojo no es :ref:`Odín`, dios del viento, sino el viejo Padre del Cielo. La pupila de éste 
-es el símbolo del sol y el :ref:`hidromiel` que Mímir apura representa el nacimiento del astro, así como 
-la ocultación del ojo significa el ocaso. 
+Quien pierde un ojo no es :ref:`Odín`, dios del viento, sino el viejo Padre del Cielo. La pupila de éste
+es el símbolo del sol y el :ref:`hidromiel` que Mímir apura representa el nacimiento del astro, así como
+la ocultación del ojo significa el ocaso.
 
 .. _Modi:
 
@@ -771,17 +771,17 @@ nombre todas las joyas y piedras preciosas.
 
 .. _Nanna:
 
-Nanna 
+Nanna
 ------
-Diosa de la Luna según Bulfinch. Esposa de :ref:`Balder` y madre de Forseti. Ella se muere de tristeza, 
+Diosa de la Luna según Bulfinch. Esposa de :ref:`Balder` y madre de Forseti. Ella se muere de tristeza,
 después de la muerte de :ref:`Balder` y se quema con él en su barco fúnebre...".
 
-El cadáver de :ref:`Balder` fue conducido a la nave, y cuando su mujer, Nanna, la hija de Nep, lo vio, 
-chilló de 
+El cadáver de :ref:`Balder` fue conducido a la nave, y cuando su mujer, Nanna, la hija de Nep, lo vio,
+chilló de
 pena y de angustia; Nanna había nacido en el fuego y pereció en el fuego.
 
-:ref:`Thor` avanzó un paso y bendijo lapira con el martillo, y en aquel precioso instante el enano Litr 
-se metió entre sus pies; :ref:`Thor` le propinó una patada salvaje, que le envió al centro de las llamas, 
+:ref:`Thor` avanzó un paso y bendijo lapira con el martillo, y en aquel precioso instante el enano Litr
+se metió entre sus pies; :ref:`Thor` le propinó una patada salvaje, que le envió al centro de las llamas,
 donde murió achicharrado".
 
 .. _Nerthus:
@@ -789,27 +789,27 @@ donde murió achicharrado".
 Nerthus
 --------
 Posiblemente una versión más vieja de Njord, con el sexo opuesto, los estudiosos dicen que
-sus nombres están relacionados lingüísticamente, o su hermana con quien tiene a Frey y 
-:ref:`Freya`. 
+sus nombres están relacionados lingüísticamente, o su hermana con quien tiene a Frey y
+:ref:`Freya`.
 
-Según Tacitus, en Germania 40, describe el culto a Nerthus, entre los anglos y otras tribus de la costa 
-occidental del Bático."Estos pueblos no tienen nada digno de mención, en cuanto al detalle, pero se 
-distinguen por el común culto a Nerthus, o Madre Tierra. 
+Según Tacitus, en Germania 40, describe el culto a Nerthus, entre los anglos y otras tribus de la costa
+occidental del Bático."Estos pueblos no tienen nada digno de mención, en cuanto al detalle, pero se
+distinguen por el común culto a Nerthus, o Madre Tierra.
 
 Creen que se interesa por los asuntos humanos y cabalga a través de sus pueblos. En una
 isla del Océano se alza un soto sagrado, en el que hay un carro tapado con una tela que
 nadie toca, salvo el sacerdote. El sacerdote nota la presencia de la diosa en ese lugar
 sagrado, y la asiste con reverencia suma, mientras el vehículo avanza tirado por vacas.
 
-Reinan entonces días jubilosos y de fiesta en cuantos lugares honra son su aparición y 
-estancia. Nadie guerrea ni apuña las armas; se esconden todos los objetos de hierro; 
-entonces, y sólo entonces, se conocen y estiman la paz y el sosiego, hasta que la diosa 
-vuelve, por manos del sacerdote, a su templo una vez se ha saciado del trato humano. 
+Reinan entonces días jubilosos y de fiesta en cuantos lugares honra son su aparición y
+estancia. Nadie guerrea ni apuña las armas; se esconden todos los objetos de hierro;
+entonces, y sólo entonces, se conocen y estiman la paz y el sosiego, hasta que la diosa
+vuelve, por manos del sacerdote, a su templo una vez se ha saciado del trato humano.
 
-Luego, la tela, y aunque no lo creais la propia diosa, se lavan en un lago recóndito. De 
+Luego, la tela, y aunque no lo creais la propia diosa, se lavan en un lago recóndito. De
 ello se encargan unos esclavos, que son ahogados inmediatamente en las mismas aguas. Así el
-misterio engendra terror y una piadosa desgana de inquirir cuál es la visión que solo 
-contemplan ojos moribundos...". 
+misterio engendra terror y una piadosa desgana de inquirir cuál es la visión que solo
+contemplan ojos moribundos...".
 
 .. _Njörd:
 
@@ -978,22 +978,22 @@ hombre o animal sacrificado:
 
 Ran
 ----
-La esposa de Aegir (Égir), ella era la diosa del mar y de las tormentas, junta a las personas ahogadas en 
+La esposa de Aegir (Égir), ella era la diosa del mar y de las tormentas, junta a las personas ahogadas en
 su red.
 
 .. _Saga:
 
 Saga
 -----
-Diosa que bebe con :ref:`Odín` en Sokkvabekk. Su nombre está relacionado con la la palabra del norse para 
-la historia, así algunos la llamaban la diosa de la historia. También se consideraba un aspecto de 
+Diosa que bebe con :ref:`Odín` en Sokkvabekk. Su nombre está relacionado con la la palabra del norse para
+la historia, así algunos la llamaban la diosa de la historia. También se consideraba un aspecto de
 :ref:`Frigg`.
 
 .. _Sataere:
 
 Sataere
 --------
-Algunos consideran a Sataere como el dios germánico de la agricultura y se sugiere que también es otro 
+Algunos consideran a Sataere como el dios germánico de la agricultura y se sugiere que también es otro
 nombre de :ref:`Loki`.
 
 .. _Sif:
@@ -1023,8 +1023,8 @@ Los enanos fabricaron para Sif una cabellera de oro puro.
 
 Sjofn (Vjofn)
 --------------
-La diosa tuvo relación con hacer pensar a hombres y mujeres en el amor. Era su deber 
-detener peleas de matrimonios. 
+La diosa tuvo relación con hacer pensar a hombres y mujeres en el amor. Era su deber
+detener peleas de matrimonios.
 
 .. _Skadi:
 
@@ -1096,7 +1096,7 @@ invierno.
 
 Snotra
 -------
-Diosa sabia y mansa. Guerber la llama la diosa de la virtud y maestra de todo conocimiento. Ella supo el 
+Diosa sabia y mansa. Guerber la llama la diosa de la virtud y maestra de todo conocimiento. Ella supo el
 valor de la autodisciplina.
 
 .. _Syn:
@@ -1104,9 +1104,9 @@ valor de la autodisciplina.
 Syn
 ----
 Esta diosa observa y custodia las puertas de las mansiones que nadie penetre en ellas sin
-autorización. Útil es también en los juicios como defensora contra los litigios que desea 
-refutar. De ella nace la expresión "Syn (negativo) es mi alegato" cuando el hombre se 
-declara inocente. 
+autorización. Útil es también en los juicios como defensora contra los litigios que desea
+refutar. De ella nace la expresión "Syn (negativo) es mi alegato" cuando el hombre se
+declara inocente.
 
 .. _Thor:
 
@@ -1194,111 +1194,111 @@ Se le consagró el día Jueves.
 
 El cantar de Trym
 ^^^^^^^^^^^^^^^^^^^
-Mucha furia fue Vingtor Cuando él despertó y no vio su martillo; Le temblaron las barbas, 
-revolviósele el pelo, El hijo de Tierra buscó y remiró. Así lo primero entonces habló: 
-Escúchame, :ref:`Loki`, lo que ahora digo, la cosa por nadie en la tierra oída ni arriba en el 
+Mucha furia fue Vingtor Cuando él despertó y no vio su martillo; Le temblaron las barbas,
+revolviósele el pelo, El hijo de Tierra buscó y remiró. Así lo primero entonces habló:
+Escúchame, :ref:`Loki`, lo que ahora digo, la cosa por nadie en la tierra oída ni arriba en el
 cielo:
 
-¡Me han robado el martillo! A la casa marcharon de :ref:`Freya` hermosa; Así lo primero entonces 
-habló: ¿Tu apariencia plumada, :ref:`Freya`, me prestas 
-a ver si con ella recobro el martillo? 
-:ref:`Freya` dijo: Te la diera yo a ti aunque fuese de oro, aunque fuese de plata yo te la daba. 
-Del Ásgard :ref:`Loki` volando salió --la apariencia de plumas fuerte sonaba-- y volando llegó al 
-confín de los ogros. 
+¡Me han robado el martillo! A la casa marcharon de :ref:`Freya` hermosa; Así lo primero entonces
+habló: ¿Tu apariencia plumada, :ref:`Freya`, me prestas
+a ver si con ella recobro el martillo?
+:ref:`Freya` dijo: Te la diera yo a ti aunque fuese de oro, aunque fuese de plata yo te la daba.
+Del Ásgard :ref:`Loki` volando salió --la apariencia de plumas fuerte sonaba-- y volando llegó al
+confín de los ogros.
 
-Trym en la loma, el señor de los ogros De oro collares trenzaba a sus perros, A sus potros 
-allá recortaba las crines. 
+Trym en la loma, el señor de los ogros De oro collares trenzaba a sus perros, A sus potros
+allá recortaba las crines.
 
-Trym dijo: ¿Qué hay de los :ref:`Aesir`? ¿Qué hay de los elfos? ¿Porqué a Jotunheim, tú solo, 
-viniste? 
+Trym dijo: ¿Qué hay de los :ref:`Aesir`? ¿Qué hay de los elfos? ¿Porqué a Jotunheim, tú solo,
+viniste?
 
-:ref:`Loki` dijo: Les va mal a los :ref:`Aesir`, mal a los elfos. ¿El martillo de Hlórridi tú lo 
+:ref:`Loki` dijo: Les va mal a los :ref:`Aesir`, mal a los elfos. ¿El martillo de Hlórridi tú lo
 escondiste?
 
-Trym dijo: El martillo de Hlórridi yo lo escondí; bajo tierra está ocho leguas abajo; aquel 
-solamente podrá recobrarlo que a :ref:`Freya` me traiga y la haga mi esposa. Volando salió del 
-confín de los ogros --la apariencia de plumas fuerte sonaba y :ref:`Loki` volando al Ásgard llegó. 
-Topóse con Tor en mitad del recinto Que así lo primero entonces habló: ¿Provecho sacaste 
-igual que la pena? Lejanas las nuevas di tú desde el aire: A menudo no dice quien ya se 
-sentó, Quien ya se acostó mentiras inventa. La pena me di y provecho saqué: tiene Trym el 
-martillo, el señor de los ogros; aquel solamente podrá recobrarlo que a :ref:`Freya` le lleve y la 
-haga su esposa. 
+Trym dijo: El martillo de Hlórridi yo lo escondí; bajo tierra está ocho leguas abajo; aquel
+solamente podrá recobrarlo que a :ref:`Freya` me traiga y la haga mi esposa. Volando salió del
+confín de los ogros --la apariencia de plumas fuerte sonaba y :ref:`Loki` volando al Ásgard llegó.
+Topóse con Tor en mitad del recinto Que así lo primero entonces habló: ¿Provecho sacaste
+igual que la pena? Lejanas las nuevas di tú desde el aire: A menudo no dice quien ya se
+sentó, Quien ya se acostó mentiras inventa. La pena me di y provecho saqué: tiene Trym el
+martillo, el señor de los ogros; aquel solamente podrá recobrarlo que a :ref:`Freya` le lleve y la
+haga su esposa.
 
-En busca marcharon de :ref:`Freya` hermosa; Así lo primero entonces habló: ¡Átate, :ref:`Freya`, la toca 
-de novia! Ven que a los ogros te lleve conmigo. 
+En busca marcharon de :ref:`Freya` hermosa; Así lo primero entonces habló: ¡Átate, :ref:`Freya`, la toca
+de novia! Ven que a los ogros te lleve conmigo.
 
-Tanto furiosa :ref:`Freya` bufó Que tembló de los :ref:`Aesir` la sala entera, 
-Rompiósele al cuello la joya brisinga: ¡Delirando di tú que estaría por hombre si yo con 
-los ogros me fuera contigo! 
+Tanto furiosa :ref:`Freya` bufó Que tembló de los :ref:`Aesir` la sala entera,
+Rompiósele al cuello la joya brisinga: ¡Delirando di tú que estaría por hombre si yo con
+los ogros me fuera contigo!
 
-A reunirse en consejo corrieron los :ref:`Aesir`, Las diosas todas junta tuvieron; Discutieron los 
-dioses cómo podrían Traerse de allá el martillo de Hlórridi. 
+A reunirse en consejo corrieron los :ref:`Aesir`, Las diosas todas junta tuvieron; Discutieron los
+dioses cómo podrían Traerse de allá el martillo de Hlórridi.
 
-Héimdal habló, el as todo blanco, El igual que los vanes certero adivino: Atémosle a Tor la 
-toca de novia, adórnelo a él la joya brisinga. 
+Héimdal habló, el as todo blanco, El igual que los vanes certero adivino: Atémosle a Tor la
+toca de novia, adórnelo a él la joya brisinga.
 
-Pongámosle al cinto sonido de llaves, Sus piernas tapemos con faldas de moza, Figémosle al 
-pecho grandes peñascos, 
-Su cabeza cubramos con alto bonete. 
+Pongámosle al cinto sonido de llaves, Sus piernas tapemos con faldas de moza, Figémosle al
+pecho grandes peñascos,
+Su cabeza cubramos con alto bonete.
 
-Así dijo Tor, el as forzudo: Marica los :ref:`Aesir` me van a llamar si toca de novia a mí se me 
-pone. 
+Así dijo Tor, el as forzudo: Marica los :ref:`Aesir` me van a llamar si toca de novia a mí se me
+pone.
 
-Así dijo :ref:`Loki`, el hijo de Láufey: ¡Cállate, Tor, y eso no digas! Morada de ogros el Ásgard 
-será Si no vas pronto a buscar tu martillo. 
+Así dijo :ref:`Loki`, el hijo de Láufey: ¡Cállate, Tor, y eso no digas! Morada de ogros el Ásgard
+será Si no vas pronto a buscar tu martillo.
 
-La toca de novia a Tor se la ataron, A él lo adornó la joya brisinga, Le pusieron al cinto 
-sonido de llaves, Sus piernas taparon con faldas de moza, Le fijaron al pecho grandes 
-peñascos, Su cabeza cubrieron con alto bonete. 
+La toca de novia a Tor se la ataron, A él lo adornó la joya brisinga, Le pusieron al cinto
+sonido de llaves, Sus piernas taparon con faldas de moza, Le fijaron al pecho grandes
+peñascos, Su cabeza cubrieron con alto bonete.
 
-Así dijo :ref:`Loki`, el hijo de Láufey: Iré yo también haciendo de sierva, allá con los ogros yo 
-iré contigo. 
+Así dijo :ref:`Loki`, el hijo de Láufey: Iré yo también haciendo de sierva, allá con los ogros yo
+iré contigo.
 
-Pronto tomaron los machos cabríos, Los pusieron al carro, que bien corrieran: Se rajaron 
-las peñas, ardieron los campos Allá al Jotunheim fue el hijo de :ref:`Odín`. 
+Pronto tomaron los machos cabríos, Los pusieron al carro, que bien corrieran: Se rajaron
+las peñas, ardieron los campos Allá al Jotunheim fue el hijo de :ref:`Odín`.
 
-Así dijo Trym, el señor de los ogros: ¡Paja, gigantes, echad por los bancos! Ya para esposa 
-a :ref:`Freya` me traen, A la hija de Niord el que vive en Noatun. 
+Así dijo Trym, el señor de los ogros: ¡Paja, gigantes, echad por los bancos! Ya para esposa
+a :ref:`Freya` me traen, A la hija de Niord el que vive en Noatun.
 
-Mis vacas que tengo de cuernos de oro Mi hacienda me alegran, negros mis toros; Me sobran 
-riquezas, joyas me sobran; Faltábame :ref:`Freya`, ella tan solo. 
+Mis vacas que tengo de cuernos de oro Mi hacienda me alegran, negros mis toros; Me sobran
+riquezas, joyas me sobran; Faltábame :ref:`Freya`, ella tan solo.
 
-Pronto la tarde llegó la después; Se sirvió la cerveza; entero él solo Un buey se comió, 
-ocho salmones; Golosina ninguna dejó a las mujeres; El esposo de Sif se bebió tres cubas. 
-Así dijo Trym, el señor de los ogros: ¿Qué novia se ha visto que tanto trague? Ninguna vi 
-yo que tanto comiese, Que tanto :ref:`hidromiel` en ninguna cupiera. 
+Pronto la tarde llegó la después; Se sirvió la cerveza; entero él solo Un buey se comió,
+ocho salmones; Golosina ninguna dejó a las mujeres; El esposo de Sif se bebió tres cubas.
+Así dijo Trym, el señor de los ogros: ¿Qué novia se ha visto que tanto trague? Ninguna vi
+yo que tanto comiese, Que tanto :ref:`hidromiel` en ninguna cupiera.
 
-Sabía la sierva alerta estaba, Ella al gigante bien respondió: van ocho días que :ref:`Freya` no 
-come, tanto anhelaba encontrarse contigo. Quiso besarla y la toca le alzó; La sala entera 
-cruzó reculando: ¿Por qué tiene :ref:`Freya` tan torvos ojos? Fuegos en ellos pensé que ardían. 
-Sabía la sierva alerta estaba, Ella al gigante bien respondió: Van ocho días que :ref:`Freya` no 
-duerme, tanto anhelaba encontrarse contigo. 
+Sabía la sierva alerta estaba, Ella al gigante bien respondió: van ocho días que :ref:`Freya` no
+come, tanto anhelaba encontrarse contigo. Quiso besarla y la toca le alzó; La sala entera
+cruzó reculando: ¿Por qué tiene :ref:`Freya` tan torvos ojos? Fuegos en ellos pensé que ardían.
+Sabía la sierva alerta estaba, Ella al gigante bien respondió: Van ocho días que :ref:`Freya` no
+duerme, tanto anhelaba encontrarse contigo.
 
-Quiso besarla y la toco la alzo; La sala entera cruzo reculando: ¿ por qué tiene :ref:`Freya` tan 
-torvos ojos fuegos en ellos pensé que ardían sabia la sierva alerta estaba, ella al gigante 
-bien respondió van ocho días que :ref:`Freya` no duerme, tanto anhelaba encontrarse contigo. 
+Quiso besarla y la toco la alzo; La sala entera cruzo reculando: ¿ por qué tiene :ref:`Freya` tan
+torvos ojos fuegos en ellos pensé que ardían sabia la sierva alerta estaba, ella al gigante
+bien respondió van ocho días que :ref:`Freya` no duerme, tanto anhelaba encontrarse contigo.
 
-Del ogro la hermana la necia entro Descarada pidiendo de novia regalo Del brazo sácate 
+Del ogro la hermana la necia entro Descarada pidiendo de novia regalo Del brazo sácate
 rojas anillas Si quieres ganarte el cariño mío El cariño mío y todo mi amor.
 
-Así dijo Trym, el señor de los ogros: El martillo traed, que la novia lo consagre, en sus 
-piernas a ella ponedle el Miollnir Consagradnos a ambos en nombre de var. 
+Así dijo Trym, el señor de los ogros: El martillo traed, que la novia lo consagre, en sus
+piernas a ella ponedle el Miollnir Consagradnos a ambos en nombre de var.
 
-En su pecho Hlorridi gozo sintió Cuando el duro martillo en sus manos tuvo: Mato a Trym el 
-primero, al señor de los ogros, gigante ninguno con vida dejo. 
+En su pecho Hlorridi gozo sintió Cuando el duro martillo en sus manos tuvo: Mato a Trym el
+primero, al señor de los ogros, gigante ninguno con vida dejo.
 
-Del ogro a la hermana, a la vieja mato, La que estuvo pidiendo de novia regalo; Ni riquezas 
+Del ogro a la hermana, a la vieja mato, La que estuvo pidiendo de novia regalo; Ni riquezas
 tuvo ni joyas muchas, Pero si se llevo un gran martillazo.
 
-Así el hijo de :ref:`Odín` recobró su martillo. 
+Así el hijo de :ref:`Odín` recobró su martillo.
 
 .. _Thrud:
 
 Thrud
 ------
-Hija de :ref:`Thor`. El enano Álvis quiso casarse con ella, pero :ref:`Thor` lo engañó haciendole 
-contestar preguntas hasta que se hizo de día y el enano se convirtió en una roca, esa era 
-una forma de sortear el peligro de los enanos durante la noche, entretenerlos hasta que se 
+Hija de :ref:`Thor`. El enano Álvis quiso casarse con ella, pero :ref:`Thor` lo engañó haciendole
+contestar preguntas hasta que se hizo de día y el enano se convirtió en una roca, esa era
+una forma de sortear el peligro de los enanos durante la noche, entretenerlos hasta que se
 haga de día.
 
 .. _Tyr:
@@ -1317,7 +1317,7 @@ y de :ref:`Frigg`.
 Era el más valiente y emprendedor de los :ref:`Aesir`, aunque no tan fuerte como
 :ref:`Thor`. Era musculoso y fuerte, aunque manco. Su nombre aparecía inscrito en las
 espadas de los guerreros, para darles su fortaleza. Se le invocaba antes
-de las batallas puesto que era él quien otorgaba las victorias. 
+de las batallas puesto que era él quien otorgaba las victorias.
 
 Fue el que ató al Lobo :ref:`Fenrir`. Para conseguirlo, le tuvo que ofrecer una de sus
 manos para distraer a la bestia.
@@ -1367,18 +1367,18 @@ de Hodur poniéndole sobre una hoguera por haber matado a :ref:`Balder`.
 
 .. _Var:
 
-Var 
+Var
 -----
-Presta oído a los juramentos y votos de los hombres, los cuales llaman a los juramentos 
-solemnes compromisos de Vár. Además castiga de manera adecuada a quienes los quebrantan. 
+Presta oído a los juramentos y votos de los hombres, los cuales llaman a los juramentos
+solemnes compromisos de Vár. Además castiga de manera adecuada a quienes los quebrantan.
 
 .. _Ve:
 
-Ve 
+Ve
 -----
-El hijo de :ref:`Bor` y Bestla, hermano de :ref:`Vili` y :ref:`Odín`. Es identificado con Lodur por algunos. 
-Matando a Ymir junto con sus dos hermanos crearon el mundo con su cadáver. ... Crearon a 
-los primeros humanos Ask y Embla, "sangre les dio Lodur, y color de vida" (Völuspá). 
+El hijo de :ref:`Bor` y Bestla, hermano de :ref:`Vili` y :ref:`Odín`. Es identificado con Lodur por algunos.
+Matando a Ymir junto con sus dos hermanos crearon el mundo con su cadáver. ... Crearon a
+los primeros humanos Ask y Embla, "sangre les dio Lodur, y color de vida" (Völuspá).
 
 Su nombre significa Santidad.
 
