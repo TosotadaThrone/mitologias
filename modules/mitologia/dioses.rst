@@ -80,18 +80,15 @@ los :ref:`Aesir` eran diestros en el manejo de las armas y la lucha, pero los
 :ref:`Vanir` conocían la magia. Finalmente las familias de dioses decidieron
 una tregua que pusiera paz entre ambos. Para asegurar el cumplimiento de
 este tratado se intercambiaron rehenes entre ellos. Los :ref:`Aesir` ofrecieron
-al hermano de :ref:`Odín`, :ref:`Vili` y al sabio dios :ref:`Mimir`.
+al hermano de :ref:`Odín`, Vili y al sabio dios :ref:`Mimir`.
 
 Los Vanir a cambio debían dejar a cargo de los Aesir
-al dios :ref:`Njord` y sus mellizos :ref:`Freyr` y :ref:`Freya`.
+al dios :ref:`Njörd` y sus mellizos :ref:`Freyr` y :ref:`Freya`.
 
 Por último sellaron estas decisiones escupiendo todos en un cubo como
 signo de amistad; esta saliva se mezcló con hidromiel y de ella surgio
 Kvasir, el dios de la sabiduría y los consejos, mitad :ref:`Aesir` y mitad
-Vanir, que conocía la respuesta a todo.
-
-Entre los dioses más importantes y relevantes en la mitología nórdica se
-encuentran los siguientes:
+:ref:`Vanir`, que conocía la respuesta a todo.
 
 Existen multitud de otros dioses y diosas de menor aparición en las
 Eddas, o de menor importancia, como pueden ser Eisa y Einmyria,
@@ -287,7 +284,7 @@ El dios :ref:`Bragi` se despertó entonces y, oyendo acercarse a Eric y a los su
 Bor
 ----
 Hijo de Buri. Su esposa era Bestla, hija el gigante de la escarcha Bolthorn. :ref:`Bor` era padre de
-:ref:`Odín`, :ref:`Vili`, y :ref:`Ve`.
+:ref:`Odín`, Vili, y :ref:`Ve`.
 
 .. _Buri:
 
@@ -348,10 +345,10 @@ giganta hija de Gymir. Tenía una espada que se movía sola, que perdió en
 un combate, y un carro al que uncía un jabalí de oro. Cuando salía de
 noche todo se iluminaba a su alrededor.
 
-En el templo de :ref:`Uppsala` se le daba esta función: Cum ingenti priapo
-(algo así como: con gran fuerza generatriz, gran potencia; al ser dios
+En el templo de Uppsala se le daba esta función: *Cum ingenti priapo*.
+Algo así como: con gran fuerza generatriz, gran potencia, al ser dios
 de la fertilidad de los campos seguramente se refiera a la fuerza
-renovadora de la naturaleza).
+renovadora de la naturaleza.
 
 .. _Freya:
 
@@ -412,7 +409,7 @@ contra las desgracias futuras. Protectora también del Fuego Sagrado,
 conocedora y guardiana de los ritos mágicos, los cuales debían ser
 presididos por ella como Suprema Sacerdotisa.
 
-.. image:: /images/Frigga.jpg
+.. image:: /images/frigga.jpg
     :align: center
     :target: http://commons.wikimedia.org/wiki/File:FriggSpinning.jpg?uselang=es
 
@@ -691,7 +688,7 @@ Luego :ref:`Loki` dio a luz a un caballo con ocho piernas y se lo regaló a :ref
 lo llamó :ref:`Sleipnir`.
 
 Con la giganta Angerbode tuvo tres monstruos, los más
-terribles del universo: Fenrisulven (el lobo :ref:`Fenrir`), Midgardsormen
+terribles del universo: Fenrisulven (el lobo :ref:`Fenris`), Midgardsormen
 (la serpiente Midgard) y :ref:`Hel`, la reina del infierno.
 
 Loki sera el comandante de los ejércitos de las tinieblas en la gran
@@ -949,7 +946,7 @@ sabiduría. Esto hizo arraigar la leyenda de que era el dios del cielo,
 sucediendo a :ref:`Tyr`, con su manto azul y su único ojo, el sol.
 
 Era hijo de los gigantes Bor y Bestla y hermano de los dioses Vile y :ref:`Ve`.
-Sus hijos fueron :ref:`Thor`, :ref:`Balder`, :ref:`Vale`, :ref:`Vali` y :ref:`Vidar`.
+Sus hijos fueron :ref:`Thor`, :ref:`Balder`, Vale, :ref:`Vali` y :ref:`Vidar`.
 
 Las tres mujeres de :ref:`Odín` eran diosas de la tierra y su hijo mayor era :ref:`Thor`.
 Además de :ref:`Frigg`, tuvo por esposas a Jord y a Rinda. Con Rindtuvo a
@@ -1137,7 +1134,14 @@ el mejor. También fue llamado Thor de los :ref:`Aesir` (Asa-Thor, Ása-Thór),
 Thor el cochero o el Trueno. Su símbolo era la cruz gamada.
 
 A :ref:`Thor` se le reconocían tres propiedades divinas que le permitían luchar
-contra los gigantes: La primera era el martillo :ref:`Mjöllnir`. Sus enemigos
+contra los gigantes:
+
+.. _Mjöllnir:
+
+Mjöllnir
+^^^^^^^^^^
+
+La primera era el martillo :ref:`Mjöllnir`. Sus enemigos
 conocían cuando :ref:`Thor` alzaba :ref:`Mjöllnir`. El martillo mágico tenía la virtud
 de volver siempre a las manos de Thor.
 
@@ -1158,11 +1162,10 @@ La segunda esposa era :ref:`Sif`, con quien tuvo una hija Thrud.
 Hay versiones que dicen que fue con Sif y no con
 Angerboda con quien tuvo a sus dos hijos :ref:`Magni` y Modi.
 
-Viajaba en un carro tirado por dos machos cabríos, provocando los
-truenos que los humanos oían desde la tierra. Thor vivía en Bilskirnir,
+Thor vivía en Bilskirnir,
 que era un palacio cerca de Trondheim (Trudheim), a las afueras de
-Asgard, en una región llamada Thrudvang (El campo de Fuerza). Thor no
-quería cruzar el puente que unía Midgard con Asgard, porque :ref:`Bifröst` no
+:ref:`Asgard`, en una región llamada Thrudvang (El campo de Fuerza). Thor no
+quería cruzar el puente que unía :ref:`Midgard` con :ref:`Asgard`, porque :ref:`Bifröst` no
 podría soportar el calor de sus rayos y el estruendo de los truenos que
 causaba su carro:
 
@@ -1180,7 +1183,7 @@ Tanngrisner, el cual hacía sonar truenos en el cielo a su paso, los machos
 cabríos podría ser sacrificados al atardecer y luego resucitar la mañana
 siguiente, si se tenía cuidado de no romper ningún hueso y si se recogían todos
 los huesos y se metían en la piel del animal. Posee tres objetos valiosos el
-primero es su martillo Mjollnir que ha hundido el cráneo de más de un gigante,
+primero es su martillo Mjöllnir que ha hundido el cráneo de más de un gigante,
 el otro es su cinturón de fuerza (Megingjarder) el cual duplica su fuerza y
 el tercer objeto es su guantelete con el que está obligado a cubrir su mano
 cuando toma el martillo. Era el más fuerte de los Dioses, representaba la
@@ -1319,7 +1322,7 @@ Era el más valiente y emprendedor de los :ref:`Aesir`, aunque no tan fuerte com
 espadas de los guerreros, para darles su fortaleza. Se le invocaba antes
 de las batallas puesto que era él quien otorgaba las victorias.
 
-Fue el que ató al Lobo :ref:`Fenrir`. Para conseguirlo, le tuvo que ofrecer una de sus
+Fue el que ató al Lobo :ref:`Fenris`. Para conseguirlo, le tuvo que ofrecer una de sus
 manos para distraer a la bestia.
 
 .. image:: /images/tyr_fenrir.jpg
@@ -1376,7 +1379,7 @@ solemnes compromisos de Vár. Además castiga de manera adecuada a quienes los q
 
 Ve
 -----
-El hijo de :ref:`Bor` y Bestla, hermano de :ref:`Vili` y :ref:`Odín`. Es identificado con Lodur por algunos.
+El hijo de :ref:`Bor` y Bestla, hermano de Vili y :ref:`Odín`. Es identificado con Lodur por algunos.
 Matando a Ymir junto con sus dos hermanos crearon el mundo con su cadáver. ... Crearon a
 los primeros humanos Ask y Embla, "sangre les dio Lodur, y color de vida" (Völuspá).
 

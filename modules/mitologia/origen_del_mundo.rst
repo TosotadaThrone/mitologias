@@ -1,13 +1,13 @@
 El origen del mundo
 ====================
 
-Al principio, érase el Frío y el Calor. El frío era :ref:`Nilfheim`, un mundo
+Al principio, érase el Frío y el Calor. El frío era :ref:`Nifelheim`, un mundo
 de oscuridad, frío y niebla. El calor era Muspell, el mundo del eterno
 calor. Entre estos dos mundos existía un gran vacío con el nombre de
 Ginnungagup.
 
 En Ginnungagup surgió la vida al encontrarse el hielo de
-Niflheim y el fuego de Muspell. De este encuentro entre el frío y el
+:ref:`Nifelheim` y el fuego de Muspell. De este encuentro entre el frío y el
 calor nacieron primero el ogro Ymer y después la gigante vaca llamada
 Audumbla.
 
@@ -102,7 +102,7 @@ Junto al fresno :ref:`Yggdrasil` tienen los dioses su tribunal. Este es el mayor
 todos los árboles, sus ramas se extienden por todos los mundos y llegan
 al cielo. De las tres raíces del árbol, una llega donde los ases, otra
 donde los Gigantes de Hielo, allí en el antiguo Ginnungagap, y la otra
-en Niflheim. Bajo esta raíz está la fuente Hvergelmir, allí Nidhogg la
+en :ref:`Nifelheim`. Bajo esta raíz está la fuente Hvergelmir, allí Nidhogg la
 serpiente mordisquea las raíces.
 
 Bajo la raíz que va a donde los Gigantes está la fuente de Mimir, que oculta
@@ -309,7 +309,7 @@ mundo, tocaría su trompa Gjallarhorn para llamar a los dioses a las
 armas en la última gran batalla contra los ogros y los poderes de las
 tinieblas.
 
-:ref:`Balder` era hijo de :ref:`Odín` y :ref:`Frigga`, famoso por su afabilidad, gentileza e
+:ref:`Balder` era hijo de :ref:`Odín` y :ref:`Frigg`, famoso por su afabilidad, gentileza e
 inteligencia. :ref:`Balder` sufría pesadillas y tenía miedo de morir, pero su
 madre – la más poderosa de las diosas de :ref:`Asgard` – hizo jurar a todos y a
 todo que nadie jamás le haría daño. Los dioses se divertían disparando
@@ -338,7 +338,7 @@ bridas. Aunque podían ser terriblemente feas, algunas incluso
 monstruosas, también podían ser increíblemente bellas… tanto que incluso
 :ref:`Odín`, en más de una ocasión, se dejó seducir en fogosos lances amorosos.
 
-¿Eran :ref:`Loki` y sus hijos aún más peligrosos?
+¿Eran Loki y sus hijos aún más peligrosos?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artero, malévolo e intrigante, :ref:`Loki` era originalmente un yote, pero, a
 temprana edad, mezcló su sangre con la :ref:`Odín` y, por ende, fue aceptado

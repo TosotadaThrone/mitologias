@@ -13,12 +13,12 @@ La vaca que nació de la escarcha primordial, y quien alimentaba al gigante Ymir
 Lamiendo el hielo como su propio alimento surgió el primer dios llamado Buri
 (Bruni).
 
-.. _Nidhöggr:
+.. _Nidhöggrr:
 
 Nidhöggr
 ---------
-"El terrible mordedor " vive bajo :ref:`Yggdrassil`, en la raíz que va
-hacia el :ref:`Niflheim`, debajo de ésta se encuentra el Hvergelvir, en
+"El terrible mordedor " vive bajo :ref:`Yggdrasil`, en la raíz que va
+hacia el :ref:`Nifelheim`, debajo de ésta se encuentra el Hvergelvir, en
 :ref:`Helheim`, donde :ref:`Nidhöggrr` muerde la raíz del fresno del mundo, escucha
 el chismerío de la ardilla que baja y sube por el árbol hablando con el
 águila.
@@ -47,7 +47,7 @@ Su nombre significa "diente de roedor".
 El Águila y el Halcón
 ----------------------
 
-En la frondosa copa del fresno :ref:`Yggdrassil`, anida un águila incomparablemente
+En la frondosa copa del fresno :ref:`Yggdrasil`, anida un águila incomparablemente
 sabia, y entre sus ojos se encuentra el halcón Vedrfölnir, quienes escuchan las
 habladurías de la ardilla Ratastokr.
 
@@ -113,8 +113,15 @@ ya no poder encadenar al lobo.
 
 El Padre de Todo, mandó al mensajero de :ref:`Freyr`, Skírnir al país de los elfos oscuros a
 buscar a unos gnomos y les mandó a hacer los grilletes que se llamaron "Gleipnir", hechos
-de seis cosas: *el ruido de un gato *la barba de una mujer *las raíces de las rocas *los
-tendones del oso *el alma de un pez *la baba de un pájaro los ingredientes eran imposibles
+de seis cosas:
+
+* el ruido de un gato
+* la barba de una mujer
+* las raíces de las rocas
+* los tendones del oso
+* el alma de un pez
+* la baba de un pájaro los ingredientes eran imposibles
+
 o al menos dificil de comprobar su existencia (dijo Hár a Gangleri)
 
 Los grilletes eran lisos, suaves como un hilo de seda. Los Ases agradecieron a Skírnir, y
@@ -259,14 +266,14 @@ Y cuando los Ases vieron con seguridad era un gigante de los montes quien estaba
 atendieron a sus juramentos y llamaron a :ref:`Thor`, que vino rapidísimo, y enseguida voló por
 el aire el martillo :ref:`Mjöllnir`. Pagó el trato, no con el sol y la luna, sino impidiendole
 seguir viviendo en el :ref:`Jötunheim`, y cuando cayó el primer mazazo, el cráneo se rompió en
-pedacitos y lo mandaron abajo, al :ref:`Niflheim`.
+pedacitos y lo mandaron abajo, al :ref:`Nifelheim`.
 
 Pero :ref:`Loki` había copulado con Svaldilfaeri, y cierto tiempo después parió un potrillo gris
 que tenía ocho patas, y es el mejor caballo de dioses u hombres."  :ref:`Sleipnir` tuvo
 protagonismo en muchas aventuras en una de ellas el dios Hérmodr lo montó, desde :ref:`Asgard`,
 recorrió durante nueve días y noches, gargantas cada vez más oscuras y más profundas, sin
 hallar a nadie .Se encontró con la doncella Módgurdr, quien salió a su encuentro y le
-indicó el camino hacia :ref:`Helheim`. :ref:`Hermódr` reanudó el galope hasta llegar a la verja de :ref:`Helheim`,
+indicó el camino hacia :ref:`Helheim`. :ref:`Hermod` reanudó el galope hasta llegar a la verja de :ref:`Helheim`,
 donde desmontó para apretar las cinhas.
 
 Volvió a montar y clavó las espuelas en el costillar del animal. El garañón saltó tan
@@ -276,11 +283,11 @@ alto, que hubo mucho crepúsculo entre él y los barrotes. Y llegó a caballo a 
 :ref:`Odín` y su caballo :ref:`Sleipnir`: Todo caballero necesita una montura y como conviene al Padre
 de Todo, el corcel de :ref:`Odín` es "el mejor de los dioses y los hombres"; es gris tiene ocho
 patas y su nombre :ref:`Sleipnir` significa Escurridizo.  En el poema de los Sueños de :ref:`Balder`,
-:ref:`Odín` monta a :ref:`Sleipnir`, desciende a :ref:`Niflheim`, más allá de donde se encuentra Garm, el
+:ref:`Odín` monta a :ref:`Sleipnir`, desciende a :ref:`Nifelheim`, más allá de donde se encuentra Garm, el
 perro , hasta la tumba de la Völva, y la resucita con hechizos.
 
 Levantóse :ref:`Odín`, el viejo gauta, y encima a :ref:`Sleipnir` le puso la silla; cabalgó para abajo
-hasta :ref:`Niflheim`, se topó con un can que de :ref:`Hel` le salió."
+hasta :ref:`Nifelheim`, se topó con un can que de :ref:`Hel` le salió."
 
 Árvakr y Álsvidr
 -----------------

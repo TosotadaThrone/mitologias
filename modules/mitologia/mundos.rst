@@ -20,11 +20,11 @@ Muspellheim
 
 Al principio no había nada más que un abismo abierto, enorme, llamado
 Ginnungagap, era el"espacio cósmico lleno de fuerza mágica".Parecía vacío pero
-no lo estaba, porque había en él dos regiones, al norte estaba el Niflheim, el
+no lo estaba, porque había en él dos regiones, al norte estaba el :ref:`Nifelheim`, el
 hogar de la niebla, que había existido incontables edades antes de ser creada
 la tierra,  y al sur estaba el :ref:`Muspellheim`, la guarida de los destructores del
 mundo. Estas dos regiones contrastaban como hielo y fuego, ya que en el
-Niflheim reinaban la niebla y el hielo, mientras que en el :ref:`Muspellheim` el
+:ref:`Nifelheim` reinaban la niebla y el hielo, mientras que en el :ref:`Muspellheim` el
 fuego, las llamas y el calor.
 
 También sabemos que las estrellas nacieron cuando los hijos de Bor, :ref:`Odín` Vili y
@@ -36,7 +36,7 @@ iluminar el firmamento y la tierra.::
     y otras debían avanzar y retroceder bajo el cielo, y fijaron sus lugares sus
     veredas, así resultaron las noches y los días y el cómputo de los años"
 
-nos cuenta Snorri.
+nos cuenta :ref:`Snorri`.
 
 .. image:: /images/muspelheim.jpg
     :align: center
@@ -68,7 +68,7 @@ El mundo de las Tinieblas.
 
 Al Norte del Ginungagap está Nifelheim, el hogar de las tinieblas. "Muchos evos antes de que se creara la tierra se hizo Nifelheim,  y en medio de todo está la fuente que se llama Hvergelmir y de ella nacen los ríos que se llaman así: Svöl, Gunnthrá, Fjörm, Fimbulthul, Slídr y Hríd, Sylgr y Ylgr, Víd, Leiptr.
 
-Gjöll está al lado de Helgrindir." Del centro de Nifelheim brotaba, burbujenate, la poderosa fuente de todas las aguas, un pozo llamado Hvelgermir, el caldero rugiente. Hvelgermir, no aparece en el Völuspá ni en ningún otro poema del edda en verso excepto en el grimnismal, donde se describe como el manantial "del que proceden todos los ríos" y va seguido de un catálogo que contiene los nombres de 40 ríos, Snorri se contenta con una lista de 11 al principio que es el situado más cerca de las rejas de Hel, pero más adelante da cuenta de 25 de ellos. Es obvio que el Hvergelmir no es un arroyito sino un poderoso géiser de aguas turbulentas.
+Gjöll está al lado de Helgrindir." Del centro de Nifelheim brotaba, burbujenate, la poderosa fuente de todas las aguas, un pozo llamado Hvelgermir, el caldero rugiente. Hvelgermir, no aparece en el Völuspá ni en ningún otro poema del edda en verso excepto en el grimnismal, donde se describe como el manantial "del que proceden todos los ríos" y va seguido de un catálogo que contiene los nombres de 40 ríos, :ref:`Snorri` se contenta con una lista de 11 al principio que es el situado más cerca de las rejas de Hel, pero más adelante da cuenta de 25 de ellos. Es obvio que el Hvergelmir no es un arroyito sino un poderoso géiser de aguas turbulentas.
 
 En el verso 31 de Vafprúdnismál o los dichos de Vaftrúdnir encontramos al río Elivágar u Ondas heladas, su relación con el Hvelgermir no es muy concreta pero de su importancia no hay dudas ya que "De Elivágar saltaron pútridas gotas, crecieron formando al gigante, provienen de allá nuestras gentes todas,  por eso son siempre tan malas"... De este río Elivágar surgía, desde tiempo inmemorial, una espuma venenosa que al sedimentarse formaba el hielo, cuando el hielo se detuvo y dejo de fluir, se quedó suspendida donde la espuma se solidificaba, y se formó escarcha, la niebla congelada creció y se esparció por todo Ginungagap. Así en el norte del abismo abierto todo era hielo, tempestades, lluvias y escarcha, mientras que en sur en el ref:`Muspellheim` destellaba por efecto de las chispas y gas que le brotaban::
 
@@ -132,11 +132,11 @@ Valhalla::
     Brillaban a la espalda, baldosas los escudos, de Sváfnir los broqueles a l
     os guerreros guardan.
 
-También Snorri relaciona el :ref:`Asgard` con Asia: En la Ynglinga saga dice " El país
+También :ref:`Snorri` relaciona el :ref:`Asgard` con Asia: En la Ynglinga saga dice " El país
 situado al oriente del Tanaquisel (el río Don) en Asia, se llama Ásaland o
 Asaheim y su capital :ref:`Asgard`, en esta ciudad había un jefe llamado :ref:`Odín`, y en
 ella se llevaban a cabo grandes sacrificios" Los dioses en escandinavo se
-denominan Äsir (singular Ass) y Snorri convirtió al :ref:`Asgard` en una ciudad
+denominan Äsir (singular Ass) y :ref:`Snorri` convirtió al :ref:`Asgard` en una ciudad
 asiática y a :ref:`Odín` su jefe, basándose en una falsa etimología popular.
 
 No se lo menciona muchas veces al :ref:`Asgard` en los poemas solo dos veces en los
@@ -242,7 +242,7 @@ de los hombres, el afable rige los templos de altos muros."
 
 Valhala .."quinientas puertas y cuarenta más creo que tiene Valhalla
 ochocientos einherjar saldrán por una sola, a luchar con el lobo. Bilskirnir
-"centelleo" tiene 540 aposentos Fensalir "las salas del mar" es de :ref:`Frigga`.
+"centelleo" tiene 540 aposentos Fensalir "las salas del mar" es de :ref:`Frigg`.
 
 
 .. _Jötunheim:
@@ -253,7 +253,7 @@ Jötunheim
 El mundo de los Gigantes. Jotunheim es el mundo de los gigantes
 (de dos tipos: Roca y Hielo, llamados colectivamente Jotuns) en la mitología
 nórdica. Desde aquí amenazan a los humanos  y a los dioses
-(de los cuales están separados por el río Iving)::
+(de los cuales están separados por el río Iving).
 
 La tierra es redonda y abarca el hondo mar azul. A los largo de las riberas
 externas del océano Odín Vili y Vé otorgaron tierras, que se llamaron
@@ -283,7 +283,7 @@ Y en el canto de Vaftrúdnir: (16)Ífing divide entre tierra de ogros y tierras 
 A pesar de la disparidad de versiones a cerca de su posición meridional , septentrional u oriental parece confirmar su posición circular y externa:
 En Gylfagining I: "Gelfjun, que era de la estirpe de los :ref:`Aesir`, tomó cuatro bueyes del norte de :ref:`Jötunheim`, que eran hijos suyos y de un gigante, y los puso ante el arado".
 
-Surtr un gigante ígneo vendrá "del sur", cuando llegue Raganarök. Lo más convicente es el nombre que se da a :ref:`Jötunheim`: Útgard, Outgard, El recinto exterior, cuyo soberano es Útgarda-:ref:`Loki` de Outgard (Snorri passim, Saxo Gramático VIII). Se consideraba a :ref:`Jötunheim` un lugar de grandes boques y ríos caudalosos, cavernas, montañas, y tremendas distancias. En Gylfagining XLVI, :ref:`Thor` y :ref:`Loki` llegan a las tierras del rey Útgarda-:ref:`Loki`, donde deben pasar algunas pruebas a los que los somete el rey, mediante encantamientos.
+Surtr un gigante ígneo vendrá "del sur", cuando llegue Raganarök. Lo más convicente es el nombre que se da a :ref:`Jötunheim`: Útgard, Outgard, El recinto exterior, cuyo soberano es Útgarda-:ref:`Loki` de Outgard (:ref:`Snorri` passim, Saxo Gramático VIII). Se consideraba a :ref:`Jötunheim` un lugar de grandes boques y ríos caudalosos, cavernas, montañas, y tremendas distancias. En Gylfagining XLVI, :ref:`Thor` y :ref:`Loki` llegan a las tierras del rey Útgarda-:ref:`Loki`, donde deben pasar algunas pruebas a los que los somete el rey, mediante encantamientos.
 
 Los gigantes Ymir, (Aurgelmir), el primer gigante, fue creado dentro del abismo abierto de Ginnungagap," no era un dios sino una criatura maligna, como toda su casta, les llamamos los Gigantes helados" . "Mientras dormía su mano sudó y debajo de la mano izquierda, crecieron un macho y una hembra, después nacieron un hijo tras otro y de ellos surgió la legión de los Gigantes".
 
@@ -291,7 +291,7 @@ El gigante de las seis cabezas recibió el nombre de Prudgelmir, el Poderoso Rug
 
 El nombre de Ymir, sugiere la idea de que hubo una época en que se creyó que era el progenitor de la humanidad, más bien que de los gigantes "Ymir" parece proceder del antiguo sueco ymu-man, "hombre de Umeao Lappmark", y es una de las pruebas que demuestran que los antiguos escandinavos se consideren descendientes de finlandeses.
 
-Aún hasta finales del siglo I d. J.C Ymir y Tvisto eran sinónimos, Tvisto era considerado el creador de la humanidad para los pueblos del Norte. Pero luego a partir de esta fecha, un nuevo dios :ref:`Odín`, (Woden), habría de tomar el título de Tvisto (Tiwaz-Tyr.Tíw), y así es cómo :ref:`Odín` toma parte del mito de la creación, que fueron amoldados a él. Por eso en la Edda menor , Snorri habla de Ymir no como un dios sino como una criatura maligna, conveniente para tener como progenie a los Gigantes Helados. Aunque sigue siendo el ser del cual nace la tierra.
+Aún hasta finales del siglo I d. J.C Ymir y Tvisto eran sinónimos, Tvisto era considerado el creador de la humanidad para los pueblos del Norte. Pero luego a partir de esta fecha, un nuevo dios :ref:`Odín`, (Woden), habría de tomar el título de Tvisto (Tiwaz-Tyr.Tíw), y así es cómo :ref:`Odín` toma parte del mito de la creación, que fueron amoldados a él. Por eso en la Edda menor , :ref:`Snorri` habla de Ymir no como un dios sino como una criatura maligna, conveniente para tener como progenie a los Gigantes Helados. Aunque sigue siendo el ser del cual nace la tierra.
 
 La vaca Audumla, lamió el hielo para alimentarse, descongeló a Bruni o Buri, quien era bello y de buen semblante. Este engendró a Bor, que se casó con Bestla una giganta hija de Bölzorn y tuvieron sus tres hijos, :ref:`Odín`, Vili y Vé.
 Sobre, Búri, Bor, Bölzorn y Blestla no ha quedado muchos detalles registrados, tal vez no se conocía mucho sobre ellos. Aunque los nombres de Búri y Bor en el fondo significan lo mismo , "nacido", "creado".
@@ -322,9 +322,9 @@ Los sabios :ref:`Vanir`
 Vanir, Singular Van. La raza de los dioses que corresponden a la fecundidad, prosperidad, erotismo. Los Dioses y Diosas Escandinavos Antiguos de la familia que se concentró en :ref:`Njörd`, :ref:`Freyr` y :ref:`Freya`. Ellos tienden a ser más apacibles y se relacionan más con asuntos de la naturaleza y la fecundidad que los Æsir.
 Después de una larga guerra con los Æsir, todos cambiaron de rehenes y vivieron en paz. Los :ref:`Vanir` que fueron al campo de los Æsir llegaron a ser asimilados por ellos, al retener sus características especiales.
 
-Los Dioses identificados como :ref:`Vanir` son: Holde, Nerthus, :ref:`Njörd`, :ref:`Freya`, :ref:`Freyr`, Od, Hnoss, :ref:`Aegir`, Ran, :ref:`Ull`, :ref:`Ulla`, Gerdh, Skirnir, :ref:`Heimdall`, Idunna, Bragi, Siofyn, Gefjon, Skadhi, Erde, las Sirenas, Svol, Ostara, Gullveig.
+Los Dioses identificados como :ref:`Vanir` son: Holde, Nerthus, :ref:`Njörd`, :ref:`Freya`, :ref:`Freyr`, Od, Hnoss, :ref:`Aegir`, Ran, :ref:`Ull`, Ulla, Gerdh, Skirnir, :ref:`Heimdall`, Idunna, Bragi, Siofyn, Gefjon, Skadhi, Erde, las Sirenas, Svol, Ostara, Gullveig.
 
-Los :ref:`Vanir` son descendientes directos de Holde por lado de madre, o son dioses que se han casado con diosas Van. Vanic (no :ref:`Vanir`) son Mundilfari, Mundilfara, Mani, el Sol,  sirvientes de :ref:`Freyr`: Byggvir, Beyla,  Valkyrias de :ref:`Freya` . Los Dioses identificados como Æsir son :ref:`Odín` (Fjolnir), Fjorgyn, :ref:`Loki`, :ref:`Thor`, Meili, :ref:`Frigga` (aunque ella sea hermana Van :ref:`Njörd`), :ref:`Tyr`, :ref:`Hermod`, :ref:`Balder`, :ref:`Hodur`, :ref:`Sif`, Thrudh, Nanna, :ref:`Forseti`, Sigyn, Magni, Modus, :ref:`Vali`, :ref:`Vidar`. Los :ref:`Aesir` son descendientes directos de :ref:`Odín` de parte de padre, o son diosas que se casaron con dioses
+Los :ref:`Vanir` son descendientes directos de Holde por lado de madre, o son dioses que se han casado con diosas Van. Vanic (no :ref:`Vanir`) son Mundilfari, Mundilfara, Mani, el Sol,  sirvientes de :ref:`Freyr`: Byggvir, Beyla,  Valkyrias de :ref:`Freya` . Los Dioses identificados como Æsir son :ref:`Odín` (Fjolnir), Fjorgyn, :ref:`Loki`, :ref:`Thor`, Meili, :ref:`Frigg` (aunque ella sea hermana Van :ref:`Njörd`), :ref:`Tyr`, :ref:`Hermod`, :ref:`Balder`, :ref:`Hodur`, :ref:`Sif`, Thrudh, Nanna, :ref:`Forseti`, Sigyn, Magni, Modus, :ref:`Vali`, :ref:`Vidar`. Los :ref:`Aesir` son descendientes directos de :ref:`Odín` de parte de padre, o son diosas que se casaron con dioses
 
 :ref:`Odín` marchó con un ejército contra los :ref:`Vanir`, pero resistieron bien y defendieron su país, y vencieron varias veces,  asolaron unos el país de los otros y causaron grave daño. Y cuando los dos se cansaron, acordaron una reunión de conciliación e hicieron la paz e intercambiaron rehenes,  Los :ref:`Vanir` entregaron al mejor de sus hombres :ref:`Njörd` el rico, y su hijo :ref:`Freyr`, y los :ref:`Aesir` entregaron a cambio al llamado
 
@@ -491,7 +491,7 @@ En "los sueños de :ref:`Balder`" Hermódr se dirige a Hel en busca de su herman
 
 Gnipahellir la entrada de Hel "Cueva del acantilado"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Snorri nos dice que Garm se soltará en :ref:`Ragnarök` y quedará libre el camino de salida, y el gallo color de herrumbre que está en los barrotes de Hel cantará con vigor. Los secuaces de :ref:`Loki` son los hijos de Hel, los que recorren el último trecho del viaje hasta el llano Vígrid en la nave Naglfor construida con las uñas de los muertos.
+:ref:`Snorri` nos dice que Garm se soltará en :ref:`Ragnarök` y quedará libre el camino de salida, y el gallo color de herrumbre que está en los barrotes de Hel cantará con vigor. Los secuaces de :ref:`Loki` son los hijos de Hel, los que recorren el último trecho del viaje hasta el llano Vígrid en la nave Naglfor construida con las uñas de los muertos.
 
 Náströg, una mansión de castigo, se halla lejos del sol y sus puertas se orientan al norte. Las serpientes están por todas partes, en el techo y en las paredes. En esta mansión se encuentran los asesinos, los perjuros y adúlteros, deben costear el río Slídr "espantoso", su corriente de cuchillos y espadas filosas, que baja desde el este y cruza estruendoso, los "valles del veneno" o pútridos valles (Voluspá 36).
 
@@ -499,7 +499,7 @@ Habitantes y otros lugares de Hel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nidafyöll, "las colinas de la oscuridad", en Voluspá se menciona al monstruo Nidhöggr llevando cadáveres desde Nidafyöll. Nádgridr, "la puerta del cadáver", se encuentra en Lokasena y en Skírnismal donde dice "fyr nágrindr nedan "debajo de la puerta del cadáver", también se interpreta como la "verja de los cadáveres" (Lokasena): :ref:`Thor` dijo: "Calla indecente, o terrible el martillo, el Mjollnir, te hará enmudecer, al Hel te echará el que a Hrúngnir mató, abajo a la verja Nágrind." (Skírnismal): "Hrimgrímnir el ogro será quien te tenga abajo a la verja Nágrind meada de cabra bellacos te den donde está la raíz del árbol" Hrimgrímnir "hendidura oculta" es un gigante helado que vive abajo de Nágrind, en las inmediaciones están las raíces del árbol :ref:`Yggdrasil` y unos seres llamados Vílgegir quienes son los que administran los castigos.
 
-Ámsvatnrir, es un lago que menciona Snorri en el Gylfaginning 34. "Entonces fueron los :ref:`Aesir` donde el lago llamado Ámsvatnir, a la isleta que dicen Lyngvi, y le dijeron al lobo que viniera." Además de los muertos, el perro Garm, Fenris el lobo, las serpiente Nidhöggr está :ref:`Loki` atado allí bajo Hvergelmir, donde Sigyn su esposa está sentada junto a él. :ref:`Loki` fue capturado sin condiciones y arrastrado a una caverna. Los dioses tomaron tres rocas, las pusieron juntas y escuadraron uno de sus lados, después apresaron a los hijos de :ref:`Loki`, Váli y Nari (Narfi).
+Ámsvatnrir, es un lago que menciona :ref:`Snorri` en el Gylfaginning 34. "Entonces fueron los :ref:`Aesir` donde el lago llamado Ámsvatnir, a la isleta que dicen Lyngvi, y le dijeron al lobo que viniera." Además de los muertos, el perro Garm, Fenris el lobo, las serpiente Nidhöggr está :ref:`Loki` atado allí bajo Hvergelmir, donde Sigyn su esposa está sentada junto a él. :ref:`Loki` fue capturado sin condiciones y arrastrado a una caverna. Los dioses tomaron tres rocas, las pusieron juntas y escuadraron uno de sus lados, después apresaron a los hijos de :ref:`Loki`, Váli y Nari (Narfi).
 
 Trocaron a Váli en lobo que destrozó a su hermano Nari. Los dioses les quitaron las entrañas a estos para atarlo y las sujetaron con hierro. Skadi anudó una serpiente que gotea veneno en la cara de :ref:`Loki`, Sigyn la recoge en un recipiente, cuando éste se está por llenar corre a vaciarlo, y mientras, la ponzoña hiere la cara de :ref:`Loki`, provocándole tanto dolor que la tierra tiembla (terremotos). Seguirá allí aferrado hasta la ruina de los dioses (:ref:`Ragnarök`).
 
