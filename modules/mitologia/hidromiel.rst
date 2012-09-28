@@ -32,6 +32,9 @@ desde el mar Mediterráneo hasta los 50° de latitud norte.
 Ello motivó que el vino desplazara al hidromiel como fuente popular para obtener
 alcohol y que a partir de entonces su consumo fuera declinando en forma gradual.
 
+Elaboración
+------------
+
 El hidromiel, es pues, una bebida alcohólica o mejor dicho fermentada, que
 resulta de la fermentación de una mezcla de miel y agua. En su elaboración deben
 emplearse las mieles más dulces, más aromáticas y de color más claro.
@@ -56,8 +59,130 @@ pero en principio el método era el siguiente:
 
 Preparación del Mosto
 ^^^^^^^^^^^^^^^^^^^^^^
-No conviene exagerar la proporción de miel en agua. La dosis más apropiada es  de 25 a 30 kilogramos de miel en cantidad suficiente de agua para completar 100  litros. Cuando se desea una bebida algo abocada o dulce, se emplearán hasta 40  kilogramos de miel. Como dato concreto podemos manifestar que 25 kilogramos  de miel y 83 litros de agua proporcionan unos 100 litros de hidromiel seco con  una graduación alcohólica de 10° a 11°.  Cada dos kilogramos y medio de miel por cada 100 litros de la mezcla aumentan alrededor de un grado alcohólico; este dato sirve para regular el agregado de miel  en mayor cantidad si se desea obtener una bebida más alcohólica. Pero no se  debe pretender una bebida demasiado alcohólica, ya que en lugar de eso, se  conseguirá una bebida dulce con no más de 12° a 13° de alcohol. La mezcla de 40 kilogramos de miel en 72 litros de agua proporciona unos 100 litros de hidromiel dulce. El mejor modo de preparar la mezcla de agua y miel consiste en calentar el agua en un recipiente de preferencia de acero inoxidable y agregar la miel al agua  caliente, agitando un poco para facilitar la disolución.
+No conviene exagerar la proporción de miel en agua. La dosis más apropiada es
+de 25 a 30 kilogramos de miel en cantidad suficiente de agua para completar 100
+litros. Cuando se desea una bebida algo abocada o dulce, se emplearán hasta 40
+kilogramos de miel.
 
+Como dato concreto podemos manifestar que 25 kilogramos de miel y 83 litros de
+agua proporcionan unos 100 litros de hidromiel seco con una graduación
+alcohólica de 10° a 11°. Cada dos kilogramos y medio de miel por cada 100
+litros de la mezcla aumentan alrededor de un grado alcohólico; este dato sirve
+para regular el agregado de miel en mayor cantidad si se desea obtener una
+bebida más alcohólica.
+
+Pero no se debe pretender una bebida demasiado alcohólica, ya que en lugar de
+eso, se conseguirá una bebida dulce con no más de 12° a 13° de alcohol. La
+mezcla de 40 kilogramos de miel en 72 litros de agua proporciona unos 100
+litros de hidromiel dulce. El mejor modo de preparar la mezcla de agua y miel
+consiste en calentar el agua en un recipiente de preferencia de acero
+inoxidable y agregar la miel al agua caliente, agitando un poco para facilitar
+la disolución.
+
+Agregado de Sales Nutritivas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ya dijimos que la mezcla de agua y miel únicamente no fermenta con facilidad,
+lo que es debido a que las levadura son encuentran alimentos en cantidad
+suficiente, razón por la que es necesario agregarlos al mosto.
+
+Con ese fin se recomiendan diversas fórmulas, siendo una de las más aceptables
+la siguiente: Fosfato de amonio 40 gramos ,Tartrato neutro de amonio 140 gr,
+Bitartrato de potasio 240 gr, Magnesia calcinada 8 gr, Sulfato de calcio (yeso)
+20 gr, Cloruro de sodio (sal común) 1.6 gr Flor de azufre 0.4 gr Acido tartárico
+100 gr, Polen de abeja 50 gr: total 600 gramos.
+
+Esa cantidad de sales nutritivas es la dosis apropiada para agregar a cada 100
+litros de mezcla. Para añadirla al mosto, la mezcla de esas sales tiene que
+estar bien pulverizada y se agregará revolviendo bien para facilitar su
+distribución uniforme.
+
+Preparación del fermento
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Ya hemos dicho que la fermentación del mosto se hará con levaduras vínicas.
+Para preparar el fermento de levaduras vínicas se procede en la siguiente forma:
+
+Por cada 100 litros de hidromiel a preparar, procúrense 5 kilogramos de uvas
+(preferiblemente blancas, siendo entre éstas la mejor, la Moscatel). Debe
+observarse que las uvas estén bien maduras y bien sanas. En un recipiente
+perfectamente limpio, enlozado o de madera, se estrujan las uvas a mano
+perfectamente lavadas y secas, procurando extraer todo el jugo.
+
+Luego se cuela a través de un lienzo y se agrega a la mezcla del mosto. Si no
+se disponen de uvas frescas, se pueden emplear fermentos vínicos seleccionados,
+que se adquieren en los comercios del ramo. La fermentación se puede iniciar
+sin el agregado de levaduras, pero es más seguro proceder en la forma que
+terminamos de indicar.
+
+Para efectuar la fermentación se debe emplear un barril o bordelesa (de 100 y
+de 200 litros de capacidad, respectivamente): para pequeñas elaboraciones
+también hay barrilitos de 50 y de 25 litros. La capacidad del recipiente se
+debe calcular de acuerdo con la cantidad de hidromiel a elaborar y teniendo en
+cuenta que se llenará de mosto hasta sus nueve décimas partes o más: así, para
+un barril de 100 litros usar unos 95 a 98litros de mosto, para uno de 50 litros
+tener 48 o 49 litros de mosto, etcétera.
+
+El casco o barril que se utilice para la fermentación debe estar perfectamente
+limpio y esterilizado con agua limpia durante 2 ó 3 días antes de iniciar la
+fermentación, para que se hinche la madera y el recipiente no tenga fugas más
+tarde.
+
+Una vez acondicionado el recipiente de fermentación se agrega, por medio de un
+embudo de vidrio, el mosto caliente que se termina de esterilizar. Una vez l
+leno, se limpia la boca y se tapa con un lienzo doblado varias veces y se sujeta
+con una piedra.
+
+La temperatura del mosto se vigila por medio de un termómetro. Cuando la
+temperatura ha descendido a 25-28° se agrega el fermento, preparado en la forma
+antes indicada y que se puede calentar a unos 25° c antes de agregarlo.
+
+Después de agregado el fermento se vuelve a tapar la boca del recipiente con el
+trapo doblado. Si el local es templado y resguardado del frío de la noche, la
+fermentación se iniciará dentro de las 36 horas posteriores al agregado del
+fermento.
+
+Se deja fermentar durante 24 horas y luego se agregan 10 gramos de metabisulfito
+de potasio, bien pulverizado, por cada 100 litros de mosto: para agregar el
+metabisulfito conviene disolverlo en un poco de agua tibia, y se revuelve con una
+cuchara de madera para mezclarlo uniformemente. Al día siguiente conviene airear
+el mosto (operación que se llama trasiego) sacando mosto por una canilla a una
+tina de madera y vertiéndolo de nuevo por la boca del barril o bordelesa.
+
+En esta forma se activará la fermentación, que ha sido un tanto apagado por el
+agregado de metabisulfito. El líquido fermentará pronto con tanta fuerza que
+parecerá que está hirviendo y al cabo de unos días se apaciguará la fermentación.
+
+Esa primera se denomina fermentación tumultuosa, y la que continúa después en
+forma suave se denomina fermentación lenta, o complementaria. Cuando comienza
+la fermentación lenta conviene reemplazar la tapa de lienzo por un cierre
+hidráulico o tubo de fermentación, que se llena con agua a la cual se adiciona
+un 15% de alcohol o unos trocitos de metabisulfito; conviene renovar el cierre
+cada dos o tres días.
+
+Una vez aplicado el tubo de fermentación al barril, podrá observarse como
+burbujea en el agua el gas que sale de aquél. Durante la fermentación lenta
+será bueno hacer dos trasiegos en la forma que ya hemos indicado, con un
+intervalo de 6 a 8 días entre uno y otro.
+
+Cuando la fermentación esté por terminar (lo que se comprueba aplicando el
+oído a la boca del barril, u observando el desprendimiento de gas carbónico en
+el cierre hidráulico) habrá que proceder a efectuar un relleno, operación que
+consiste en agregar mosto fermentado de otro recipiente o bien hidromiel de
+una elaboración anterior.
+
+El relleno tiene por objeto evitar que el líquido esté en contacto con el aire.
+Cuando no se dispone de mosto o hidromiel para efectuar el relleno, se trasiega
+el líquido fermentado a recipientes de menor capacidad, los cuales se llenarán
+por completo.
+
+El trasiego se hará a barriles bien limpios y azufrados. Se puede aprovechar la
+oportunidad para agregar un poco de tanino blanco enológico, a razón de 15
+gramos por cada 100 litros de hidromiel, disolviéndolo previamente en un poco de
+hidromiel tibio. El tanino tiene por objeto facilitar la clarificación y la
+conservación del producto. A los cinco ó seis meses la bebida está lista para
+su consumo. Claro que el mejor hidromiel se guarda muchos años antes de usarlo.
+
+Se puede envasar en frascos de vidrio de 200 a 500 centímetros cúbicoscon tapa
+de corcho. Una etiqueta vistosa se prestará muy bien para darle una buena presentación al producto.
 
 Orígenes de la poesía (Skaldskarparmal II)
 ------------------------------------------
@@ -199,7 +324,7 @@ Eran enormes toneles de roble de los monasterios con mas de 7 metros cúbicos
 de capacidad cada uno. Fue esta bebida preferida de los rusos hasta el siglo
 XVII cuando el zar Pedro I populariza los vinos y los destilados extranjeros.
 
-Preparación del Hidromiel
+Más recetas de Hidromiel
 --------------------------
 
 Hidromiel (básico)
@@ -242,7 +367,7 @@ procedimiento casero y sin pasteurizar se recomienda consumir dentro de la
 semana de preparado.
 
 .. note::
-  Fuente: Delicias de la cocina rusa. de Otilia Kusmin Ed. EMECÉ
+    Fuente: Delicias de la cocina rusa. de Otilia Kusmin Ed. EMECÉ
 
 Hidromiel
 ^^^^^^^^^^
@@ -268,4 +393,152 @@ hidromiel una vez filtrado y hay que esperar otro año una vez embotellado para
 consumirlo, pues este vino es más exquisito con el paso del tiempo.
 
 .. note::
-  Fuente: http://www.cocinandopasoapaso.com/vinos/hidromiel.htm
+    Fuente: http://www.cocinandopasoapaso.com/vinos/hidromiel.htm
+
+Hidromiel Aromatizado
+^^^^^^^^^^^^^^^^^^^^^^
+Si se desea modificar y variar un poco el sabor del hidromiel, se puede emplear
+maceraciones de vegetales, hojas, tallos, flores, semillas, raíces, cortezas,
+e ingredientes diversos.
+
+Esas maceraciones se preparan por separado en alcohol o directamente en el
+hidromiel, en el curso de la fermentación o una vez elaborado el producto,
+habiendo mejor resultado durante el curso de la fermentación. Un buen
+procedimiento para aromatizar el hidromiel es el siguiente:
+
+Para 100 litros de hidromiel se ponen en un lienzo 4 gramos de jengibre, 2
+gramos de clavo de olor y 2 gramos de anís estrella, toscamente pulverizados y
+se introducen en un costalito de tela de algodón o manta, se atan perfectamente
+y se sumergen durante 24 horas en el hidromiel por espacio de dos o tres días, o
+más si se desea obtener un perfume acentuado en la bebida.
+
+Se recomienda proceder con prudencia y practicar ensayos en pequeña escala antes
+de aromatizar una cantidad considerable de hidromiel, por los malos resultados
+que se obtuviera, esto es, por si no le agradara el aroma o el sabor resultante.
+
+.. note::
+    Fuente: Ecoaldea http://www.ecoaldea.com/apicultura/hidromiel.htm
+
+
+
+El cantar de H••mir
+--------------------
+Con caza un día se hicieron los dioses; comían aún cuando sed sintieron; echaron
+ramillas, las sangre miraron: de ollas sobrado vieron a Égir.
+
+Feliz como un niño estaba aquel ogro, parecíase al hojo de Miskorblindi.
+El nacido de Ygg lo miró con desdén: "¡Tú de cerveza hartarás a los ases!"
+El gran insolente al gigante enojó; se supo él pronto vengar de los dioses: la
+olla pidió al esposo de Síf "en que haceros pueda cerveza a todos".
+
+No dieron con esa los dioses gloriosos, los santos poderes, por más que buscaron,
+pero entonces Tyr a su amigo le dio, a Hlórridi sólo, precioso consejo:
+
+    "Más alla de Elivágar al este vive, al borde del cielo, H••mir el sabio;
+    recia una olla mi padre tiene, un caldero espacioso, una legua de hondo."
+    "¿Nos podremos hacer con aquella marmita?" "Sólo si tretas, amigo, usamos."
+
+Dónde Égil vivía, lejos de Ásgard, hasta allá llegaron tras dura jornada;
+dejaron con él a los dos cornifuertes; a la sala de H••mir marcharon luego.
+
+Espantosa a su abuela el hijo encontró; novecientas cabezas ella tenía; pero
+toda enjoyada, cerveza la otra, la clara de cejas, sirvióle a su hijo:
+
+    "¡Oh parientes de ogros! Debajo de las ollas os quiero esconder, a los dos
+    temerarios; tiene mi amado con todo el que viene tacaño el trato y pronta
+    ira."
+
+Tarde era ya cuando el ogro maligno, H••mir perverso, volvió de la caza; al
+entrar aquel hombre hielos sonaron, helado traía el bosque del rostro.
+
+"!Alégrate, H••mir y ponte contento!! Ahora a tu sala el hijo nos vino, aquel
+que esperamos de largos senderos. Lo acompaña de Hrod el fiero enemigo, el que
+ayuda a los hombres: Veur se llama. Mira que al fondo están de la sala
+guardándose allí con un poste delante."
+
+La mirada del ogro el poste partió y arriba la viga quebróse por medio; ocho
+calderos de ella cayeron, mas uno, el sólido, entero quedó.
+
+Avanzaron entonces; el viejo gigante fija la mirada clavó en su enemigo; poco
+de bueno pasó por su mente al ver en su casa al martirio de ogresas.
+
+Toros entonces, tres, se apartaron; los tres el gigante mandó que cocieran; de
+su largo quitaron lo que ra cabeza y al hoyo a cocer los echaron pronto. El
+esposo de Sif dos bueyes de H••mir comióse él antes de irse a dormir; parecióle
+al viejo compadre de Hrungnir que Hlórridi mucho y de más comía:
+
+    "Mañana a la noche fuerza será que con algo de pesca cena apañemos.
+    Dispuesto a pescar díjole Veur, si torvo gigante el cebo le daba.
+
+    "Ve a mi manada, si es que te atreves, y allí mata-ogros, búscate el cebo;
+    seguro que sí que un buey te lo da, verás qué fácil sacárselo a él."
+
+Resuelto el joven se fue para el bosque, allá a donde estaba un buey todo negro:
+le arrancó a aquel toro el tritura-gigantes el alto solar de sus ambos cuernos.
+
+"Menos contento pones así al amo del barco que estándote quieto".
+
+Más el señor de los machos cabríos quería alejar el corcel de rodillos, mas el
+hijo de micos dijo que no, que más para afuera él no remaba Con anzuelo entonces
+H••mir forzudo a la vez, él solo, sacó dos ballenas; pero atrás en la popa con
+mañas Veur, el hijo de Odín, preparaba su cuerda.
+
+Con cabeza de buey su anzuelo cebó el guardián de gentes, verdugo del monstruo;
+el cebo mordió el que hostiga a los dioses, aquel que en el fondo las tierras
+ciñe.
+
+Tor, atrevido, arriba a la borda sacó con fuerza al reptil ponzoñoso; pegó su
+martillo en la peña de los pelos de la hermana gemela, horrible, del lobo.
+
+Crujieron montañas, rocas saltaron,  vieja la tierra entera tembló; se metió
+aquel pez en las aguas luego.
+
+Mohíno el ogro remaba a la vuelta, largo silencio H••mir guardaba; tirando del
+remo el rumbo cambió. "¿Podrás igualarme en obra de fuerza? Llévame a casa las
+dos ballenaso saca y amarra el carnero del mar."
+
+Hlórridi entonces tiró de la proa y con agua en el fondo, con cubas y remos,
+la jaca marina encima se aupó; a la casa llevó el cebón de las olas camino
+cortando por altas peñas.
+
+Porfiado ogro, de Tor todavía las fuerzas retó: aunque duro remase, un hombre
+no era, dijo, forzudo si no conseguía romper su copa.
+
+Hlórridi pronto, lanzando la copa, un poste con ella de piedra partió; la hizo
+pasar a través de pilares, mas lleváronla a H••mir y estaba entera.
+
+Hermosa entonces la amante del ogro consejo le dio, el que bueno sabía:
+    "Al cráneo apunta de H••mir tragón, que lo tiene más duro que todas las
+    copas."
+
+Levantóse el señor de los machos cabríos, con su fuerza de as se llenó poderoso:
+aguantó en el viejo el tarugo del yelmo, se rompió la redonda, la tina del vino.
+
+    "Pieza valiosa pierdo en verdad cuando ya para siempre sin copa quedo."
+
+Y elviejo añadió: "¡Nunca ya más podré yo beber calentita cerveza! Veamos ahora si
+es que podéis, probad a sacar el bajel cervecero. Tyr dos veces trató de moverlo,
+las dos el caldero quieto quedó.
+
+Lo agarró por su borde el padre de Modi y en la sala se hundió a través del
+suelo; selo echó a la cabeza el esposo de Sif: anillas sonaron dando en talones.
+
+Al poco de marcha, el hijo de Odín para atrás una vez volvió la mirada: de los
+riscos del este vio que con H••mir salían tras él los de muchas cabezas.
+
+Se bajó de los hombros la olla entonces y el Mjöllnir alzó contra el clan
+sanguinario: a los monstruos del yermo, a todos, mató.
+
+Al poco de marcha, un macho cabrío echósele a Hlórridi, allá medio muerto: rota
+la pata la jaca tenía y aquello lo hizo Loki malvado.
+
+Escuchado tenéis-- o cuéntelo bien aquel que mejor de los dioses sepa-- lo que
+él recibió del ogro del yermo, que diole sus hijos, los dos, en pago.
+
+Con todos los dioses él regresó llevándoles, fuerte, la olla de H••mir
+
+¡Bien beberán, los ases ahora la cerveza que Égir hará cada otoño!
+
+.. note::
+    (Edda mayor) Traducción por Luis Lerate
+

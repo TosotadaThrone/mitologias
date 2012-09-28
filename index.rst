@@ -37,7 +37,10 @@ Mitología Nórdica
    modules/mitologia/guerreros
    modules/mitologia/bestiario
    modules/mitologia/ragnarok
-   
+   modules/mitologia/sagas
+   modules/mitologia/hidromiel
+   modules/mitologia/snorri
+
    modules/mitologia/fuentes
 
 
