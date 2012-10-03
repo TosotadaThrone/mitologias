@@ -421,7 +421,7 @@ que se obtuviera, esto es, por si no le agradara el aroma o el sabor resultante.
 
 
 
-El cantar de H••mir
+El cantar de Hymir
 --------------------
 Con caza un día se hicieron los dioses; comían aún cuando sed sintieron; echaron
 ramillas, las sangre miraron: de ollas sobrado vieron a Égir.
@@ -434,12 +434,12 @@ olla pidió al esposo de Síf "en que haceros pueda cerveza a todos".
 No dieron con esa los dioses gloriosos, los santos poderes, por más que buscaron,
 pero entonces Tyr a su amigo le dio, a Hlórridi sólo, precioso consejo:
 
-    "Más alla de Elivágar al este vive, al borde del cielo, H••mir el sabio;
+    "Más alla de Elivágar al este vive, al borde del cielo, Hymir el sabio;
     recia una olla mi padre tiene, un caldero espacioso, una legua de hondo."
     "¿Nos podremos hacer con aquella marmita?" "Sólo si tretas, amigo, usamos."
 
 Dónde Égil vivía, lejos de Ásgard, hasta allá llegaron tras dura jornada;
-dejaron con él a los dos cornifuertes; a la sala de H••mir marcharon luego.
+dejaron con él a los dos cornifuertes; a la sala de Hymir marcharon luego.
 
 Espantosa a su abuela el hijo encontró; novecientas cabezas ella tenía; pero
 toda enjoyada, cerveza la otra, la clara de cejas, sirvióle a su hijo:
@@ -448,10 +448,10 @@ toda enjoyada, cerveza la otra, la clara de cejas, sirvióle a su hijo:
     temerarios; tiene mi amado con todo el que viene tacaño el trato y pronta
     ira."
 
-Tarde era ya cuando el ogro maligno, H••mir perverso, volvió de la caza; al
+Tarde era ya cuando el ogro maligno, Hymir perverso, volvió de la caza; al
 entrar aquel hombre hielos sonaron, helado traía el bosque del rostro.
 
-"!Alégrate, H••mir y ponte contento!! Ahora a tu sala el hijo nos vino, aquel
+"!Alégrate, Hymir y ponte contento!! Ahora a tu sala el hijo nos vino, aquel
 que esperamos de largos senderos. Lo acompaña de Hrod el fiero enemigo, el que
 ayuda a los hombres: Veur se llama. Mira que al fondo están de la sala
 guardándose allí con un poste delante."
@@ -464,7 +464,7 @@ de bueno pasó por su mente al ver en su casa al martirio de ogresas.
 
 Toros entonces, tres, se apartaron; los tres el gigante mandó que cocieran; de
 su largo quitaron lo que ra cabeza y al hoyo a cocer los echaron pronto. El
-esposo de Sif dos bueyes de H••mir comióse él antes de irse a dormir; parecióle
+esposo de Sif dos bueyes de Hymir comióse él antes de irse a dormir; parecióle
 al viejo compadre de Hrungnir que Hlórridi mucho y de más comía:
 
     "Mañana a la noche fuerza será que con algo de pesca cena apañemos.
@@ -480,7 +480,7 @@ le arrancó a aquel toro el tritura-gigantes el alto solar de sus ambos cuernos.
 
 Más el señor de los machos cabríos quería alejar el corcel de rodillos, mas el
 hijo de micos dijo que no, que más para afuera él no remaba Con anzuelo entonces
-H••mir forzudo a la vez, él solo, sacó dos ballenas; pero atrás en la popa con
+Hymir forzudo a la vez, él solo, sacó dos ballenas; pero atrás en la popa con
 mañas Veur, el hijo de Odín, preparaba su cuerda.
 
 Con cabeza de buey su anzuelo cebó el guardián de gentes, verdugo del monstruo;
@@ -493,7 +493,7 @@ martillo en la peña de los pelos de la hermana gemela, horrible, del lobo.
 Crujieron montañas, rocas saltaron,  vieja la tierra entera tembló; se metió
 aquel pez en las aguas luego.
 
-Mohíno el ogro remaba a la vuelta, largo silencio H••mir guardaba; tirando del
+Mohíno el ogro remaba a la vuelta, largo silencio Hymir guardaba; tirando del
 remo el rumbo cambió. "¿Podrás igualarme en obra de fuerza? Llévame a casa las
 dos ballenaso saca y amarra el carnero del mar."
 
@@ -505,10 +505,10 @@ Porfiado ogro, de Tor todavía las fuerzas retó: aunque duro remase, un hombre
 no era, dijo, forzudo si no conseguía romper su copa.
 
 Hlórridi pronto, lanzando la copa, un poste con ella de piedra partió; la hizo
-pasar a través de pilares, mas lleváronla a H••mir y estaba entera.
+pasar a través de pilares, mas lleváronla a Hymir y estaba entera.
 
 Hermosa entonces la amante del ogro consejo le dio, el que bueno sabía:
-    "Al cráneo apunta de H••mir tragón, que lo tiene más duro que todas las
+    "Al cráneo apunta de Hymir tragón, que lo tiene más duro que todas las
     copas."
 
 Levantóse el señor de los machos cabríos, con su fuerza de as se llenó poderoso:
@@ -524,7 +524,7 @@ Lo agarró por su borde el padre de Modi y en la sala se hundió a través del
 suelo; selo echó a la cabeza el esposo de Sif: anillas sonaron dando en talones.
 
 Al poco de marcha, el hijo de Odín para atrás una vez volvió la mirada: de los
-riscos del este vio que con H••mir salían tras él los de muchas cabezas.
+riscos del este vio que con Hymir salían tras él los de muchas cabezas.
 
 Se bajó de los hombros la olla entonces y el Mjöllnir alzó contra el clan
 sanguinario: a los monstruos del yermo, a todos, mató.
@@ -535,7 +535,7 @@ la pata la jaca tenía y aquello lo hizo Loki malvado.
 Escuchado tenéis-- o cuéntelo bien aquel que mejor de los dioses sepa-- lo que
 él recibió del ogro del yermo, que diole sus hijos, los dos, en pago.
 
-Con todos los dioses él regresó llevándoles, fuerte, la olla de H••mir
+Con todos los dioses él regresó llevándoles, fuerte, la olla de Hymir
 
 ¡Bien beberán, los ases ahora la cerveza que Égir hará cada otoño!
 
