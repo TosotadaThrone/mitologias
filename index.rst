@@ -38,10 +38,11 @@ Mitología Nórdica
    modules/mitologia/bestiario
    modules/mitologia/ragnarok
    modules/mitologia/sagas
+   modules/mitologia/runas
    modules/mitologia/eddas
    modules/mitologia/snorri
    modules/mitologia/hidromiel
-   
+
    modules/mitologia/fuentes
 
 
