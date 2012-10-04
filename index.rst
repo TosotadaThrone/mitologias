@@ -25,6 +25,9 @@ Si quieres colaborar, o hacer tu propia versión del sitio, puedes hacerlo en `g
 Mitología Nórdica
 ------------------
 
+Mitología
+^^^^^^^^^^
+
 .. toctree::
    :maxdepth: 1
 
@@ -38,10 +41,26 @@ Mitología Nórdica
    modules/mitologia/bestiario
    modules/mitologia/ragnarok
    modules/mitologia/sagas
-   modules/mitologia/runas
    modules/mitologia/eddas
+
+
+Cultura
+^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   modules/mitologia/runas
    modules/mitologia/snorri
    modules/mitologia/hidromiel
+   modules/mitologia/tribus
+
+
+Bibliografía
+^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
 
    modules/mitologia/fuentes
 
