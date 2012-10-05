@@ -8,34 +8,74 @@ La palabra Runa significa "misterio" y ocasionalmente "secreto" o "consejo
 secreto" y se encuentra en la mayoría de los idiomas germánicos y célticos.
 Hay variantes de ellas aunque su significado es similar.
 
-También encontramos la palabra funcionada en viejo irlandés, significando misterio y el rhin en Galés Medio con una definición similar. Un número de gente ha discutido que la palabra fue pedida prestada del céltico al alemán, aunque más han discutido el revés, puesto que se encuentra en significados más vigorosos, más extensos en lenguas alemanas.
+También encontramos la palabra funcionada en viejo irlandés, significando
+misterio y el rhin en Galés Medio con una definición similar. Un número de
+gente ha discutido que la palabra fue pedida prestada del céltico al alemán,
+aunque más han discutido el revés, puesto que se encuentra en significados más
+vigorosos, más extensos en lenguas alemanas.
 
-Es absolutamente posible, sin embargo, que ambos de ese grupo de lenguas tengan la palabra del Proto-indoeuropeo reu o gwor-w-on. La forma, reu, significa rugir y susurrar, mientras que la última conectaría con el nombre de los dioses griegos y viejos dioses del Indico, Ouranos y Varuna , ambos conocidos por sus poderes de atar y crear.
+Es absolutamente posible, sin embargo, que ambos de ese grupo de lenguas
+tengan la palabra del Proto-indoeuropeo reu o gwor-w-on. La forma, reu,
+significa rugir y susurrar, mientras que la última conectaría con el nombre de
+los dioses griegos y viejos dioses del Indico, Ouranos y Varuna , ambos
+conocidos por sus poderes de atar y crear.
 
-Esas cualidades también se asocian con el dios Odín (conocido como Wotan, Odhinn, Wotanaz, Gautr y algunas otras variaciones). En cualquier caso, está claro que la palabra tiene, desde el principio, un significado de algo que es un misterio o un secreto. El primer uso sistemático e históricamente documentado de runas usadas como letras, fecha a 50 C.E. que es la fecha aproximada del broche de Meldorf.
+Esas cualidades también se asocian con el dios Odín (conocido como Wotan,
+Odhinn, Wotanaz, Gautr y algunas otras variaciones). En cualquier caso, está
+claro que la palabra tiene, desde el principio, un significado de algo que es
+un misterio o un secreto. El primer uso sistemático e históricamente
+documentado de runas usadas como letras, fecha a 50 C.E. que es la fecha
+aproximada del broche de Meldorf.
 
-Desde entonces las Runas, que fueron usadas para encantamientos mágicos y como runestaves, (escritura), se encuentran con mayor frecuencia. Los eruditos han propuesto un número de teorías durante años para explicar el origen histórico de las Runas, y de estas teorías cada una tienen fortalezas y debilidades.
+Desde entonces las Runas, que fueron usadas para encantamientos mágicos y como
+runestaves, (escritura), se encuentran con mayor frecuencia. Los eruditos han
+propuesto un número de teorías durante años para explicar el origen histórico
+de las Runas, y de estas teorías cada una tienen fortalezas y debilidades.
 
-Casi ninguna de estas teorías son absolutamente correctas pero , las Runas se presentaron como una combinación de todas ellas. Las teorías nombradas por los eruditos son la teoría latina, la teoría griega, la teoría del Norte-Itálico (o Etrusco) y la teoría indígena.
+Casi ninguna de estas teorías son absolutamente correctas pero , las Runas se
+presentaron como una combinación de todas ellas. Las teorías nombradas por los
+eruditos son la teoría latina, la teoría griega, la teoría del Norte-Itálico (
+o Etrusco) y la teoría indígena.
 
-Cada uno explica cómo las Runas surgieron y la mayoría de los eruditos aceptan generalmente una combinación de una parte de ellas. Los runas comenzaron su existencia hace aproximadamente 6000 años como elementos simbólicos y en uso diario hace aproximadamente 2200 años como un alfabeto y sistema de numeración.
+Cada uno explica cómo las Runas surgieron y la mayoría de los eruditos aceptan
+generalmente una combinación de una parte de ellas. Los runas comenzaron su
+existencia hace aproximadamente 6000 años como elementos simbólicos y en uso
+diario hace aproximadamente 2200 años como un alfabeto y sistema de numeración.
 
-En los primeros tiempos fueron ideadas como un sistema mágico y de adivinación y más adelante se convirtieron en un alfabeto o viceversa, son un tema de mucha conjetura y ahora están siendo utilizados para ambas funciones. Los usuarios más famosos de las runas eran los vikingos.
+En los primeros tiempos fueron ideadas como un sistema mágico y de adivinación
+y más adelante se convirtieron en un alfabeto o viceversa, son un tema de
+mucha conjetura y ahora están siendo utilizados para ambas funciones. Los
+usuarios más famosos de las runas eran los vikingos.
 
-Esta gente audaz los trazó por todas partes donde ellos estuvieron. Según la creencia de los nórdicos, las runas fueron dadas a Odin, el padre de toda la creación. Y por medio de estas runas, él se comunicó con su gente, le dio advertencias, bendiciones y maldiciones a sus enemigos.
+Esta gente audaz los trazó por todas partes donde ellos estuvieron. Según la
+creencia de los nórdicos, las runas fueron dadas a Odin, el padre de toda la
+creación. Y por medio de estas runas, él se comunicó con su gente, le dio
+advertencias, bendiciones y maldiciones a sus enemigos.
 
-Las runas llegaron a ser más sagrados por esta misma razón y fueron tratados con respecto y dignidad. Pero esto no siempre fue así. Con el avance del cristianismo, las runas fueron consideradas como "demoniacas" o "letras del diablo", no porque así lo eran, sino porque la iglesia no podía controlar la gente que utilizó las runas.
+Las runas llegaron a ser más sagrados por esta misma razón y fueron tratados
+con respecto y dignidad. Pero esto no siempre fue así. Con el avance del
+cristianismo, las runas fueron consideradas como "demoniacas" o "letras del
+diablo", no porque así lo eran, sino porque la iglesia no podía controlar la
+gente que utilizó las runas.
 
-Por 800 A.C., había tal persecución de las runas y de sus usuarios que ellas comenzaron a caer en desuso, o mantenidas muy en secreto entre miembros cercanos de la familia o el sacerdocio. Antes de 1700, habían desaparecido bastante del uso diario en general.
+Por 800 A.C., había tal persecución de las runas y de sus usuarios que ellas
+comenzaron a caer en desuso, o mantenidas muy en secreto entre miembros
+cercanos de la familia o el sacerdocio. Antes de 1700, habían desaparecido
+bastante del uso diario en general.
 
-La única cosa real que mantuvo su misterio vivo era que son mágicas, tenían características únicas y ahora al ser tabú, muy deseables de tener. Gracias a los historiadores, las runas están mucho mas vivas otra vez hoy. No solamente como un alfabeto.
+La única cosa real que mantuvo su misterio vivo era que son mágicas, tenían
+características únicas y ahora al ser tabú, muy deseables de tener. Gracias a
+los historiadores, las runas están mucho mas vivas otra vez hoy. No solamente
+como un alfabeto.
 
 Si vas a hacer tu juego de runas, siéntete agradecido nosotros no elegimos las
 runas, ellas nos eligen para ser sus estudiantes.
 
 Historia Metafísica de las Runas
 ---------------------------------
-La historia comienza con Odín, quién colgó del árbol del mundo, en sacrificio, durante nueve noches y días, para adquirir sabiduría.... lo describe en Hávamál así:
+La historia comienza con Odín, quién colgó del árbol del mundo, en sacrificio,
+durante nueve noches y días, para adquirir sabiduría.... lo describe en
+Hávamál así:
 
     138 Sé que pendí nueve noches enteras del árbol que mece el viento; herido
     de lanza y a Odín ofrecido
@@ -109,7 +149,8 @@ La historia comienza con Odín, quién colgó del árbol del mundo, en sacrifici
     158 El decimotercero sé, si al nuevo guerrero echarle las aguas debo: no
     caerá él si a la guerra fuere, lo respetan a él las espadas.
 
-    159 El decimocuarto sé, si yo entre loshombres decir de los dioses debo: de los ases y elfos yo doy toda cuenta. ¡No hace otro tanto el necio!
+    159 El decimocuarto sé, si yo entre loshombres decir de los dioses debo:
+    de los ases y elfos yo doy toda cuenta. ¡No hace otro tanto el necio!
 
     160 El decimoquinto sé, que el enano Tiodrórir a las puertas de Délling
     cantó: con las fuerzas de los ases, con gloria a los elfos, lo cantó a
@@ -129,7 +170,8 @@ La historia comienza con Odín, quién colgó del árbol del mundo, en sacrifici
 
 El Futhark
 -----------
-El Elder Futhark (runas nórdicas)son una colección de 24 símbolos divididos en tres familias o aettr.
+El Elder Futhark (runas nórdicas)son una colección de 24 símbolos divididos en
+tres familias o aettr.
 
 Estuvieron inscritos en los amuletos para la protección, la suerte en batalla,
 etc. Pues la vieja lengua de los nórdicos no tenía ningún tiempo futuro, estas
