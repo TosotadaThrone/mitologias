@@ -57,8 +57,6 @@ vástagos.
 **11.** Tojariano, una lengua extinta, con dos dialectos conocidos por antiguos
 manuscritos descubiertos, en las ruinas de las ciudades de Tarim.
 
-.. image:: /images/drakkar.jpg
-	:align: center
 
 
 La patria primitiva de las naciones gotónicas
@@ -128,6 +126,9 @@ ríos Oder y Vístula y sus alrededores desplazándose hacia el Mediodía en los
 tribus incluían lombardos de Scania, burgundios de Bornholm, rugianos de
 Rogaland y godos del Östergötland y el Västergötland de Suecia.
 
+.. image:: /images/viking-helmet.gif
+	:align: center
+
 Había además, los vándalos, los gépidos y los hérulos el avance persistió
 hasta las playas del Mar Negro. Las primeras tribus que lo alcanzaron fueron
 los escirios y los bastarnianos entre los años 200 y 150 A.C.
@@ -194,6 +195,9 @@ Inglaterra. En cuanto alas ramas de las tribus gotónicas que se habían
 retirado a sus viejos lares de Dinamarca y Escandinavia, no se convirtieron en
 un terrible y feroz agente de la Europa occidental hasta poco antes del 800
 D.C.
+
+.. image:: /images/viking-sword.jpg
+	:align: center
 
 El invento del hacha y la expansión vikinga Se ha dicho que el invento del
 hacha de hierro fue en realidad, lo que precipitó la expansión de los vikingos
@@ -265,4 +269,8 @@ hombres del norte.
 Los soberanos ingleses retornaron al país con Eduardo el Confesor (1042-1066)
 y Harold, el cual detuvo la ultima invasión vikinga propiamente dicha en el
 Puente de Stamford, a trece km de York.
+
+.. image:: /images/drakkar.jpg
+	:align: center
+
 

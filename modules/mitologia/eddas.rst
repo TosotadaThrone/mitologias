@@ -1005,7 +1005,7 @@ La pieza está considerada como una de las más tardías de los poemas éddicos.
 
     Fiólsvinn dijo:
 
-    14 "Gif el primero__ si quieres saberlo__ y Geri el segundo se llaman; por
+    14 "Gif el primero si quieres saberlo y Geri el segundo se llaman; por
     ellos guardadas las once estarán hasta el día en que caigan los dioses"
 
     Svípdag dijo:
