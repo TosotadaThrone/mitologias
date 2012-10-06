@@ -1396,3 +1396,10 @@ los dioses. Creación de los Escaldos. Capaz de llevar a cabo azañas que
 no hubieran realizado otros dioses aparentemente más audaces. En la
 guerra entre los dioses y los gigantes superó al mismo :ref:`Odín` en fuerza,
 pues mató a Fenrir. Sobrevivió a :ref:`Ragnarök`.
+
+
+Árbol genealógico
+--------------------
+
+.. image:: /images/viking_family_tree.sp.gif
+	:align: center

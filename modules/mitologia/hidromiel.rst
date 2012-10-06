@@ -233,7 +233,7 @@ hidromiel de Suttung, o licor de Hnitbörg.
 Entonces dijo Aegir: Muy oscuro me parece llamar ala poesía con estos nombres,
 Pero... ¿Cómo consiguieron los Ases el hidromiel de Suttung?
 
-Bragi responde: La historia cuenta que Odín marchó de casa y llegó a un lugar
+Bragi responde: La historia cuenta que :ref:`Odín` marchó de casa y llegó a un lugar
 donde nueve siervos segaban el heno. Pregunta si querían que les afilara las
 hoces y ellos aceptan.
 
@@ -245,9 +245,9 @@ Y todos dijeron qu ela querían, y pidieron que sel avendiera. Y él lanzó la
 afiladera al aire, y como todos quisieron cogerla, se enzarzaron de tal forma
 que se cortaron el cuello unos a otros.
 
-Odín pidió albergar al gigante llamado Baugi, hermano de Suttung. Baugi dijo
+:ref:`Odín` pidió albergar al gigante llamado Baugi, hermano de Suttung. Baugi dijo
 que andaba mal de dinero, y que sus nueve ciervos se habían matado y que no
-sabía dónde encontrar braceros. Y Odín le dijo que se llamaba Bölverk, ofreció
+sabía dónde encontrar braceros. Y :ref:`Odín` le dijo que se llamaba Bölverk, ofreció
 hacer el trabajo de nueve hombres para Baugi, y afirmó que a cambio quería un
 trago de hidromiel de Suttung.
 
@@ -276,14 +276,14 @@ en el segundo Bodn y en el tercero són, y acabó todo el hidromiel.
 
 Entonces adoptó la figura de un águila y voló lo más deprisa que pudo. Pero
 cuando Suttung vio volar el águila adoptó también figura de águila y voló tras
-él. Y cuando los Ases vieron por donde volaba Odín, sacaron su cántaro al patio,
-y cuando odín entró en Ásgard escupió el hidromiel al cántaro.
+él. Y cuando los Ases vieron por donde volaba :ref:`Odín`, sacaron su cántaro al patio,
+y cuando :ref:`Odín` entró en Ásgard escupió el hidromiel al cántaro.
 
 Pero Suttung había estado tan a punto de cogerle, que echó por detrás algo de
 hidromiel, y éste no se recogió:lo puede tomar quien quiera, y le llamamos la
-ración de los poetastros. Y el hidromiel de Suttung lo dio odín a los Ases y a
+ración de los poetastros. Y el hidromiel de Suttung lo dio :ref:`Odín` a los Ases y a
 los hombres que saben componer (poemas). Por eso llamamos a la poesía el botín
-de Odín, o su bebida o su regalo, o la bebida de los Ases.
+de :ref:`Odín`, o su bebida o su regalo, o la bebida de los Ases.
 
 La bebida de los dioses, parte de la historia
 ----------------------------------------------
@@ -464,7 +464,7 @@ de bueno pasó por su mente al ver en su casa al martirio de ogresas.
 
 Toros entonces, tres, se apartaron; los tres el gigante mandó que cocieran; de
 su largo quitaron lo que ra cabeza y al hoyo a cocer los echaron pronto. El
-esposo de Sif dos bueyes de Hymir comióse él antes de irse a dormir; parecióle
+esposo de :ref:`Sif` dos bueyes de Hymir comióse él antes de irse a dormir; parecióle
 al viejo compadre de Hrungnir que Hlórridi mucho y de más comía:
 
     "Mañana a la noche fuerza será que con algo de pesca cena apañemos.
@@ -481,7 +481,7 @@ le arrancó a aquel toro el tritura-gigantes el alto solar de sus ambos cuernos.
 Más el señor de los machos cabríos quería alejar el corcel de rodillos, mas el
 hijo de micos dijo que no, que más para afuera él no remaba Con anzuelo entonces
 Hymir forzudo a la vez, él solo, sacó dos ballenas; pero atrás en la popa con
-mañas Veur, el hijo de Odín, preparaba su cuerda.
+mañas Veur, el hijo de :ref:`Odín`, preparaba su cuerda.
 
 Con cabeza de buey su anzuelo cebó el guardián de gentes, verdugo del monstruo;
 el cebo mordió el que hostiga a los dioses, aquel que en el fondo las tierras
@@ -521,16 +521,16 @@ es que podéis, probad a sacar el bajel cervecero. Tyr dos veces trató de mover
 las dos el caldero quieto quedó.
 
 Lo agarró por su borde el padre de Modi y en la sala se hundió a través del
-suelo; selo echó a la cabeza el esposo de Sif: anillas sonaron dando en talones.
+suelo; selo echó a la cabeza el esposo de :ref:`Sif`: anillas sonaron dando en talones.
 
-Al poco de marcha, el hijo de Odín para atrás una vez volvió la mirada: de los
+Al poco de marcha, el hijo de :ref:`Odín` para atrás una vez volvió la mirada: de los
 riscos del este vio que con Hymir salían tras él los de muchas cabezas.
 
 Se bajó de los hombros la olla entonces y el Mjöllnir alzó contra el clan
 sanguinario: a los monstruos del yermo, a todos, mató.
 
 Al poco de marcha, un macho cabrío echósele a Hlórridi, allá medio muerto: rota
-la pata la jaca tenía y aquello lo hizo Loki malvado.
+la pata la jaca tenía y aquello lo hizo :ref:`Loki` malvado.
 
 Escuchado tenéis-- o cuéntelo bien aquel que mejor de los dioses sepa-- lo que
 él recibió del ogro del yermo, que diole sus hijos, los dos, en pago.

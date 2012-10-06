@@ -27,7 +27,6 @@ habla con otros 10 grupos de gentes que empleaban lenguajes parecidos.
 Los filólogos reconocen por tales a los siguientes:
 
 **1.** Gotónico, cuyos restos más antiguos son inscripciones rúnicas del año 200
-
 D.C., La traducción completa de los Evangelios, obras de Ulfilas, fechada en
 los alrededores del 500 D.C. Los manuscritos normandos más antiguos que se
 conservan del siglo XII y los anglosajones del siglo VII.
@@ -57,6 +56,10 @@ vástagos.
 
 **11.** Tojariano, una lengua extinta, con dos dialectos conocidos por antiguos
 manuscritos descubiertos, en las ruinas de las ciudades de Tarim.
+
+.. image:: /images/drakkar.jpg
+	:align: center
+
 
 La patria primitiva de las naciones gotónicas
 ----------------------------------------------

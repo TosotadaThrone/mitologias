@@ -28,6 +28,10 @@ hombres a casa de Snorri y cumplió su cometido. Dice la leyenda que antes de
 morir, las últimas palabras de Snorri fueron: "Eigi skal höggva!" (¡No cortéis
 mi cabeza!).
 
+.. image:: /images/snorre_kapa.jpg
+    :align: center
+
+
 Obra
 -----
 Fue el autor de la Saga de Egil Skallagrímson y la Heimskringla (o Crónica de

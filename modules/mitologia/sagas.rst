@@ -60,6 +60,9 @@ espada en la boca, para acallarlo; de la sangre que manó de su paladar brotó e
 río Von y allí quedó :ref:`Fenris`, esperando el día final, hasta que llegara el
 momento en que se rompiera su ligadura y fuera el tiempo de su venganza.
 
+.. image:: /images/tyr_fenris.jpg
+	:align: center
+
 Thor y la serpiente Midgard
 ----------------------------
 
@@ -115,13 +118,19 @@ vaso se rompió y la frente del gigante quedó intacta.
 
 Pero aun :ref:`Thor` debía
 sacar esa caldera fuera del palacio, ya :ref:`Tyr` lo había intentado dos veces, pero
-sin éxito, :ref:`Thor` con toda su fuerza de Asio tomó la caldera y la subió a su
-cabeza, sus pies atravesaron el duelo de la sala, cuando vio una multitud de
+sin éxito, :ref:`Thor` con toda su fuerza de :ref:`Aesir` tomó la caldera y la subió a su
+cabeza, sus pies atravesaron el suelo de la sala, cuando vio una multitud de
 cabezas lanzándose contra él y entremedio la cabeza de Ymer, colocó la caldera
 sobre su hombro y blandió su martillo, enseguida masacró a todos los gigantes,
 volvieron entonces a la casa de Egil, el cual informó que una de sus cabras
 había muerto, así volvieron a la casa de Aegir y ya nada impidió dar la
 fiesta.
+
+.. image:: /images/thor_midgard.jpg
+	:align: center
+	:height: 1035 px
+	:width: 1600 px
+	:scale: 50 %
 
 Sleipnir
 ----------
@@ -160,6 +169,13 @@ martillo, Mjøllnir. Meses después, :ref:`Loki` volvió a Asgard donde dio a lu
 caballo de ocho patas, lo regaló a :ref:`Odín` y le dio por nombre :ref:`Sleipnir`. El
 caballo podía viajar por mar, tierra y aire y era más veloz que cualquier
 hombre o especie.
+
+.. image:: /images/sleipnir2.jpg
+	:align: center
+	:height: 682 px
+	:width: 900 px
+	:scale: 70 %
+	:target: http://akreon.deviantart.com/art/sleipnir-116366462?q=boost%3Apopular%20sleipnir&qo=0
 
 Thor en el palacio de Uthgard
 ------------------------------
@@ -261,6 +277,8 @@ encontraran ni tuvieran poder sobre ella. Y cuando :ref:`Thor` oyó esta histori
 levantó iracundo el martillo dispuesto a aplastar a Utgard y a su fortaleza, 
 pero habían desaparecido.
 
+
+
 Thor y el gigante Skrymir 
 --------------------------
 
@@ -333,6 +351,12 @@ viaje, no sin antes recomendarles que si iban a la ciudad de Utgard no se
 hicieran los bravucones, pues allí había hombres que lo empequeñecían. Y 
 cuentan que los Ases no le dijeron que esperaran volverlo a ver.
 
+.. image:: /images/thor_skymir.gif
+	:align: center
+	:height: 1036 px
+	:width: 1000 px
+	:scale: 70 %
+
 La cabellera de Sif y el tesoro de los dioses
 ----------------------------------------------
 
@@ -379,6 +403,10 @@ trató de pagar un rescate por ella, no fue aceptado.
 pero el dios tuvo una idea, podría perder su cabeza pero el cuello le 
 pertenecía. Por eso en vez de cortárselo, le cosió la boca para en el futuro 
 evitar su cháchara deslenguada.
+
+.. image:: /images/sif.jpg
+	:align: center
+
 
 El príncipe Vran
 -----------------
