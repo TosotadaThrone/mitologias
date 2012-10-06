@@ -54,7 +54,8 @@ Cultura
    modules/mitologia/snorri
    modules/mitologia/hidromiel
    modules/mitologia/tribus
-
+   modules/mitologia/cristianizacion
+   modules/mitologia/blackmetal
 
 Bibliografía
 ^^^^^^^^^^^^^^

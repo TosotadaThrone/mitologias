@@ -30,20 +30,30 @@ Los filólogos reconocen por tales a los siguientes:
 D.C., La traducción completa de los Evangelios, obras de Ulfilas, fechada en
 los alrededores del 500 D.C. Los manuscritos normandos más antiguos que se
 conservan del siglo XII y los anglosajones del siglo VII.
+
 **2.** Céltico, actualmente solo sobrevive el gaélico, galés, irlandés, lengua
 de la isla de Man y el hablado en Bretaña (Francia).
+
 **3.** Itálico, el latín, el osco y el umbrío conocidos desde el 400 a. J.C.
 cuyos descendientes modernos son el italiano, francés provenzal,
 galaicoportugués, castellano, catalán y rumano.
+
 **4.** Albanés
+
 **5.** Griego, los numerosos dialectos que se hablaron desde la antigüedad, el
 bizantino medieval y el griego moderno.
+
 **6.** Eslavo, sería el ruso, polaco checo, croata y servio.
+
 **7.** Báltico, el lituano, prusiano antiguo, letón.
+
 **8.** Armenio.
+
 **9.** Iranio, o sea el moderno osetiano, el curdo y el persa.
+
 **10.** Indico, sería el antiguo sánscrito y el prácrito, con sus modernos
 vástagos.
+
 **11.** Tojariano, una lengua extinta, con dos dialectos conocidos por antiguos
 manuscritos descubiertos, en las ruinas de las ciudades de Tarim.
 
