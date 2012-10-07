@@ -482,4 +482,59 @@ Todos los que habían sido hechizados por el monstruo volvieron a su forma
 humana, y la bella Vaitsi quedó libre. Los príncipes y sus prometidas 
 regresaron a su hogar, llevando Vran a Vaitsi como esposa. 
 
+El robo del martillo de Thor
+-----------------------------
+
+Un día al despertar :ref:`Thor` se percató de que su martillo había sido robado, 
+rápido acudió a :ref:`Loki` el que le dijo que quizás su martillo había sido raptado 
+por algún gigante. De este modo pidió prestado el traje de plumas a :ref:`Freya` y 
+partió volando al reino de los gigante, donde por efecto se encontraba su 
+martillo que había sido tomado por Thrym, el rey de los gigantes. 
+
+Este no estaba dispuesto a entregarlo a menos que se le diera a Freya como 
+esposa. Loki ideó un plan, que consistía en disfrazar a Thor con la ropa y el 
+collar de Freya y colocarle un velo en la cara.Una vez en la tierra de los 
+gigantes, Thrym ofreció un banquete en honor a su boda y al concretarse el 
+matrimonio Thor se desprendió de su disfraz y agarró el martillo, Thrym 
+suplicó piedad pero Thor no lo escuchó. El salón se llenó de truenos y 
+relámpagos y Thor con su martillo dió muerte a Thrym y a los demás gigantes.
+
+Odín y Mimer
+-------------
+En el canto de Vegtam, :ref:`Odín` va a ver a :ref:`Hel`, y pide a la profetisa que le 
+muestre la suerte de su hijo :ref:`Balder`, pide también consejo a los manantiales 
+más alejados del océano y escucha la voz del abismo. Algunos mitos hablan de 
+:ref:`Odín` que deja su ojo en prenda a Mimer, otros relatan su conversación con la 
+cabeza de Mimer.
+
+La nueva Edda, tras haber dicho que la fuente de Mimer está situada bajo la 
+raíz del árbol del mundo, :ref:`Yggdrasil`, que se extiende hacia :ref:`Jötunheim`, añade 
+que la sabiduría y el espíritu están allí ocultos y que Odín un día fue a ver 
+a Mimer y le pidió que le dejase beber del agua de la fuente. Consiguió beber, 
+pero tuvo que dejar uno de sus ojos en prenda.
+
+El :ref:`Völuspá` se refiere a eso así:
+
+	Estaba sentada aparte sola,(la Vala o profetisa)
+	Cuando llegó este anciano
+	Príncipe temido de los Dioses
+	Y miró su ojo.
+	La Vala dijo a Odín:
+	¿Qué querías preguntarme?
+	¡Odín! lo sé todo,
+	Sé donde has hundido tu ojo
+	En la pura fuente de Mimer.
+	Cada mañana Mimer, bebe hidromiel
+	De la prenda de Valfödr.
+	¿Ya lo comprendéis, o qué?
+
+El ojo de :ref:`Odín` es el sol. La fuente de Mimer es el manantial más alejado del 
+océano. El ojo de :ref:`Odín`, el sol, se hunde cada anochecer en el océano para 
+buscar los secretos del abismo, y cada mañana Mimer bebe el hidromiel castaño 
+dorado (la aurora). Cuando el alba colorea el mar de escarlata y carmesí, la 
+blanca fuente de Mimer se convierte en dorada hidromiel; es entonces cuando 
+Mimer, el guardián de la fuente de la ciencia, bebe en su cuerno de oro el 
+claro hidromiel que se escapa de la prenda de :ref:`Odín`.
+
+
 
