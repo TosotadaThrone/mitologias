@@ -56,6 +56,7 @@ Cultura
    modules/mitologia/tribus
    modules/mitologia/cristianizacion
    modules/mitologia/blackmetal
+   modules/mitologia/diccionario
 
 Bibliografía
 ^^^^^^^^^^^^^^
