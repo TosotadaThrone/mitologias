@@ -279,81 +279,252 @@ Curiosidades de los pueblos nórdicos
 
 ¿Eras consciente de que...
 
-* por mucho que se les represente así, los vikingos no llevaban cuernos en los cascos? 
-* los nombres de los días de la semana en inglés derivan de los dioses vikingos? 
-* uno de los vikingos más sanguinarios llegaría a ser nombrado santo? 
-* la mayor parte del año se dedicaban a cuidar de sus granjas? 
-* la película El guerrero nº13 cuenta en parte un hecho real? 
-* usaban monedas de otros países por su peso en plata? 
-* a los trece años ya se les consideraba adultos? 
-* la peor condena en un juicio era el destierro? 
-* la vestimenta no tenía bolsillos ni botones? 
+* por mucho que se les represente así, los vikingos no llevaban cuernos en los cascos?
+* los nombres de los días de la semana en inglés derivan de los dioses vikingos?
+* uno de los vikingos más sanguinarios llegaría a ser nombrado santo?
+* la mayor parte del año se dedicaban a cuidar de sus granjas?
+* la película El guerrero nº13 cuenta en parte un hecho real?
+* usaban monedas de otros países por su peso en plata?
+* a los trece años ya se les consideraba adultos?
+* la peor condena en un juicio era el destierro?
+* la vestimenta no tenía bolsillos ni botones?
 * llegaron a América en el año 1000?
-* durante el verano y el otoño debían almacenar toda la comida que iban a necesitar para el invierno? 
-* un cronista persa escribió que los vikingos eran "las criaturas más sucias que jamás creó Dios"? 
-* el actual idioma islandés es el más parecido a la lengua que hablaban los vikingos? 
-* hay muchas canciones de heavy metal inspiradas en temas vikingos? 
-* sus rutas comerciales fueron las más grandes de su tiempo? 
-* las mujeres vikingas tenían derecho a solicitar el divorcio? 
-* el universo vikingo estaba formado por nueve mundos? 
-* no se sabe el origen exacto de la palabra vikingo? 
-* entre ellos solían llamarse por el apodo? 
-* las bodas las decidían los padres? 
-* Eric el Rojo colonizó Groenlandia tras ser exiliado de Islandia por haber cometido un crimen? 
-* en los países nórdicos a la Navidad se le sigue llamando Jule, tal como hacían los vikingos? 
-* Thorsteinn (Piedra de Thor) es el nombre que más aparece en la historia vikinga? 
-* el barco de Gostad es el más grande de los barcos rescatados hasta ahora? 
-* sus barcos de guerra eran los más rápidos y manejables de su tiempo? 
-* Abderramán I mandó desde Al-Andalus una embajada a Dinamarca? 
-* había unos guerreros especiales a los que llamaban "berserkers"? 
-* Odín, el dios principal, perdió un ojo a cambio de la sabiduría? 
-* las decisiones comunitarias las tomaban en una Asamblea? 
+* durante el verano y el otoño debían almacenar toda la comida que iban a necesitar para el invierno?
+* un cronista persa escribió que los vikingos eran "las criaturas más sucias que jamás creó Dios"?
+* el actual idioma islandés es el más parecido a la lengua que hablaban los vikingos?
+* hay muchas canciones de heavy metal inspiradas en temas vikingos?
+* sus rutas comerciales fueron las más grandes de su tiempo?
+* las mujeres vikingas tenían derecho a solicitar el divorcio?
+* el universo vikingo estaba formado por nueve mundos?
+* no se sabe el origen exacto de la palabra vikingo?
+* entre ellos solían llamarse por el apodo?
+* las bodas las decidían los padres?
+* Eric el Rojo colonizó Groenlandia tras ser exiliado de Islandia por haber cometido un crimen?
+* en los países nórdicos a la Navidad se le sigue llamando Jule, tal como hacían los vikingos?
+* Thorsteinn (Piedra de Thor) es el nombre que más aparece en la historia vikinga?
+* el barco de Gostad es el más grande de los barcos rescatados hasta ahora?
+* sus barcos de guerra eran los más rápidos y manejables de su tiempo?
+* Abderramán I mandó desde Al-Andalus una embajada a Dinamarca?
+* había unos guerreros especiales a los que llamaban "berserkers"?
+* Odín, el dios principal, perdió un ojo a cambio de la sabiduría?
+* las decisiones comunitarias las tomaban en una Asamblea?
 * fueron el último pueblo en usar la escritura rúnica?
-* en todas las tumbas y en todos los lugares donde estuvieron los vikingos se han encontrado peines de hueso? 
-* era una descortesía dejar de comer y beber mientras al invitado se les estuviese sirviendo en un banquete? 
-* después del Ragnarök (el Crepúsculo de los dioses o fin del mundo) sólo sobreviviría una pareja humana? 
-* a la piedra rúnica de Jelling se le considera como el certificado de bautismo más grande del mundo? 
-* Egil Skallagrimson, considerado como el escaldo más importante, salvó su vida con una poesía? 
-* el emperador de Bizancio contrató guerreros vikingos para formar su propia guardia? 
-* en 1013 el rey danés Svein Barbapartida conquistó Inglaterra y se hizo coronar? 
-* el padre tenía la prerrogativa de aceptar o no a su hijo recién nacido? 
-* usaban cuervos para orientarse cuando se perdían en alta mar? 
+* en todas las tumbas y en todos los lugares donde estuvieron los vikingos se han encontrado peines de hueso?
+* era una descortesía dejar de comer y beber mientras al invitado se les estuviese sirviendo en un banquete?
+* después del Ragnarök (el Crepúsculo de los dioses o fin del mundo) sólo sobreviviría una pareja humana?
+* a la piedra rúnica de Jelling se le considera como el certificado de bautismo más grande del mundo?
+* Egil Skallagrimson, considerado como el escaldo más importante, salvó su vida con una poesía?
+* el emperador de Bizancio contrató guerreros vikingos para formar su propia guardia?
+* en 1013 el rey danés Svein Barbapartida conquistó Inglaterra y se hizo coronar?
+* el padre tenía la prerrogativa de aceptar o no a su hijo recién nacido?
+* usaban cuervos para orientarse cuando se perdían en alta mar?
 * la "era vikinga" comenzó y terminó en Inglaterra?
 
 
 Nombres y apodos nórdicos
 ---------------------------
-Normalmente, los niños vikingos recibían el nombre de un familiar fallecido 
-recientemente, porque se suponía que así recibiría algunas de las 
+Normalmente, los niños vikingos recibían el nombre de un familiar fallecido
+recientemente, porque se suponía que así recibiría algunas de las
 características de aquella persona.
 
-También hay que tener en cuenta que en casi todas las sociedades paganas, el 
-nombre es parte de la personalidad del individuo, por lo que suele representar 
-alguna peculiaridad espiritual. Para algunos, el alma, tras dejar el cuerpo, 
-mantenía su nombre, por lo que poner dicho nombre a un recién nacido hacía que 
-ese alma tomase ese nuevo cuerpo dentro de la propia familia, o al menos que 
+También hay que tener en cuenta que en casi todas las sociedades paganas, el
+nombre es parte de la personalidad del individuo, por lo que suele representar
+alguna peculiaridad espiritual. Para algunos, el alma, tras dejar el cuerpo,
+mantenía su nombre, por lo que poner dicho nombre a un recién nacido hacía que
+ese alma tomase ese nuevo cuerpo dentro de la propia familia, o al menos que
 la personalidad espiritual de aquel tuviese una continuidad.
 
-Claro que, al nacer, el bebé tenían que pasar una especie de exámen físico muy 
-importante por parte del padre, que, si le encontraba algún defecto, tenía la 
-opción de rechazarlo y exponerlo, lo que significaba dejarlo a la intemperie 
+Claro que, al nacer, el bebé tenían que pasar una especie de exámen físico muy
+importante por parte del padre, que, si le encontraba algún defecto, tenía la
+opción de rechazarlo y exponerlo, lo que significaba dejarlo a la intemperie
 por la noche para que muriese.
 
-Si pasaba la inspección, el padre lo tomaba en sus brazos y echaban agua sobre 
-él (no en el sentido cristiano del bautismo, que recibió en los países 
-nórdicos el nombre de skirn o purificación). Después, el padre le hacía el 
-signo de Thor, invocando la protección de este dios, y le daba el nombre, 
-terminando la ceremonia con los regalos de los asistentes. Ya era oficialmente 
+Si pasaba la inspección, el padre lo tomaba en sus brazos y echaban agua sobre
+él (no en el sentido cristiano del bautismo, que recibió en los países
+nórdicos el nombre de skirn o purificación). Después, el padre le hacía el
+signo de Thor, invocando la protección de este dios, y le daba el nombre,
+terminando la ceremonia con los regalos de los asistentes. Ya era oficialmente
 un miembro de la familia.
 
-El apellido se formaría con el nombre del padre (en algunos casos islandeses 
-es el nombre de la madre) y el sufijo genitivo son o dottir (hijo/a de). 
-Años más tarde, recibiría un heiti o apodo. Este podría ser el mismo que tenía 
-su padre u otro que reflejase sus características físicas, costumbres, 
+El apellido se formaría con el nombre del padre (en algunos casos islandeses
+es el nombre de la madre) y el sufijo genitivo son o dottir (hijo/a de).
+Años más tarde, recibiría un heiti o apodo. Este podría ser el mismo que tenía
+su padre u otro que reflejase sus características físicas, costumbres,
 temperamento, profesión, lugar de origen, etc.
 
-Había ocasiones en que se realizaba una ceremonia especial para dar 
-oficialmente el apodo a alguien. Obviamente, ese apodo reflejaba algún tipo de 
-hazaña, como seguramente ocurrió cuando al hijo de Erik el Rojo, Leif, le 
-llamaron el Afortunado al regresar de Vinland. Sería interesante saber qué 
+Había ocasiones en que se realizaba una ceremonia especial para dar
+oficialmente el apodo a alguien. Obviamente, ese apodo reflejaba algún tipo de
+hazaña, como seguramente ocurrió cuando al hijo de Erik el Rojo, Leif, le
+llamaron el Afortunado al regresar de Vinland. Sería interesante saber qué
 hizo exactamente el rey noruego Erik para que le llamasen Hachasangrienta.
+
+
+Nombres
+^^^^^^^^
+
++------------------------+------------------------+
+| **Nombres Masculinos** |  **Nombres Femeninos** |
++------------------------+------------------------+
+|Alf                     |        Alfdis          |
++------------------------+------------------------+
+|Ari                     |        Arnbjorg        |
++------------------------+------------------------+
+|Asbjorn                 |        Arndis          |
++------------------------+------------------------+
+|Asgeir                  |        Arngerdur       |
++------------------------+------------------------+
+|Atli                    |        Arnkatla        |
++------------------------+------------------------+
+|Bersi                   |        Arnleif         |
++------------------------+------------------------+
+|BjarniÝ                 |        Asdis           |
++------------------------+------------------------+
+|BjornÝ                  |        Asgerdur        |
++------------------------+------------------------+
+|Egil                    |        Asleif          |
++------------------------+------------------------+
+|Einarr                  |        Audhildr        |
++------------------------+------------------------+
+|Erik                    |        Audr            |
++------------------------+------------------------+
+|Eysteinn                |        Bera            |
++------------------------+------------------------+
+|Finn                    |        Bergdora        |
++------------------------+------------------------+
+|Finnbogi                |        Bergljot        |
++------------------------+------------------------+
+|Flosi                   |        Dalla           |
++------------------------+------------------------+
+|Gardar                  |        Droplaug        |
++------------------------+------------------------+
+|Grim                    |        Ellisif         |
++------------------------+------------------------+
+|Gunnar                  |        Finna           |
++------------------------+------------------------+
+|Gunnjorn                |        Fjorleif        |
++------------------------+------------------------+
+|Gunnsteinn              |        Frakokk         |
++------------------------+------------------------+
+|Hakon                   |        Freydis         |
++------------------------+------------------------+
+|Harald                  |        Geirhildr       |
++------------------------+------------------------+
+|Harek                   |        Geirlaug        |
++------------------------+------------------------+
+|Helgi                   |        Goi             |
++------------------------+------------------------+
+|Hrafnkell               |        Gunnhildur      |
++------------------------+------------------------+
+|Ivar                    |        Hallbjorg       |
++------------------------+------------------------+
+|Jon                     |        Halldora        |
++------------------------+------------------------+
+|Karl                    |        Hallbera        |
++------------------------+------------------------+
+|Ketill                  |        Hallkatla       |
++------------------------+------------------------+
+|Kodran                  |        Hallveig        |
++------------------------+------------------------+
+|Kolbeinn                |        Helga           |
++------------------------+------------------------+
+|Kolli                   |        Herboga         |
++------------------------+------------------------+
+|Oddi                    |        Herdis          |
++------------------------+------------------------+
+|Olafur                  |        Hvarflöd        |
++------------------------+------------------------+
+|Olaf                    |        Ingibjorg       |
++------------------------+------------------------+
+|Orn                     |        Ingigerd        |
++------------------------+------------------------+
+|Ottar                   |        Ingunn          |
++------------------------+------------------------+
+|Sigmund                 |        Isgerdur        |
++------------------------+------------------------+
+|Sigurd                  |        Jaddvor         |
++------------------------+------------------------+
+|Skuli                   |        Jarngerdur      |
++------------------------+------------------------+
+|Snorri                  |        Jora            |
++------------------------+------------------------+
+|SolviÝ                  |        Otkatla         |
++------------------------+------------------------+
+|Steinn                  |        Ragna           |
++------------------------+------------------------+
+|Sturla                  |        Ragnhildr       |
++------------------------+------------------------+
+|Styrmir                 |        Rannveig        |
++------------------------+------------------------+
+|Sveinbjörn              |        Rjupa           |
++------------------------+------------------------+
+|Thorberg                |        Sigridur        |
++------------------------+------------------------+
+|Thorbjorn               |        Sigrir          |
++------------------------+------------------------+
+|Thorbran                |        Torfa           |
++------------------------+------------------------+
+|Thorfinn                |        Thordis         |
++------------------------+------------------------+
+|Thorgeir                |        Thorey          |
++------------------------+------------------------+
+|Thorgils                |        Thorhildur      |
++------------------------+------------------------+
+|Thorgrimr               |        Thorhildur      |
++------------------------+------------------------+
+|Thorir                  |        Thorlaug        |
++------------------------+------------------------+
+|Thorkell                |        Thorlot         |
++------------------------+------------------------+
+|Thorlak                 |        Valdis          |
++------------------------+------------------------+
+|Thorleif                |        Vidgis          |
++------------------------+------------------------+
+|Thorsteinn              |        Vilborg         |
++------------------------+------------------------+
+|Thorvald                |                        |
++------------------------+------------------------+
+|Torfi                   |                        |
++------------------------+------------------------+
+|Ulf                     |                        |
++------------------------+------------------------+
+|Vestein                 |                        |
++------------------------+------------------------+
+
+Apodos
+^^^^^^^
+
++------------------------+------------------------------+
+|   **Apodos**           | **Vikingos Célebres**        |
++------------------------+------------------------------+
+|audgi (rico)            | Erik el Rojo                 |
++------------------------+------------------------------+
+|durs (gigante)          | Leif el Afortunado           |
++------------------------+------------------------------+
+|frodi (sabio)           | Gaulag Lengua de Víbora      |
++------------------------+------------------------------+
+|gamli (viejo)           | Harald Diente Azul           |
++------------------------+------------------------------+
+|godi (sacerdote)        | Harald el Despiadado         |
++------------------------+------------------------------+
+|hersir (jefe)           | Harald el Buenospelos        |
++------------------------+------------------------------+
+|hviti (blanco)          | Grim el Calvo                |
++------------------------+------------------------------+
+|kappi (campeón)         | Knut el Grande               |
++------------------------+------------------------------+
+|kraka (cuervo)          | Bjorn Costilla de Hierro     |
++------------------------+------------------------------+
+|mikli (grande)          | Ottar el Negro               |
++------------------------+------------------------------+
+|mjöksiglandi (viajero)  | Erik Hachasangrienta         |
++------------------------+------------------------------+
+|raudi (rojo)            | Onund el Vidente             |
++------------------------+------------------------------+
+|smidur (herrero)        | Ragnar Calzaspeludas         |
++------------------------+------------------------------+
+|spaki (sabio)           | Hakon el Viejo               |
++------------------------+------------------------------+
+|sterki (fuerte)         | Hrolf el Caminante           |
++------------------------+------------------------------+
+|svarti (negro)          | Olaf el Blanco               |
++------------------------+------------------------------+
