@@ -191,3 +191,14 @@ otros estilos.
 
 .. image:: /images/futhark.jpg
     :align: center
+
+
+Fehu
+^^^^^^^
+
+.. image:: /images/runas/
+
+
+.. note::
+    La información de cada runa ha sido obtenida de:
+    http://tarot.lapipadelindio.com/adivinacion/runas/significado-representacion-runas-vikingas
