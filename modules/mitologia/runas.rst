@@ -193,10 +193,247 @@ otros estilos.
     :align: center
 
 
-Fehu
+Fehu/Feor
+^^^^^^^^^^
+
+.. image:: /images/runas/fehu.jpg
+
+Es símbolo de riqueza adquirida, algo que se ha de alcanzar mediante el
+trabajo y el esfuerzo.
+
+Es runa de recompensa, algo por lo que se ha luchado y se va a tener por fin
+al alcance de la mano.
+
+Es tiempo de logros, recompensas, amor… Los logros aunque materiales, son más
+emocionales.
+
+Se debe mantener una actitud sensata para conservar lo ganado. Fehu ayuda a
+consolidar lo comenzado, pero recuerda que si se recibe hay que dar, esa es la
+ley. Las riquezas materiales y espirituales son un medio a utilizar
+debidamente. No un fin.
+
+Invertida. -Problemas, frustración pérdidas, pruebas de todo tipo. Pérdidas de
+trabajo, posición, de empleo, de objetivos, de bienes materiales. Los planes
+que se tienen en ese momento deben ser abandonados o postergados. Fehu
+invertida advierte para estar en guardia, las situaciones imprevistas llegan y
+hay que poner mucha atención. Evitar el materialismo superfluo y cultivar la
+espiritualidad.
+
+Uruz/Ur
+^^^^^^^^
+
+.. image:: /images/runas/uruz.jpg
+
+Cambios, transición. Es necesario dejar atrás lo que ya no vale sin duelos.
+Sólo así se podrá lograr lo nuevo. Todo comienzo requiere sacrificios, pero el
+resultado será satisfactorio.
+
+Presagia mudanzas, buena salud. Representa lo masculino. Es libertad, aquello
+que no puede domesticarse ni someterse, Llega el fin de una etapa y se ha de
+dominar lo interno, para poder dominar lo externo.
+
+Invertida. -Alerta, atención. se advierte que las oportunidades se dejan
+escapar. Es fundamental romper con el pasado y no dejarse llevar por el miedo,
+para que todo cambie uno mismo debe cambiar. Una personalidad más fuerte
+influye negativamente. Inmadurez y crueldad se utilizan como máscara de
+inseguridad.
+
+
+Thor/Thurisaz
+^^^^^^^^^^^^^^
+
+.. image:: /images/runas/thurisaz.jpg
+
+Vaticina un golpe inesperado de buena suerte, es estar en el momento justo en
+el lugar adecuado.
+
+Profundas fuerzas de transformación personal están actuando. Representa la
+espina que sale del tronco. Con esta runa, llegarán buenas noticias de la
+lejanía o viajes a través del mar. Es momento de hacer balance de la vida y
+del pasado, para poder desechar lo que no vale y poder guardar las
+experiencias de la vida que son las que hacen evolucionar.
+
+Invertida. -No se escuchan los consejos por estar demasiado seguro de uno
+mismo. La suerte no esta de cara y es necesario tener mucha cautela y
+precaución. Si no se actúa con cuidado sólo vendrán malas noticias. Apatía
+para afrontar lo desconocido. No se puede ser maestro sin haber sido alumno.
+
+An/Ansuz
+^^^^^^^^^
+
+.. image:: /images/runas/ansuz.jpg
+
+Se presentan situaciones con las que uno no se había encontrado antes. Algo
+está naciendo.
+
+Tiempo de mensajes, regalos. señales y bendiciones que se deben aprovechar. En
+estos momentos se debe escuchar en vez de hablar y aprender en vez de enseñar.
+
+Bajo el influjo de Ansuz se reciben consejos desinteresados y presencias o
+noticias de seres de la lejanía. Cuando esta runa aparece, los acontecimientos
+están en manos del destino.
+
+Invertida. -Advierte de mentiras, embustes y engaños. No se debe creer todo lo
+que cuentan y se ha de procurar disponer de una segunda opinión, siempre que
+haya dudas. Existe un rechazo a aprender las lecciones de la vida. para que
+cambie el exterior es necesario que cambie el interior.
+
+Lo que ayer sirvió puede ser inútil hoy, hay que adaptarse a las nuevas
+circunstancias.
+
+Raz/Raido
+^^^^^^^^^^
+
+.. image:: /images/runas/raidha.jpg
+
+Indica viajes y movimiento. Los viajes normalmente son de placer, aunque
+también pueden ser del alma. Es momento de hacer un viaje interior y si ya se
+ha hecho, perseverar.
+
+Se ha de buscar el equilibrio entre la materia y el espíritu. No se debe
+pensar en lo que no se tiene, sino dar las
+gracias por lo obtenido. Raido habla de viajes seguros, buenos, alegres y
+satisfactorios.
+
+Negociaciones donde todas las partes llegan a acuerdos.
+
+Invertida. -Problemas transitorios como retrasos, averías, si es posible
+retrasar un viaje. Ciertos resultados que se esperaban no llegan. Los
+obstáculos que se producen a la larga serán beneficiosos, pero hay que saber
+esperar. Es necesario emplear la intuición.
+
+Ken/Kano
+^^^^^^^^^^
+
+.. image:: /images/runas/kano1.jpg
+
+Representa los caminos que se abren. Es fuerza, energía y poder. Símbolo de
+buena salud y capacidad de recuperación. Esta runa es muy significativa para
+los artistas y los artesanos ya que es runa de creatividad. Se encuentra ayuda.
+
+Representa el padre para el hijo, el profesor para el alumno, el empleador
+para el empleado etc.. En general es señal de buena suerte.
+
+Invertida. -Caminos que se cierran, fin, término, ruptura. En na relación
+amorosa representa a dos personas que han recorrido un camino juntas y ya no
+tienen nada que aportarse. Se está en la más completa oscuridad, pero pronto
+llegará la luz. Los guías interiores ayudarán a despejar las dudas.
+
+Hagal/Hagalaz
+^^^^^^^^^^^^^^
+
+.. image:: /images/runas/hagalaz.jpg
+
+Significa granizo y es una runa que trae limitaciones y retrasos. representa
+las fuerzas que hay fuera de nuestro control. Indica que no es momento de
+comenzar nada. Las demoras y limitaciones son necesarias y no se debe luchar
+contra el destino.
+
+Es necesaria una ruptura con todo lo anterior que ya no sirve. no se debe
+llorar por lo que se ha perdido, hay que seguir adelante. La vida se debe
+encarar desde una perspectiva mas positiva. Anuncia avisos legales.
+
+La vida no es una garantía sino un camino a recorrer. Hagalaz simboliza el
+destino actuando, que empuja y no se puede parar. Cuando Hagalaz sale en una
+tirada nada es trivial, es una destrucción absoluta para que todo pueda
+renacer de nuevo completamente transformado.
+
+Niz/Nauthiz/Nied
+^^^^^^^^^^^^^^^^^
+
+.. image:: /images/runas/nauthiz.jpg
+
+Es runa de aplazamiento y por ello aconseja paciencia. Por muy graves que
+parezcan los problemas, todo pasará a su debido tiempo y ni los agobios, ni la
+precipitación conseguirán que pase antes.
+
+Nied se conoce como ” el cruce del abismo” y sulel aparecer cuando se ha de
+pasar una etapa de esfuerzos emocionales grandes. Aceptando los problemas se
+aprende mucho y se evoluciona. en estos momentos los deseos no coinciden con
+las necesidades.
+
+Es necesario plantear si realmente hay un problema o sólo preocupaciones
+egoístas por pequeñeces. Las limitaciones son sólo momentáneas. Es necesario
+hacer una limpieza en el fondo del ser y así consolidar la voluntad,
+comenzando por lo más difícil y continuando por lo más fácil.
+
+Las detenciones de Nied son beneficiosas pues el tiempo está a favor.
+
+Is/Isa
 ^^^^^^^
 
-.. image:: /images/runas/
+.. image:: /images/runas/isa.jpg
+
+Representa un cese en las actividades, una congelación. Todos los planes deben
+pararse para emprenderlos en una ocasión más propicia. Es un período de
+gestación que pide paciencia, por el momento todo está congelado.
+
+En Isa se encuentra la vida encerrada en la semilla que está bajo la
+nieve, hay que esperar que se funda para que la vida vuelva a resurgir. Es una
+runa femenina y pasiva, es como la naturaleza en invierno, todos los campos
+cubiertos de nieve, pero no por ello muertos.
+
+El sol del nuevo día está próximo y su luz despertará los sentidos.
+
+Jara/Gera
+^^^^^^^^^^^
+
+.. image:: /images/runas/jera.jpg
+
+Esta runa significa cosecha y significa la obtención de la recompensa por los
+esfuerzos realizados, el premio puede ser kármico. Advierte de no hablar de
+otras personas antes de conocer todos los datos. Las cosas deben dar su fruto
+a su debido tiempo. El tiempo de recoger es un año. es una runa benéfica en
+todos los aspectos de la vida, a la vez que da coraje para afrontar los
+problemas.
+
+Con runas de amor presagia casamiento. Hay que dejarse aconsejar por los más
+sabios, de más edad o con más experiencia. Se debe trabajar con constancia y
+no se debe empujar el tiempo dirigiendo bien las energías, para poder alcanzar
+el éxito.
+
+Ir/Eiwaz/Eoh/Iyuz
+^^^^^^^^^^^^^^^^^^
+
+.. image:: /images/runas/ehwaz1.jpg
+
+Es una runa protectora y significa que los objetivos marcados son razonables y
+se pueden alcanzar. Se producirán cambios a mejor. Las dificultades se
+salvarán con perseverancia, mirando siempre al frente.
+
+Eiwaz proporciona defensa frente al peligro. El control de los nervios y las
+ansiedades de hoy, permitirán futuros logros. Es tiempo de trabajar, poner en
+claro la mente y sobre todo tener fe.
+
+Los fantasmas del pasado acosan y es necesario superarlos para poder progresar
+y no obcecarse siempre en lo mismo. gracias a las dudas y vacilaciones se
+reafirman las posturas y se aclaran los pensamientos.
+
+Perdro, Peorth
+^^^^^^^^^^^^^^^
+
+.. image:: /images/runas/perth.jpg
+
+Esta runa tiene que ver con las cosas escondidas, los secretos y las
+facultades ocultas. Saldrá a la luz algo que estaba oculto hacía mucho tiempo.
+suele ser positivo, una nueva posibilidad o el reencuentro con algo que se
+creía perdido. es una runa sagrada y de misterio e indica que el consultante
+posee una gran intuición. Algunos asuntos se resuelven mágicamente.
+
+Las fuerzas del más allá están actuando y es necesario dar las gracias por la
+ayuda recibida. A nivel interno se verán claras las limitaciones y se
+comprenderá el camino que se ha de realizar y por qué se ha de
+realizar. Esta runa indica comienzo e iniciación.
+
+Invertida. -Habrá sorpresas y secretos desagradables. Advierte de disgustos
+sobre todo a nivel financiero. No se debe prestar dinero o costará mucho
+recuperarlo. No se debe desperdiciar el presente llorando por el pasado, ni
+luchar contra las fuerzas que están actuando.
+
+A veces indica la
+muerte de alguien cercano. No se deben hacer incursiones imprudentes en las
+fuerzas ocultas. Con runas negativas indica un que puede existir un trabajo de
+magia, drogas, narcóticos, etc.
 
 
 .. note::
